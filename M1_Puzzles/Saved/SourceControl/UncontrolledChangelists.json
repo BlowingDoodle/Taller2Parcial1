@@ -6,9 +6,15 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/munte/OneDrive/Documents/GitHub/Taller2Parcial1/M1_Puzzles/Content/Blueprints/BP_Player.uasset",
-				"C:/Users/munte/OneDrive/Documents/GitHub/Taller2Parcial1/M1_Puzzles/Content/Levels/L_Test.umap",
 				"C:/Users/munte/OneDrive/Documents/GitHub/Taller2Parcial1/M1_Puzzles/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/munte/OneDrive/Documents/GitHub/Taller2Parcial1/M1_Puzzles/Content/Levels/L_Test_Level.umap",
+				"C:/Users/munte/OneDrive/Documents/GitHub/Taller2Parcial1/M1_Puzzles/Content/Blueprints/Slab_Puzzle/BI_PuzzleComm.uasset",
+				"C:/Users/munte/OneDrive/Documents/GitHub/Taller2Parcial1/M1_Puzzles/Content/Blueprints/Slab_Puzzle/BP_PuzzleSlab.uasset",
+				"C:/Users/munte/OneDrive/Documents/GitHub/Taller2Parcial1/M1_Puzzles/Content/Blueprints/Slab_Puzzle/BP_Slab_PuzzleManager.uasset",
+				"C:/Users/munte/OneDrive/Documents/GitHub/Taller2Parcial1/M1_Puzzles/Content/Blueprints/BP_Slab_PuzzleManager.uasset",
+				"C:/Users/munte/OneDrive/Documents/GitHub/Taller2Parcial1/M1_Puzzles/Content/Blueprints/BP_PuzzleSlab.uasset",
+				"C:/Users/munte/OneDrive/Documents/GitHub/Taller2Parcial1/M1_Puzzles/Content/Blueprints/BI_PuzzleComm.uasset",
+				"C:/Users/munte/OneDrive/Documents/GitHub/Taller2Parcial1/M1_Puzzles/Content/Levels/L_Test.umap",
 				"C:/SergioHdz/Escuela/TallerVideojuegos/Puzzles/Taller2Parcial1/M1_Puzzles/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
