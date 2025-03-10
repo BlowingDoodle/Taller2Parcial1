@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/munte/OneDrive/Documents/GitHub/Taller2Parcial1/M1_Puzzles/Content/Blueprints/BP_Player.uasset",
+				"C:/Users/munte/OneDrive/Documents/GitHub/Taller2Parcial1/M1_Puzzles/Content/Levels/L_Test.umap",
+				"C:/Users/munte/OneDrive/Documents/GitHub/Taller2Parcial1/M1_Puzzles/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/munte/OneDrive/Documents/GitHub/Taller2Parcial1/M1_Puzzles/Content/Levels/L_Test_Level.umap",
 				"C:/SergioHdz/Escuela/TallerVideojuegos/Puzzles/Taller2Parcial1/M1_Puzzles/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
