@@ -1638,3 +1638,1331 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.02-16.55.50:475][615]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (3%)
 [2025.04.02-16.55.50:475][615]LogShaderCompilers: Display: Material Cache Hits: 61 (33%)
 [2025.04.02-16.55.50:475][615]LogShaderCompilers: Display: ================================================
+[2025.04.02-16.58.12:647][449]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 732.146057
+[2025.04.02-16.58.12:763][463]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.02-16.58.12:763][463]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 732.254211, Update Interval: 305.251617
+[2025.04.02-17.03.24:849][945]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1044.341553
+[2025.04.02-17.03.24:974][958]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.02-17.03.24:974][958]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1044.458252, Update Interval: 304.326904
+[2025.04.02-17.06.06:912][908]LogSlate: Took 0.000321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.04.02-17.06.08:002][920]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.04.02-17.06.51:907][716]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.04.02-17.06.51:919][716]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.04.02-17.06.51:942][717]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.04.02-17.06.59:194][187]LogContentBrowser: Attempting asset rename: NewMaterial -> MM_Landscape
+[2025.04.02-17.06.59:194][187]LogContentBrowser: End creating deferred item NewMaterial
+[2025.04.02-17.07.01:037][264]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/MM_Landscape.MM_Landscape
+[2025.04.02-17.07.01:039][264]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png' error.
+[2025.04.02-17.07.01:039][264]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png
+[2025.04.02-17.07.01:039][264]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png' error.
+[2025.04.02-17.07.01:039][264]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png
+[2025.04.02-17.07.01:039][264]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png' error.
+[2025.04.02-17.07.01:039][264]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png
+[2025.04.02-17.07.01:039][264]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png' error.
+[2025.04.02-17.07.01:039][264]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png
+[2025.04.02-17.07.01:039][264]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png' error.
+[2025.04.02-17.07.01:039][264]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png
+[2025.04.02-17.07.01:039][264]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png' error.
+[2025.04.02-17.07.01:039][264]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png
+[2025.04.02-17.07.01:039][264]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png' error.
+[2025.04.02-17.07.01:039][264]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png
+[2025.04.02-17.07.01:039][264]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png' error.
+[2025.04.02-17.07.01:039][264]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png
+[2025.04.02-17.07.01:039][264]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png' error.
+[2025.04.02-17.07.01:039][264]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png
+[2025.04.02-17.07.01:039][264]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png' error.
+[2025.04.02-17.07.01:039][264]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png
+[2025.04.02-17.07.01:039][264]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png' error.
+[2025.04.02-17.07.01:039][264]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png
+[2025.04.02-17.07.01:039][264]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png' error.
+[2025.04.02-17.07.01:039][264]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png
+[2025.04.02-17.07.01:039][264]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png' error.
+[2025.04.02-17.07.01:039][264]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png
+[2025.04.02-17.07.01:039][264]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png' error.
+[2025.04.02-17.07.01:039][264]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png
+[2025.04.02-17.07.01:039][264]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png' error.
+[2025.04.02-17.07.01:039][264]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png
+[2025.04.02-17.07.01:039][264]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png' error.
+[2025.04.02-17.07.01:040][264]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png
+[2025.04.02-17.07.01:040][264]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png' error.
+[2025.04.02-17.07.01:040][264]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png
+[2025.04.02-17.07.01:040][264]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png' error.
+[2025.04.02-17.07.01:040][264]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png
+[2025.04.02-17.07.01:040][264]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png' error.
+[2025.04.02-17.07.01:040][264]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png
+[2025.04.02-17.07.01:040][264]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png' error.
+[2025.04.02-17.07.01:040][264]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png
+[2025.04.02-17.07.01:040][264]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png' error.
+[2025.04.02-17.07.01:040][264]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png
+[2025.04.02-17.07.01:040][264]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png' error.
+[2025.04.02-17.07.01:040][264]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png' error.
+[2025.04.02-17.07.01:040][264]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png
+[2025.04.02-17.07.01:040][264]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png' error.
+[2025.04.02-17.07.01:040][264]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png
+[2025.04.02-17.07.01:040][264]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png' error.
+[2025.04.02-17.07.01:040][264]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png
+[2025.04.02-17.07.01:040][264]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png
+[2025.04.02-17.07.01:040][264]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png' error.
+[2025.04.02-17.07.01:040][264]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png' error.
+[2025.04.02-17.07.01:040][264]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png
+[2025.04.02-17.07.01:040][264]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png' error.
+[2025.04.02-17.07.01:040][264]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png
+[2025.04.02-17.07.01:040][264]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png
+[2025.04.02-17.07.01:046][264]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.04.02-17.07.01:102][264]LogStreaming: Display: FlushAsyncLoading(364): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.02-17.07.01:966][264]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.02-17.07.01:966][264]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.02-17.07.01:966][264]MaterialEditorStats: Shader Count: 0
+[2025.04.02-17.07.01:966][264]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.02-17.07.01:975][264]LogSlate: Took 0.000346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.04.02-17.07.02:172][266]MaterialEditorStats: Base pass shader: 164 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.04.02-17.07.02:172][266]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.02-17.07.02:172][266]MaterialEditorStats: Texture samplers: 1/16
+[2025.04.02-17.07.02:172][266]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.02-17.07.02:172][266]MaterialEditorStats: Shader Count: 5
+[2025.04.02-17.07.02:172][266]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.02-17.07.18:164][877]LogStreaming: Display: FlushAsyncLoading(368): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.02-17.07.18:164][877]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.MM_Tarea2'"'
+[2025.04.02-17.07.18:165][877]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureCoordinate'MaterialGraphNode_66.MaterialExpressionTextureCoordinate_1'")'
+[2025.04.02-17.07.18:165][877]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionScalarParameter'MaterialGraphNode_68.MaterialExpressionScalarParameter_1'")'
+[2025.04.02-17.07.18:165][877]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.MM_Tarea2'"'
+[2025.04.02-17.07.18:166][877]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.MM_Tarea2'"'
+[2025.04.02-17.07.18:187][877]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.02-17.07.18:187][877]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.02-17.07.18:187][877]MaterialEditorStats: Shader Count: 0
+[2025.04.02-17.07.18:187][877]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.02-17.07.18:266][879]MaterialEditorStats: Base pass shader: 166 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.04.02-17.07.18:266][879]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.02-17.07.18:267][879]MaterialEditorStats: Texture samplers: 1/16
+[2025.04.02-17.07.18:267][879]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.02-17.07.18:267][879]MaterialEditorStats: Shader Count: 5
+[2025.04.02-17.07.18:267][879]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.02-17.07.33:858][748]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.02-17.07.33:858][748]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.02-17.07.33:858][748]MaterialEditorStats: Shader Count: 0
+[2025.04.02-17.07.33:858][748]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.02-17.07.33:967][750]MaterialEditorStats: Base pass shader: 164 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.04.02-17.07.33:967][750]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.02-17.07.33:967][750]MaterialEditorStats: Texture samplers: 1/16
+[2025.04.02-17.07.33:967][750]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.02-17.07.33:967][750]MaterialEditorStats: Shader Count: 5
+[2025.04.02-17.07.33:967][750]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.02-17.07.44:982][493]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_Landscape: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+
+[2025.04.02-17.07.44:994][493]MaterialEditorStats: Error: [SM6] Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+[2025.04.02-17.07.44:994][493]MaterialEditorStats: Error: [SM6] Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+[2025.04.02-17.07.44:994][493]MaterialEditorStats: Error: [SM6] Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+[2025.04.02-17.07.44:994][493]MaterialEditorStats: Error: [SM6] Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+[2025.04.02-17.07.44:994][493]MaterialEditorStats: Error: [SM6] Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+[2025.04.02-17.07.44:994][493]MaterialEditorStats: Error: [SM6] Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+[2025.04.02-17.07.44:994][493]MaterialEditorStats: Error: [SM6] Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+[2025.04.02-17.07.44:994][493]MaterialEditorStats: Error: [SM6] Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+[2025.04.02-17.07.44:994][493]MaterialEditorStats: Error: [SM6] Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+[2025.04.02-17.07.44:994][493]MaterialEditorStats: Error: [SM6] Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+[2025.04.02-17.07.44:994][493]MaterialEditorStats: Error: [SM6] Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+[2025.04.02-17.07.44:994][493]MaterialEditorStats: Error: [SM6] Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+[2025.04.02-17.07.47:542][654]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_Landscape: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+
+[2025.04.02-17.07.47:549][654]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_Landscape: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+
+[2025.04.02-17.07.48:752][716]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_Landscape: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+
+[2025.04.02-17.07.48:758][716]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_Landscape: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+
+[2025.04.02-17.07.50:169][810]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_Landscape: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+
+[2025.04.02-17.07.50:175][810]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_Landscape: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+
+[2025.04.02-17.07.54:437][ 95]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_Landscape: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+
+[2025.04.02-17.07.54:442][ 95]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_Landscape: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+
+[2025.04.02-17.08.02:534][638]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_Landscape: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+
+[2025.04.02-17.08.02:540][638]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_Landscape: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+
+[2025.04.02-17.08.08:000][990]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_Landscape: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+
+[2025.04.02-17.08.08:008][990]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_Landscape: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+
+[2025.04.02-17.08.21:406][798]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_Landscape: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+
+[2025.04.02-17.08.41:607][877]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1361.109741
+[2025.04.02-17.08.41:760][886]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.02-17.08.41:760][887]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1361.243774, Update Interval: 320.554230
+[2025.04.02-17.08.47:643][228]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.04.02-17.08.47:659][228]LogContentBrowser: Creating deferred item: NewFolder
+[2025.04.02-17.08.47:680][229]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.04.02-17.08.50:055][380]LogContentBrowser: Attempting asset rename: NewFolder -> Dirt
+[2025.04.02-17.08.50:057][380]LogContentBrowser: End creating deferred item NewFolder
+[2025.04.02-17.09.19:561][464]LogStreaming: Display: FlushAsyncLoading(371): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.02-17.09.19:590][464]LogInterchangeEngine: [Pending] Importing
+[2025.04.02-17.09.19:590][464]LogInterchangeEngine: Display: Interchange start importing source [D:/MMO Done/Landscape Materials/Ground/Ground_N.png]
+[2025.04.02-17.09.19:591][464]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.04.02-17.09.19:592][464]LogInterchangeEngine: Display: Interchange start importing source [D:/MMO Done/Landscape Materials/Ground/Ground_AO_M_H_R.png]
+[2025.04.02-17.09.19:592][464]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.04.02-17.09.19:592][464]LogInterchangeEngine: Display: Interchange start importing source [D:/MMO Done/Landscape Materials/Ground/Ground_C.png]
+[2025.04.02-17.09.19:772][466]LogStreaming: Display: FlushAsyncLoading(383): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.02-17.09.20:058][471]LogInterchangeEngine: Display: Interchange import completed [D:/MMO Done/Landscape Materials/Ground/Ground_C.png]
+[2025.04.02-17.09.20:058][471]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.04.02-17.09.20:375][484]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.04.02-17.09.20:407][484]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.04.02-17.09.20:458][485]LogInterchangeEngine: Display: Interchange import completed [D:/MMO Done/Landscape Materials/Ground/Ground_N.png]
+[2025.04.02-17.09.20:458][485]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.04.02-17.09.20:541][486]LogInterchangeEngine: Display: Interchange import completed [D:/MMO Done/Landscape Materials/Ground/Ground_AO_M_H_R.png]
+[2025.04.02-17.09.20:570][486]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.04.02-17.09.20:570][486]LogInterchangeEngine: [Success] Import Done
+[2025.04.02-17.09.22:163][558]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Dirt/Ground_N.Ground_N
+[2025.04.02-17.09.23:181][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.04.02-17.09.23:184][559]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_1' took 0.058
+[2025.04.02-17.09.23:185][559]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/MM_Landscape] ([1] browsable assets)...
+[2025.04.02-17.09.23:227][559]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/MM_Landscape.MM_Landscape]
+[2025.04.02-17.09.23:227][559]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/MM_Landscape]
+[2025.04.02-17.09.23:229][559]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Materials/MM_Landscape_Auto1
+[2025.04.02-17.09.23:229][559]LogSavePackage: Moving '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Saved/MM_Landscape_Auto1F39563164A9F411D7F40E590D5CA6BCB.tmp' to '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Saved/Autosaves/Game/Materials/MM_Landscape_Auto1.uasset'
+[2025.04.02-17.09.23:231][559]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Dirt/Ground_N] ([1] browsable assets)...
+[2025.04.02-17.09.23:234][559]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Dirt/Ground_N.Ground_N]
+[2025.04.02-17.09.23:234][559]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Dirt/Ground_N]
+[2025.04.02-17.09.23:303][559]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/Dirt/Ground_N_Auto1
+[2025.04.02-17.09.23:303][559]LogSavePackage: Moving '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Saved/Ground_N_Auto133E4D4DD45A1D3F777CD55A7429E4E20.tmp' to '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Saved/Autosaves/Game/Textures/Dirt/Ground_N_Auto1.uasset'
+[2025.04.02-17.09.23:305][559]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Dirt/Ground_AO_M_H_R] ([1] browsable assets)...
+[2025.04.02-17.09.23:308][559]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Dirt/Ground_AO_M_H_R.Ground_AO_M_H_R]
+[2025.04.02-17.09.23:308][559]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Dirt/Ground_AO_M_H_R]
+[2025.04.02-17.09.23:383][559]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/Dirt/Ground_AO_M_H_R_Auto1
+[2025.04.02-17.09.23:383][559]LogSavePackage: Moving '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Saved/Ground_AO_M_H_R_Auto1F447AF5D4D1205719891B18BD67E9B11.tmp' to '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Saved/Autosaves/Game/Textures/Dirt/Ground_AO_M_H_R_Auto1.uasset'
+[2025.04.02-17.09.23:385][559]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Dirt/Ground_C] ([1] browsable assets)...
+[2025.04.02-17.09.23:390][559]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Dirt/Ground_C.Ground_C]
+[2025.04.02-17.09.23:390][559]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Dirt/Ground_C]
+[2025.04.02-17.09.23:421][559]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/Dirt/Ground_C_Auto1
+[2025.04.02-17.09.23:421][559]LogSavePackage: Moving '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Saved/Ground_C_Auto148261F0B4F1E5554176EE1B5443FE71A.tmp' to '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Saved/Autosaves/Game/Textures/Dirt/Ground_C_Auto1.uasset'
+[2025.04.02-17.09.23:422][559]LogFileHelpers: Auto-saving content packages took 0.238
+[2025.04.02-17.09.27:113][827]LogTexture: Display: Building textures: /Game/Textures/Dirt/Ground_N.Ground_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 353.499988 MB), EncodeSpeed: Final
+[2025.04.02-17.09.27:984][892]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.02-17.09.28:057][892]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Dirt/Ground_N] ([1] browsable assets)...
+[2025.04.02-17.09.28:062][892]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Dirt/Ground_N.Ground_N]
+[2025.04.02-17.09.28:062][892]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Dirt/Ground_N]
+[2025.04.02-17.09.28:062][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Dirt/Ground_N" FILE="../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Textures/Dirt/Ground_N.uasset" SILENT=true
+[2025.04.02-17.09.28:202][892]LogSavePackage: Moving output files for package: /Game/Textures/Dirt/Ground_N
+[2025.04.02-17.09.28:202][892]LogSavePackage: Moving '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Saved/Ground_NC0AB3103421B6C4E8D030E83D7D0E927.tmp' to '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Textures/Dirt/Ground_N.uasset'
+[2025.04.02-17.09.28:246][892]LogFileHelpers: InternalPromptForCheckoutAndSave took 262.790 ms (total: 1.60 sec)
+[2025.04.02-17.09.28:338][892]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.02-17.09.28:338][892]LogContentValidation: Enabled validators:
+[2025.04.02-17.09.28:338][892]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.02-17.09.28:338][892]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.02-17.09.28:338][892]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.02-17.09.28:338][892]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.02-17.09.28:339][892]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.02-17.09.28:339][892]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.02-17.09.28:339][892]AssetCheck: /Game/Textures/Dirt/Ground_N Validating asset
+[2025.04.02-17.09.37:188][402]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_Landscape: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+
+[2025.04.02-17.09.37:217][402]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_Landscape: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+
+[2025.04.02-17.09.37:241][402]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_Landscape: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+
+[2025.04.02-17.09.53:779][264]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_Landscape: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+
+[2025.04.02-17.09.56:080][368]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_Landscape: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+
+[2025.04.02-17.10.10:803][955]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_Landscape: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+
+[2025.04.02-17.10.13:717][ 91]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_Landscape: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+
+[2025.04.02-17.10.39:854][658]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_Landscape: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+
+[2025.04.02-17.10.43:368][788]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_Landscape: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+
+[2025.04.02-17.10.46:693][905]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_Landscape: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+
+[2025.04.02-17.10.49:299][999]LogMaterial: Warning: [AssetLog] /Engine/Transient.MM_Landscape: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+	Cannot connect a non MaterialAttributes node to a MaterialAttributes pin.
+
+[2025.04.02-17.10.58:279][364]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.02-17.10.58:279][364]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.02-17.10.58:279][364]MaterialEditorStats: Shader Count: 0
+[2025.04.02-17.10.58:279][364]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.02-17.10.58:441][367]MaterialEditorStats: Base pass shader: 159 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.04.02-17.10.58:441][367]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.02-17.10.58:441][367]MaterialEditorStats: Texture samplers: 1/16
+[2025.04.02-17.10.58:441][367]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.02-17.10.58:441][367]MaterialEditorStats: Shader Count: 5
+[2025.04.02-17.10.58:441][367]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.02-17.11.05:970][758]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureCoordinate'MaterialGraphNode_0.MaterialExpressionTextureCoordinate_1'")'
+[2025.04.02-17.11.05:970][758]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionScalarParameter'MaterialGraphNode_2.MaterialExpressionScalarParameter_1'")'
+[2025.04.02-17.11.05:971][758]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureSample'MaterialGraphNode_6.MaterialExpressionTextureSample_1'",Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2025.04.02-17.11.05:971][758]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureSample'MaterialGraphNode_5.MaterialExpressionTextureSample_0'",OutputIndex=2,Mask=1,MaskG=1)'
+[2025.04.02-17.11.05:972][758]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureSample'MaterialGraphNode_5.MaterialExpressionTextureSample_0'",OutputIndex=4,Mask=1,MaskA=1)'
+[2025.04.02-17.11.05:972][758]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureSample'MaterialGraphNode_7.MaterialExpressionTextureSample_2'",Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2025.04.02-17.11.05:972][758]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureSample'MaterialGraphNode_5.MaterialExpressionTextureSample_0'",OutputIndex=1,Mask=1,MaskR=1)'
+[2025.04.02-17.11.05:972][758]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureSample'MaterialGraphNode_5.MaterialExpressionTextureSample_0'",OutputIndex=3,Mask=1,MaskB=1)'
+[2025.04.02-17.11.05:976][758]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionMultiply'MaterialGraphNode_1.MaterialExpressionMultiply_1'")'
+[2025.04.02-17.11.05:977][758]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionMultiply'MaterialGraphNode_1.MaterialExpressionMultiply_1'")'
+[2025.04.02-17.11.06:019][758]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.02-17.11.06:019][758]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.02-17.11.06:019][758]MaterialEditorStats: Shader Count: 0
+[2025.04.02-17.11.06:019][758]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.02-17.11.06:161][760]MaterialEditorStats: Base pass shader: 159 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.04.02-17.11.06:161][760]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.02-17.11.06:161][760]MaterialEditorStats: Texture samplers: 1/16
+[2025.04.02-17.11.06:161][760]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.02-17.11.06:161][760]MaterialEditorStats: Shader Count: 5
+[2025.04.02-17.11.06:162][760]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.02-17.11.11:709][ 36]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.02-17.11.11:709][ 36]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.02-17.11.11:709][ 36]MaterialEditorStats: Shader Count: 0
+[2025.04.02-17.11.11:709][ 36]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.02-17.11.11:860][ 39]MaterialEditorStats: Base pass shader: 159 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.04.02-17.11.11:860][ 39]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.02-17.11.11:860][ 39]MaterialEditorStats: Texture samplers: 1/16
+[2025.04.02-17.11.11:860][ 39]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.02-17.11.11:860][ 39]MaterialEditorStats: Shader Count: 5
+[2025.04.02-17.11.11:860][ 39]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.02-17.11.15:991][247]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.02-17.11.15:991][247]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.02-17.11.15:991][247]MaterialEditorStats: Shader Count: 0
+[2025.04.02-17.11.15:991][247]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.02-17.11.16:129][250]MaterialEditorStats: Base pass shader: 159 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.04.02-17.11.16:129][250]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.02-17.11.16:129][250]MaterialEditorStats: Texture samplers: 1/16
+[2025.04.02-17.11.16:129][250]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.02-17.11.16:129][250]MaterialEditorStats: Shader Count: 5
+[2025.04.02-17.11.16:129][250]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.02-17.11.37:468][222]LogSlate: Took 0.000378 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.04.02-17.11.40:825][396]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.02-17.11.40:825][396]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.02-17.11.40:825][396]MaterialEditorStats: Shader Count: 0
+[2025.04.02-17.11.40:825][396]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.02-17.11.40:975][398]MaterialEditorStats: Base pass shader: 159 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.04.02-17.11.40:975][398]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.02-17.11.40:975][398]MaterialEditorStats: Texture samplers: 1/16
+[2025.04.02-17.11.40:975][398]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.02-17.11.40:975][398]MaterialEditorStats: Shader Count: 5
+[2025.04.02-17.11.40:975][398]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.02-17.11.47:025][685]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.02-17.11.47:025][685]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.02-17.11.47:025][685]MaterialEditorStats: Shader Count: 0
+[2025.04.02-17.11.47:025][685]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.02-17.11.47:117][687]MaterialEditorStats: Base pass shader: 159 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.04.02-17.11.47:117][687]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.02-17.11.47:117][687]MaterialEditorStats: Texture samplers: 1/16
+[2025.04.02-17.11.47:117][687]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.02-17.11.47:117][687]MaterialEditorStats: Shader Count: 5
+[2025.04.02-17.11.47:117][687]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.02-17.11.53:586][  9]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.02-17.11.53:586][  9]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.02-17.11.53:586][  9]MaterialEditorStats: Shader Count: 0
+[2025.04.02-17.11.53:586][  9]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.02-17.11.53:783][ 11]MaterialEditorStats: Base pass shader: 159 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.04.02-17.11.53:784][ 11]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.02-17.11.53:784][ 11]MaterialEditorStats: Texture samplers: 1/16
+[2025.04.02-17.11.53:784][ 11]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.02-17.11.53:784][ 11]MaterialEditorStats: Shader Count: 5
+[2025.04.02-17.11.53:784][ 11]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.02-17.11.59:743][243]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.02-17.11.59:743][243]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.02-17.11.59:743][243]MaterialEditorStats: Shader Count: 0
+[2025.04.02-17.11.59:743][243]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.02-17.11.59:948][246]MaterialEditorStats: Base pass shader: 159 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.04.02-17.11.59:948][246]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.02-17.11.59:948][246]MaterialEditorStats: Texture samplers: 1/16
+[2025.04.02-17.11.59:948][246]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.02-17.11.59:948][246]MaterialEditorStats: Shader Count: 5
+[2025.04.02-17.11.59:948][246]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.02-17.12.02:600][362]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureCoordinate'MaterialGraphNode_0.MaterialExpressionTextureCoordinate_0'")'
+[2025.04.02-17.12.02:600][362]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionScalarParameter'MaterialGraphNode_2.MaterialExpressionScalarParameter_0'")'
+[2025.04.02-17.12.02:601][362]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureSample'MaterialGraphNode_6.MaterialExpressionTextureSample_4'",Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2025.04.02-17.12.02:601][362]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureSample'MaterialGraphNode_5.MaterialExpressionTextureSample_3'",OutputIndex=2,Mask=1,MaskG=1)'
+[2025.04.02-17.12.02:601][362]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureSample'MaterialGraphNode_5.MaterialExpressionTextureSample_3'",OutputIndex=4,Mask=1,MaskA=1)'
+[2025.04.02-17.12.02:602][362]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureSample'MaterialGraphNode_7.MaterialExpressionTextureSample_5'",Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2025.04.02-17.12.02:602][362]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureSample'MaterialGraphNode_5.MaterialExpressionTextureSample_3'",OutputIndex=1,Mask=1,MaskR=1)'
+[2025.04.02-17.12.02:602][362]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureSample'MaterialGraphNode_5.MaterialExpressionTextureSample_3'",OutputIndex=3,Mask=1,MaskB=1)'
+[2025.04.02-17.12.02:603][362]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionMultiply'MaterialGraphNode_1.MaterialExpressionMultiply_0'")'
+[2025.04.02-17.12.02:605][362]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionMultiply'MaterialGraphNode_1.MaterialExpressionMultiply_0'")'
+[2025.04.02-17.12.02:606][362]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionMultiply'MaterialGraphNode_1.MaterialExpressionMultiply_0'")'
+[2025.04.02-17.12.02:647][362]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.02-17.12.02:647][362]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.02-17.12.02:647][362]MaterialEditorStats: Shader Count: 0
+[2025.04.02-17.12.02:647][362]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.02-17.12.02:833][364]MaterialEditorStats: Base pass shader: 159 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.04.02-17.12.02:833][364]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.02-17.12.02:833][364]MaterialEditorStats: Texture samplers: 1/16
+[2025.04.02-17.12.02:833][364]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.02-17.12.02:833][364]MaterialEditorStats: Shader Count: 5
+[2025.04.02-17.12.02:833][364]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.02-17.12.08:933][637]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.02-17.12.08:933][637]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.02-17.12.08:933][637]MaterialEditorStats: Shader Count: 0
+[2025.04.02-17.12.08:933][637]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.02-17.12.09:086][640]MaterialEditorStats: Base pass shader: 159 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.04.02-17.12.09:086][640]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.02-17.12.09:086][640]MaterialEditorStats: Texture samplers: 1/16
+[2025.04.02-17.12.09:086][640]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.02-17.12.09:086][640]MaterialEditorStats: Shader Count: 5
+[2025.04.02-17.12.09:086][640]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.02-17.12.30:839][691]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.04.02-17.12.30:851][691]LogStreaming: Display: FlushAsyncLoading(386): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.02-17.12.34:058][847]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.02-17.12.34:058][847]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.02-17.12.34:058][847]MaterialEditorStats: Shader Count: 0
+[2025.04.02-17.12.34:058][847]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.02-17.12.34:174][849]MaterialEditorStats: Base pass shader: 159 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.04.02-17.12.34:174][849]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.02-17.12.34:174][849]MaterialEditorStats: Texture samplers: 1/16
+[2025.04.02-17.12.34:174][849]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.02-17.12.34:174][849]MaterialEditorStats: Shader Count: 5
+[2025.04.02-17.12.34:174][849]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.02-17.12.45:015][385]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.02-17.12.45:015][385]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.02-17.12.45:015][385]MaterialEditorStats: Shader Count: 0
+[2025.04.02-17.12.45:015][385]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.02-17.12.45:172][387]MaterialEditorStats: Base pass shader: 159 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.04.02-17.12.45:172][387]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.02-17.12.45:172][387]MaterialEditorStats: Texture samplers: 1/16
+[2025.04.02-17.12.45:172][387]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.02-17.12.45:172][387]MaterialEditorStats: Shader Count: 5
+[2025.04.02-17.12.45:172][387]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.02-17.12.53:449][761]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.02-17.12.53:449][761]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.02-17.12.53:449][761]MaterialEditorStats: Shader Count: 0
+[2025.04.02-17.12.53:449][761]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.02-17.12.53:608][763]MaterialEditorStats: Base pass shader: 159 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.04.02-17.12.53:608][763]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.02-17.12.53:608][763]MaterialEditorStats: Texture samplers: 1/16
+[2025.04.02-17.12.53:608][763]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.02-17.12.53:608][763]MaterialEditorStats: Shader Count: 5
+[2025.04.02-17.12.53:608][763]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.02-17.12.58:998][965]LogMaterialEditor: Applying material MM_Landscape
+[2025.04.02-17.12.59:360][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.04.02-17.12.59:556][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.04.02-17.13.00:713][ 10]LogMaterialEditor: Saving and Compiling material MM_Landscape
+[2025.04.02-17.13.00:718][ 10]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.02-17.13.00:788][ 10]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/MM_Landscape] ([1] browsable assets)...
+[2025.04.02-17.13.00:832][ 10]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/MM_Landscape.MM_Landscape]
+[2025.04.02-17.13.00:832][ 10]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/MM_Landscape]
+[2025.04.02-17.13.00:832][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/MM_Landscape" FILE="../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Materials/MM_Landscape.uasset" SILENT=true
+[2025.04.02-17.13.00:837][ 10]LogSavePackage: Moving output files for package: /Game/Materials/MM_Landscape
+[2025.04.02-17.13.00:838][ 10]LogSavePackage: Moving '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Saved/MM_Landscape7601FBC248FD69E7D33F6785E6E0929B.tmp' to '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Materials/MM_Landscape.uasset'
+[2025.04.02-17.13.00:856][ 10]LogFileHelpers: InternalPromptForCheckoutAndSave took 137.352 ms (total: 1.74 sec)
+[2025.04.02-17.13.00:918][ 10]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.02-17.13.00:918][ 10]LogContentValidation: Enabled validators:
+[2025.04.02-17.13.00:918][ 10]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.02-17.13.00:918][ 10]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.02-17.13.00:918][ 10]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.02-17.13.00:918][ 10]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.02-17.13.00:918][ 10]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.02-17.13.00:919][ 10]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.02-17.13.00:919][ 10]AssetCheck: /Game/Materials/MM_Landscape Validating asset
+[2025.04.02-17.14.11:355][964]LogContentBrowser: Deferred new asset file creation: MM_Landscape_Inst
+[2025.04.02-17.14.11:442][964]LogContentBrowser: Creating deferred item: MM_Landscape_Inst
+[2025.04.02-17.14.11:462][965]LogContentBrowser: Renaming the item being created (Deferred Item: MM_Landscape_Inst).
+[2025.04.02-17.14.20:011][537]LogContentBrowser: Attempting asset rename: MM_Landscape_Inst -> MI_Landscape
+[2025.04.02-17.14.20:013][537]LogContentBrowser: End creating deferred item MM_Landscape_Inst
+[2025.04.02-17.14.26:790][ 80]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1706.301270
+[2025.04.02-17.14.26:905][ 91]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.02-17.14.26:906][ 91]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1706.407837, Update Interval: 307.992798
+[2025.04.02-17.15.34:175][777]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/MI_Landscape.MI_Landscape
+[2025.04.02-17.15.34:177][777]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.04.02-17.15.38:803][953]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.02-17.15.38:868][953]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/MI_Landscape] ([1] browsable assets)...
+[2025.04.02-17.15.38:965][953]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Materials/MI_Landscape.MI_Landscape]
+[2025.04.02-17.15.38:965][953]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/MI_Landscape]
+[2025.04.02-17.15.38:965][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/MI_Landscape" FILE="../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Materials/MI_Landscape.uasset" SILENT=true
+[2025.04.02-17.15.39:022][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.04.02-17.15.39:039][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.04.02-17.15.39:042][953]LogSavePackage: Moving output files for package: /Game/Materials/MI_Landscape
+[2025.04.02-17.15.39:042][953]LogSavePackage: Moving '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Saved/MI_Landscape5AF9FE324A01F0AAD78BB292751D4012.tmp' to '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Materials/MI_Landscape.uasset'
+[2025.04.02-17.15.39:059][953]LogFileHelpers: InternalPromptForCheckoutAndSave took 254.760 ms (total: 1.99 sec)
+[2025.04.02-17.15.39:134][953]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.02-17.15.39:134][953]LogContentValidation: Enabled validators:
+[2025.04.02-17.15.39:134][953]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.02-17.15.39:134][953]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.02-17.15.39:134][953]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.02-17.15.39:134][953]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.02-17.15.39:134][953]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.02-17.15.39:134][953]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.02-17.15.39:134][953]AssetCheck: /Game/Materials/MI_Landscape Validating asset
+[2025.04.02-17.16.50:558][252]LogShaderCompilers: Display: ================================================
+[2025.04.02-17.16.50:558][252]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.02-17.16.50:558][252]LogShaderCompilers: Display: Total job queries 1116, among them cache hits 447 (40.05%), DDC hits 556 (49.82%), Duplicates 104 (9.32%)
+[2025.04.02-17.16.50:558][252]LogShaderCompilers: Display: Tracking 565 distinct input hashes that result in 316 distinct outputs (55.93%)
+[2025.04.02-17.16.50:558][252]LogShaderCompilers: Display: RAM used: 230,75 KiB of 1,60 GiB budget. Usage: 0.01%
+[2025.04.02-17.16.50:558][252]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.02-17.16.50:558][252]LogShaderCompilers: Display: Shaders Compiled: 9
+[2025.04.02-17.16.50:558][252]LogShaderCompilers: Display: Jobs assigned 9, completed 9 (100%)
+[2025.04.02-17.16.50:558][252]LogShaderCompilers: Display: Average time worker was idle: 851.94 s
+[2025.04.02-17.16.50:558][252]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.16 s
+[2025.04.02-17.16.50:558][252]LogShaderCompilers: Display: Job execution time: average 2.31 s, max 3.45 s
+[2025.04.02-17.16.50:560][252]LogShaderCompilers: Display: Job life time (pending + execution): average 2.37 s, max 3.47
+[2025.04.02-17.16.50:560][252]LogShaderCompilers: Display: Shader code size: average 7,763 KiB, min 5,219 KiB, max 11,914 KiB
+[2025.04.02-17.16.50:560][252]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 7.55 s
+[2025.04.02-17.16.50:560][252]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2025.04.02-17.16.50:560][252]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.02-17.16.50:560][252]LogShaderCompilers: Display: Average processing rate: 1.19 jobs/sec
+[2025.04.02-17.16.50:560][252]LogShaderCompilers: Display: Total thread time: 8,78 s
+[2025.04.02-17.16.50:560][252]LogShaderCompilers: Display: Total thread preprocess time: 21,361 s
+[2025.04.02-17.16.50:560][252]LogShaderCompilers: Display: Percentage time preprocessing: 243.28%
+[2025.04.02-17.16.50:560][252]LogShaderCompilers: Display: Effective parallelization: 1.16 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.04.02-17.16.50:560][252]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.02-17.16.50:560][252]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 1.66 sec, max 1.66 sec, min 1.66 sec)
+[2025.04.02-17.16.50:560][252]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 1.33 sec, max 1.68 sec, min 0.98 sec)
+[2025.04.02-17.16.50:560][252]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.99 sec, max 1.18 sec, min 0.80 sec)
+[2025.04.02-17.16.50:560][252]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    2 times, average 0.63 sec, max 0.75 sec, min 0.50 sec)
+[2025.04.02-17.16.50:560][252]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.61 sec, max 0.79 sec, min 0.44 sec)
+[2025.04.02-17.16.50:560][252]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.02-17.16.50:560][252]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 30.33% of total time (compiled    2 times, average 1.33 sec, max 1.68 sec, min 0.98 sec)
+[2025.04.02-17.16.50:560][252]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 22.46% of total time (compiled    2 times, average 0.99 sec, max 1.18 sec, min 0.80 sec)
+[2025.04.02-17.16.50:560][252]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 18.88% of total time (compiled    1 times, average 1.66 sec, max 1.66 sec, min 1.66 sec)
+[2025.04.02-17.16.50:560][252]LogShaderCompilers: Display:                                                 FLumenCardPS - 14.33% of total time (compiled    2 times, average 0.63 sec, max 0.75 sec, min 0.50 sec)
+[2025.04.02-17.16.50:560][252]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.99% of total time (compiled    2 times, average 0.61 sec, max 0.79 sec, min 0.44 sec)
+[2025.04.02-17.16.50:560][252]LogShaderCompilers: Display: === Material stats ===
+[2025.04.02-17.16.50:560][252]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.02-17.16.50:560][252]LogShaderCompilers: Display: Materials Translated:    293
+[2025.04.02-17.16.50:560][252]LogShaderCompilers: Display: Material Total Translate Time: 0.20 s
+[2025.04.02-17.16.50:560][252]LogShaderCompilers: Display: Material Translation Only: 0.11 s (55%)
+[2025.04.02-17.16.50:560][252]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.04.02-17.16.50:560][252]LogShaderCompilers: Display: Material Cache Hits: 61 (21%)
+[2025.04.02-17.16.50:560][252]LogShaderCompilers: Display: ================================================
+[2025.04.02-17.17.32:256][929]LogMaterialEditor: Saving and Compiling material MM_Landscape
+[2025.04.02-17.17.32:260][929]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.02-17.17.32:339][929]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/MM_Landscape] ([1] browsable assets)...
+[2025.04.02-17.17.32:339][929]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/MM_Landscape]
+[2025.04.02-17.17.32:339][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/MM_Landscape" FILE="../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Materials/MM_Landscape.uasset" SILENT=true
+[2025.04.02-17.17.32:343][929]LogSavePackage: Moving output files for package: /Game/Materials/MM_Landscape
+[2025.04.02-17.17.32:343][929]LogSavePackage: Moving '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Saved/MM_Landscape4107DDDE4439B6DEC22004A81C0C9424.tmp' to '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Materials/MM_Landscape.uasset'
+[2025.04.02-17.17.32:363][929]LogFileHelpers: InternalPromptForCheckoutAndSave took 103.304 ms (total: 2.10 sec)
+[2025.04.02-17.17.32:439][929]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.02-17.17.32:439][929]LogContentValidation: Enabled validators:
+[2025.04.02-17.17.32:439][929]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.02-17.17.32:439][929]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.02-17.17.32:439][929]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.02-17.17.32:439][929]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.02-17.17.32:439][929]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.02-17.17.32:439][929]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.02-17.17.32:439][929]AssetCheck: /Game/Materials/MM_Landscape Validating asset
+[2025.04.02-17.18.12:765][441]LogSlate: Window 'Message' being destroyed
+[2025.04.02-17.18.12:775][441]Message dialog closed, result: Yes, title: Message, text: Are you sure you want to delete this layer?
+[2025.04.02-17.18.13:540][441]LogAutomationController: Ignoring very large delta of 3.51 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.04.02-17.20.00:928][477]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2025.04.02-17.20.00:956][477]LogAutomationController: Ignoring very large delta of 17.20 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.04.02-17.20.04:090][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.04.02-17.20.04:094][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_1" FILE="../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Saved/Autosaves/Game/Levels/Level_1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.04.02-17.20.04:118][636]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.04.02-17.20.04:124][636]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.04.02-17.20.04:127][636]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.Weightmap_1 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.04.02-17.20.04:129][636]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.04.02-17.20.04:796][636]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Level_1_Auto2
+[2025.04.02-17.20.04:797][636]LogSavePackage: Moving '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Saved/Level_1_Auto23D39DE944055ED4CE2EDEBB2F5EFC360.tmp' to '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Saved/Autosaves/Game/Levels/Level_1_Auto2.umap'
+[2025.04.02-17.20.04:800][636]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_1' took 0.749
+[2025.04.02-17.20.04:800][636]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.749
+[2025.04.02-17.20.13:023][ 92]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.04.02-17.20.13:121][ 92]LogContentBrowser: Creating deferred item: NewFolder
+[2025.04.02-17.20.13:147][ 93]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.04.02-17.20.19:606][477]LogContentBrowser: Attempting asset rename: NewFolder -> LayerBlends
+[2025.04.02-17.20.19:606][477]LogContentBrowser: End creating deferred item NewFolder
+[2025.04.02-17.20.20:465][526]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2059.974365
+[2025.04.02-17.20.20:585][533]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.02-17.20.20:585][533]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2060.074463, Update Interval: 332.524170
+[2025.04.02-17.20.44:510][887]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2025.04.02-17.20.45:258][887]LogAutomationController: Ignoring very large delta of 19.54 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.04.02-17.21.04:276][169]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2025.04.02-17.21.05:022][169]LogAutomationController: Ignoring very large delta of 14.95 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.04.02-17.21.16:139][398]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2025.04.02-17.21.16:868][398]LogAutomationController: Ignoring very large delta of 7.92 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.04.02-17.21.30:181][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.04.02-17.21.30:194][940]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.02-17.21.30:269][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_1" FILE="../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Levels/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.04.02-17.21.30:338][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.04.02-17.21.30:370][940]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.Weightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.04.02-17.21.30:372][940]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.04.02-17.21.30:391][940]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.Weightmap_39 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.04.02-17.21.30:394][940]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.Weightmap_38 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.04.02-17.21.30:396][940]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.Weightmap_37 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.04.02-17.21.30:398][940]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.Weightmap_36 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.04.02-17.21.30:401][940]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.Weightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.04.02-17.21.31:308][940]LogSavePackage: Moving output files for package: /Game/Levels/Level_1
+[2025.04.02-17.21.31:309][940]LogSavePackage: Moving '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Saved/Level_15C7D23534861F132F4E2269EB1E96B8D.tmp' to '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Levels/Level_1.umap'
+[2025.04.02-17.21.31:344][940]LogFileHelpers: Saving map 'Level_1' took 1.077
+[2025.04.02-17.21.31:344][940]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/Dirt/Ground_AO_M_H_R] ([1] browsable assets)...
+[2025.04.02-17.21.31:344][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Dirt/Ground_AO_M_H_R]
+[2025.04.02-17.21.31:344][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Dirt/Ground_AO_M_H_R" FILE="../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Textures/Dirt/Ground_AO_M_H_R.uasset" SILENT=true
+[2025.04.02-17.21.31:513][940]LogSavePackage: Moving output files for package: /Game/Textures/Dirt/Ground_AO_M_H_R
+[2025.04.02-17.21.31:513][940]LogSavePackage: Moving '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Saved/Ground_AO_M_H_R92C344004EFE37F9D7E83DA2F9B108E0.tmp' to '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Textures/Dirt/Ground_AO_M_H_R.uasset'
+[2025.04.02-17.21.31:514][940]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/Dirt/Ground_C] ([1] browsable assets)...
+[2025.04.02-17.21.31:514][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Dirt/Ground_C]
+[2025.04.02-17.21.31:514][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Dirt/Ground_C" FILE="../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Textures/Dirt/Ground_C.uasset" SILENT=true
+[2025.04.02-17.21.31:593][940]LogSavePackage: Moving output files for package: /Game/Textures/Dirt/Ground_C
+[2025.04.02-17.21.31:593][940]LogSavePackage: Moving '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Saved/Ground_CAA32B0EC486CD08A0B9387A7FF262F91.tmp' to '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Textures/Dirt/Ground_C.uasset'
+[2025.04.02-17.21.31:594][940]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LayerBlends/Dirt_LayerInfo] ([1] browsable assets)...
+[2025.04.02-17.21.31:594][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/LayerBlends/Dirt_LayerInfo]
+[2025.04.02-17.21.31:594][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LayerBlends/Dirt_LayerInfo" FILE="../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/LayerBlends/Dirt_LayerInfo.uasset" SILENT=true
+[2025.04.02-17.21.31:595][940]LogSavePackage: Moving output files for package: /Game/LayerBlends/Dirt_LayerInfo
+[2025.04.02-17.21.31:596][940]LogSavePackage: Moving '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Saved/Dirt_LayerInfo26A889AC4DFD6EF470965CB69523BBAB.tmp' to '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/LayerBlends/Dirt_LayerInfo.uasset'
+[2025.04.02-17.21.31:597][940]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LayerBlends/Green_LayerInfo] ([1] browsable assets)...
+[2025.04.02-17.21.31:597][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/LayerBlends/Green_LayerInfo]
+[2025.04.02-17.21.31:597][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LayerBlends/Green_LayerInfo" FILE="../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/LayerBlends/Green_LayerInfo.uasset" SILENT=true
+[2025.04.02-17.21.31:598][940]LogSavePackage: Moving output files for package: /Game/LayerBlends/Green_LayerInfo
+[2025.04.02-17.21.31:598][940]LogSavePackage: Moving '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Saved/Green_LayerInfoF6319ACF4523A4700CF130BBFD47BB25.tmp' to '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/LayerBlends/Green_LayerInfo.uasset'
+[2025.04.02-17.21.31:599][940]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/LayerBlends/Yellow_LayerInfo] ([1] browsable assets)...
+[2025.04.02-17.21.31:599][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/LayerBlends/Yellow_LayerInfo]
+[2025.04.02-17.21.31:600][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LayerBlends/Yellow_LayerInfo" FILE="../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/LayerBlends/Yellow_LayerInfo.uasset" SILENT=true
+[2025.04.02-17.21.31:601][940]LogSavePackage: Moving output files for package: /Game/LayerBlends/Yellow_LayerInfo
+[2025.04.02-17.21.31:601][940]LogSavePackage: Moving '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Saved/Yellow_LayerInfoF2D3A0BF490E904A9AAA06BB65C59259.tmp' to '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/LayerBlends/Yellow_LayerInfo.uasset'
+[2025.04.02-17.21.31:641][940]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.44 sec (total: 3.54 sec)
+[2025.04.02-17.21.31:742][940]LogContentValidation: Display: Starting to validate 6 assets
+[2025.04.02-17.21.31:742][940]LogContentValidation: Enabled validators:
+[2025.04.02-17.21.31:742][940]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.02-17.21.31:742][940]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.02-17.21.31:742][940]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.02-17.21.31:742][940]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.02-17.21.31:742][940]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.02-17.21.31:742][940]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.02-17.21.31:744][940]AssetCheck: /Game/Levels/Level_1 Validating asset
+[2025.04.02-17.21.31:744][940]AssetCheck: /Game/Textures/Dirt/Ground_AO_M_H_R Validating asset
+[2025.04.02-17.21.31:744][940]AssetCheck: /Game/Textures/Dirt/Ground_C Validating asset
+[2025.04.02-17.21.31:744][940]AssetCheck: /Game/LayerBlends/Dirt_LayerInfo Validating asset
+[2025.04.02-17.21.31:744][940]AssetCheck: /Game/LayerBlends/Green_LayerInfo Validating asset
+[2025.04.02-17.21.31:744][940]AssetCheck: /Game/LayerBlends/Yellow_LayerInfo Validating asset
+[2025.04.02-17.23.00:975][119]LogShaderCompilers: Display: ================================================
+[2025.04.02-17.23.00:975][119]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.02-17.23.00:975][119]LogShaderCompilers: Display: Total job queries 1237, among them cache hits 452 (36.54%), DDC hits 556 (44.95%), Duplicates 170 (13.74%)
+[2025.04.02-17.23.00:975][119]LogShaderCompilers: Display: Tracking 615 distinct input hashes that result in 332 distinct outputs (53.98%)
+[2025.04.02-17.23.00:975][119]LogShaderCompilers: Display: RAM used: 237,78 KiB of 1,60 GiB budget. Usage: 0.01%
+[2025.04.02-17.23.00:975][119]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.02-17.23.00:975][119]LogShaderCompilers: Display: Shaders Compiled: 59
+[2025.04.02-17.23.00:975][119]LogShaderCompilers: Display: Jobs assigned 59, completed 59 (100%)
+[2025.04.02-17.23.00:975][119]LogShaderCompilers: Display: Average time worker was idle: 430.83 s
+[2025.04.02-17.23.00:975][119]LogShaderCompilers: Display: Time job spent in pending queue: average 2.53 s, longest 10.21 s
+[2025.04.02-17.23.00:975][119]LogShaderCompilers: Display: Job execution time: average 5.89 s, max 14.09 s
+[2025.04.02-17.23.00:975][119]LogShaderCompilers: Display: Job life time (pending + execution): average 8.42 s, max 14.28
+[2025.04.02-17.23.00:975][119]LogShaderCompilers: Display: Shader code size: average 8,172 KiB, min 2,105 KiB, max 15,526 KiB
+[2025.04.02-17.23.00:975][119]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 21.84 s
+[2025.04.02-17.23.00:975][119]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2025.04.02-17.23.00:975][119]LogShaderCompilers: Display: Jobs were issued in 33 batches (only local compilation was used), average 1.79 jobs/batch
+[2025.04.02-17.23.00:975][119]LogShaderCompilers: Display: Average processing rate: 2.70 jobs/sec
+[2025.04.02-17.23.00:976][119]LogShaderCompilers: Display: Total thread time: 97,254 s
+[2025.04.02-17.23.00:976][119]LogShaderCompilers: Display: Total thread preprocess time: 23,594 s
+[2025.04.02-17.23.00:976][119]LogShaderCompilers: Display: Percentage time preprocessing: 24.26%
+[2025.04.02-17.23.00:976][119]LogShaderCompilers: Display: Effective parallelization: 4.45 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.04.02-17.23.00:976][119]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.02-17.23.00:976][119]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 4.74 sec, max 5.06 sec, min 4.43 sec)
+[2025.04.02-17.23.00:976][119]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 3.84 sec, max 3.94 sec, min 3.74 sec)
+[2025.04.02-17.23.00:976][119]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 3.28 sec, max 4.27 sec, min 1.66 sec)
+[2025.04.02-17.23.00:976][119]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    1 times, average 1.92 sec, max 1.92 sec, min 1.92 sec)
+[2025.04.02-17.23.00:976][119]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 1.80 sec, max 2.87 sec, min 0.98 sec)
+[2025.04.02-17.23.00:976][119]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.02-17.23.00:976][119]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 10.12% of total time (compiled    3 times, average 3.28 sec, max 4.27 sec, min 1.66 sec)
+[2025.04.02-17.23.00:976][119]LogShaderCompilers: Display:                                             FDebugViewModePS - 9.75% of total time (compiled    2 times, average 4.74 sec, max 5.06 sec, min 4.43 sec)
+[2025.04.02-17.23.00:976][119]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 7.90% of total time (compiled    2 times, average 3.84 sec, max 3.94 sec, min 3.74 sec)
+[2025.04.02-17.23.00:976][119]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.41% of total time (compiled    4 times, average 1.80 sec, max 2.87 sec, min 0.98 sec)
+[2025.04.02-17.23.00:976][119]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.49% of total time (compiled    5 times, average 1.26 sec, max 2.51 sec, min 0.55 sec)
+[2025.04.02-17.23.00:976][119]LogShaderCompilers: Display: === Material stats ===
+[2025.04.02-17.23.00:976][119]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.02-17.23.00:976][119]LogShaderCompilers: Display: Materials Translated:    296
+[2025.04.02-17.23.00:976][119]LogShaderCompilers: Display: Material Total Translate Time: 0.21 s
+[2025.04.02-17.23.00:976][119]LogShaderCompilers: Display: Material Translation Only: 0.11 s (55%)
+[2025.04.02-17.23.00:976][119]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.04.02-17.23.00:976][119]LogShaderCompilers: Display: Material Cache Hits: 61 (21%)
+[2025.04.02-17.23.00:976][119]LogShaderCompilers: Display: ================================================
+[2025.04.02-17.23.04:410][326]Cmd: TRANSACTION UNDO
+[2025.04.02-17.23.04:410][326]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.04.02-17.23.04:411][326]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.LandscapeComponent_18 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.23.04:412][326]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.Weightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.02-17.23.04:415][326]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.LandscapeComponent_17 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.23.19:438][400]Cmd: TRANSACTION UNDO
+[2025.04.02-17.23.19:438][400]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.04.02-17.23.19:447][400]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.Heightmap_28 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.04.02-17.23.21:364][507]Cmd: TRANSACTION UNDO
+[2025.04.02-17.23.21:364][507]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.04.02-17.24.56:415][927]Cmd: TRANSACTION UNDO
+[2025.04.02-17.24.56:415][927]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.04.02-17.25.14:514][138]Cmd: TRANSACTION UNDO
+[2025.04.02-17.25.14:514][138]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.04.02-17.25.14:535][138]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.Heightmap_28 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.04.02-17.25.14:536][138]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.Heightmap_23 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.04.02-17.25.15:672][185]Cmd: TRANSACTION UNDO
+[2025.04.02-17.25.15:672][185]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.04.02-17.25.17:520][303]Cmd: TRANSACTION UNDO
+[2025.04.02-17.25.17:520][303]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.04.02-17.25.17:531][303]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.Heightmap_18 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.04.02-17.25.36:412][639]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.Heightmap_27 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.02-17.25.36:420][639]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.Heightmap_22 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display: ================================================
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display: Total job queries 1299, among them cache hits 456 (35.10%), DDC hits 556 (42.80%), Duplicates 178 (13.70%)
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display: Tracking 665 distinct input hashes that result in 342 distinct outputs (51.43%)
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display: RAM used: 241,75 KiB of 1,60 GiB budget. Usage: 0.01%
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display: Shaders Compiled: 109
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display: Jobs assigned 109, completed 109 (100%)
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display: Average time worker was idle: 249.45 s
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display: Time job spent in pending queue: average 1.96 s, longest 10.21 s
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display: Job execution time: average 4.51 s, max 14.09 s
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display: Job life time (pending + execution): average 6.48 s, max 14.28
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display: Shader code size: average 8,309 KiB, min 2,105 KiB, max 17,344 KiB
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 27.78 s
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display: Jobs were issued in 56 batches (only local compilation was used), average 1.95 jobs/batch
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display: Average processing rate: 3.92 jobs/sec
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display: Total thread time: 136,388 s
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display: Total thread preprocess time: 24,682 s
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display: Percentage time preprocessing: 18.10%
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display: Effective parallelization: 4.91 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    4 times, average 3.42 sec, max 5.06 sec, min 1.84 sec)
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    4 times, average 2.73 sec, max 3.94 sec, min 1.52 sec)
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    5 times, average 2.73 sec, max 4.27 sec, min 1.66 sec)
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 1.50 sec, max 2.87 sec, min 0.73 sec)
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    4 times, average 1.32 sec, max 2.33 sec, min 0.70 sec)
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display:                                             FDebugViewModePS - 10.02% of total time (compiled    4 times, average 3.42 sec, max 5.06 sec, min 1.84 sec)
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 9.99% of total time (compiled    5 times, average 2.73 sec, max 4.27 sec, min 1.66 sec)
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 8.00% of total time (compiled    4 times, average 2.73 sec, max 3.94 sec, min 1.52 sec)
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.61% of total time (compiled    6 times, average 1.50 sec, max 2.87 sec, min 0.73 sec)
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.96% of total time (compiled    8 times, average 1.02 sec, max 2.51 sec, min 0.45 sec)
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display: === Material stats ===
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display: Materials Translated:    297
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display: Material Total Translate Time: 0.21 s
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display: Material Translation Only: 0.12 s (55%)
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display: Material Cache Hits: 61 (21%)
+[2025.04.02-17.26.00:987][277]LogShaderCompilers: Display: ================================================
+[2025.04.02-17.26.18:697][446]Cmd: TRANSACTION UNDO
+[2025.04.02-17.26.18:697][446]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2025.04.02-17.26.18:716][446]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.Heightmap_28 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.04.02-17.26.18:716][446]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.Heightmap_23 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.04.02-17.26.18:717][446]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.Heightmap_27 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.02-17.26.18:717][446]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.Heightmap_22 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.02-17.26.33:626][494]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2433.158447
+[2025.04.02-17.26.33:761][501]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.02-17.26.33:761][502]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2433.271729, Update Interval: 335.789062
+[2025.04.02-17.27.14:924][486]Cmd: TRANSACTION UNDO
+[2025.04.02-17.27.14:924][486]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.04.02-17.27.41:108][274]Cmd: TRANSACTION UNDO
+[2025.04.02-17.27.41:108][274]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.04.02-17.27.41:118][274]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.Heightmap_16 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.04.02-17.27.45:233][528]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.Heightmap_12 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.02-17.27.46:229][596]Cmd: TRANSACTION UNDO
+[2025.04.02-17.27.46:229][596]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2025.04.02-17.27.53:385][ 73]Cmd: TRANSACTION UNDO
+[2025.04.02-17.27.53:385][ 73]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2025.04.02-17.27.53:395][ 73]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.Heightmap_16 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.04.02-17.27.53:396][ 73]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.Heightmap_12 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.02-17.27.55:108][162]Cmd: TRANSACTION UNDO
+[2025.04.02-17.27.55:108][162]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2025.04.02-17.28.27:192][994]Cmd: TRANSACTION UNDO
+[2025.04.02-17.28.27:192][994]LogEditorTransaction: Undo Landscape Editing: Paint
+[2025.04.02-17.28.27:206][994]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.04.02-17.29.00:987][261]LogShaderCompilers: Display: ================================================
+[2025.04.02-17.29.00:987][261]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.02-17.29.00:987][261]LogShaderCompilers: Display: Total job queries 1423, among them cache hits 516 (36.26%), DDC hits 556 (39.07%), Duplicates 187 (13.14%)
+[2025.04.02-17.29.00:987][261]LogShaderCompilers: Display: Tracking 720 distinct input hashes that result in 353 distinct outputs (49.03%)
+[2025.04.02-17.29.00:987][261]LogShaderCompilers: Display: RAM used: 246,44 KiB of 1,60 GiB budget. Usage: 0.01%
+[2025.04.02-17.29.00:987][261]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.02-17.29.00:987][261]LogShaderCompilers: Display: Shaders Compiled: 164
+[2025.04.02-17.29.00:987][261]LogShaderCompilers: Display: Jobs assigned 164, completed 164 (100%)
+[2025.04.02-17.29.00:987][261]LogShaderCompilers: Display: Average time worker was idle: 182.56 s
+[2025.04.02-17.29.00:987][261]LogShaderCompilers: Display: Time job spent in pending queue: average 1.62 s, longest 10.21 s
+[2025.04.02-17.29.00:987][261]LogShaderCompilers: Display: Job execution time: average 3.89 s, max 14.09 s
+[2025.04.02-17.29.00:987][261]LogShaderCompilers: Display: Job life time (pending + execution): average 5.51 s, max 14.28
+[2025.04.02-17.29.00:987][261]LogShaderCompilers: Display: Shader code size: average 8,543 KiB, min 2,105 KiB, max 20,344 KiB
+[2025.04.02-17.29.00:987][261]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 35.87 s
+[2025.04.02-17.29.00:987][261]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2025.04.02-17.29.00:987][261]LogShaderCompilers: Display: Jobs were issued in 85 batches (only local compilation was used), average 1.93 jobs/batch
+[2025.04.02-17.29.00:987][261]LogShaderCompilers: Display: Average processing rate: 4.57 jobs/sec
+[2025.04.02-17.29.00:987][261]LogShaderCompilers: Display: Total thread time: 180,132 s
+[2025.04.02-17.29.00:987][261]LogShaderCompilers: Display: Total thread preprocess time: 26,669 s
+[2025.04.02-17.29.00:987][261]LogShaderCompilers: Display: Percentage time preprocessing: 14.81%
+[2025.04.02-17.29.00:987][261]LogShaderCompilers: Display: Effective parallelization: 5.02 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.04.02-17.29.00:987][261]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.02-17.29.00:987][261]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    8 times, average 2.70 sec, max 5.06 sec, min 1.28 sec)
+[2025.04.02-17.29.00:987][261]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    7 times, average 2.46 sec, max 4.27 sec, min 1.66 sec)
+[2025.04.02-17.29.00:987][261]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    6 times, average 2.34 sec, max 3.94 sec, min 1.37 sec)
+[2025.04.02-17.29.00:987][261]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    8 times, average 1.35 sec, max 2.87 sec, min 0.72 sec)
+[2025.04.02-17.29.00:987][261]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    6 times, average 1.19 sec, max 2.33 sec, min 0.62 sec)
+[2025.04.02-17.29.00:987][261]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.02-17.29.00:987][261]LogShaderCompilers: Display:                                             FDebugViewModePS - 11.97% of total time (compiled    8 times, average 2.70 sec, max 5.06 sec, min 1.28 sec)
+[2025.04.02-17.29.00:987][261]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 9.57% of total time (compiled    7 times, average 2.46 sec, max 4.27 sec, min 1.66 sec)
+[2025.04.02-17.29.00:987][261]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 7.80% of total time (compiled    6 times, average 2.34 sec, max 3.94 sec, min 1.37 sec)
+[2025.04.02-17.29.00:987][261]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.00% of total time (compiled    8 times, average 1.35 sec, max 2.87 sec, min 0.72 sec)
+[2025.04.02-17.29.00:987][261]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.41% of total time (compiled   11 times, average 0.89 sec, max 2.51 sec, min 0.40 sec)
+[2025.04.02-17.29.00:987][261]LogShaderCompilers: Display: === Material stats ===
+[2025.04.02-17.29.00:987][261]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.02-17.29.00:987][261]LogShaderCompilers: Display: Materials Translated:    299
+[2025.04.02-17.29.00:987][261]LogShaderCompilers: Display: Material Total Translate Time: 0.21 s
+[2025.04.02-17.29.00:987][261]LogShaderCompilers: Display: Material Translation Only: 0.12 s (55%)
+[2025.04.02-17.29.00:988][261]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.04.02-17.29.00:988][261]LogShaderCompilers: Display: Material Cache Hits: 61 (20%)
+[2025.04.02-17.29.00:988][261]LogShaderCompilers: Display: ================================================
+[2025.04.02-17.29.16:411][338]Cmd: TRANSACTION UNDO
+[2025.04.02-17.29.16:411][338]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2025.04.02-17.29.16:421][338]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.Heightmap_13 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.04.02-17.29.16:423][338]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.Heightmap_12 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.02-17.30.23:470][ 11]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.Heightmap_60 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.02-17.30.47:856][667]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.Heightmap_17 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.02-17.31.08:046][101]Cmd: TRANSACTION UNDO
+[2025.04.02-17.31.08:046][101]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.04.02-17.31.08:049][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_0 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:051][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_1 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:051][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_2 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:053][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_3 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:054][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_4 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:055][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_5 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:055][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_6 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:057][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_7 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:058][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_8 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:058][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_9 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:058][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_10 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:060][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_11 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:061][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_12 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:061][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_13 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:062][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_14 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:063][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_15 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:064][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_16 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:064][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_19 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:065][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_20 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:066][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_21 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:066][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_22 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:067][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_23 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:067][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_24 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:069][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_27 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:070][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_28 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:070][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_29 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:070][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_30 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:071][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_31 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:073][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_32 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:075][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_35 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:075][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_36 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:075][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_37 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:076][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_38 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:077][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_39 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:077][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_40 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:077][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_41 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:077][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_42 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:077][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_43 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:079][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_44 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:080][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_45 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:081][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_46 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:081][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_47 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:081][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_48 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:081][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_49 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:081][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_50 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:084][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_51 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:085][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_52 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:085][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_53 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:086][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_54 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:087][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_55 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:087][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_56 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:087][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_57 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:088][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_58 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:090][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_59 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:090][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_60 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:090][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_61 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:090][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_62 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:091][101]MapCheck: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.LandscapeComponent_63 : Removed unused layer weightmap Edit Layer: '<Runtime>' Target Layer: 'baseColor' 
+[2025.04.02-17.31.08:109][101]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.Heightmap_16 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.02-17.31.08:109][101]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.Heightmap_17 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.02-17.31.08:110][101]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.Heightmap_61 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.02-17.31.16:286][617]Cmd: TRANSACTION UNDO
+[2025.04.02-17.31.16:286][617]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.04.02-17.31.16:296][617]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.Heightmap_61 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.02-17.31.17:420][667]Cmd: TRANSACTION UNDO
+[2025.04.02-17.31.17:420][667]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.04.02-17.31.17:430][667]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.Heightmap_61 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.02-17.31.26:369][296]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.Heightmap_16 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.02-17.32.43:402][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.04.02-17.32.43:408][692]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.02-17.32.43:467][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_1" FILE="../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Levels/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.04.02-17.32.43:514][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.04.02-17.32.43:532][692]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.Heightmap_12 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.02-17.32.43:534][692]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.Heightmap_13 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.04.02-17.32.43:535][692]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.Heightmap_16 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.04.02-17.32.43:536][692]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.Heightmap_17 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.02-17.32.43:537][692]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.Heightmap_18 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.04.02-17.32.43:539][692]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.Heightmap_21 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.04.02-17.32.43:540][692]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.Heightmap_22 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.02-17.32.43:541][692]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.Heightmap_26 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.04.02-17.32.43:542][692]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.Heightmap_27 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.02-17.32.43:544][692]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.Heightmap_28 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.04.02-17.32.43:546][692]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.Heightmap_31 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.04.02-17.32.43:547][692]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.Weightmap_5 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.02-17.32.43:549][692]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.Weightmap_3 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.04.02-17.32.43:550][692]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.04.02-17.32.43:551][692]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.Weightmap_4 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.04.02-17.32.43:552][692]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.LandscapeStreamingProxy_0.Weightmap_8 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.140617 MB), EncodeSpeed: Fast
+[2025.04.02-17.32.43:556][692]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.Heightmap_16 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.02-17.32.43:557][692]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.Heightmap_17 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.02-17.32.43:564][692]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.Heightmap_60 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.02-17.32.43:565][692]LogTexture: Display: Building textures: /Game/Levels/Level_1.Level_1:PersistentLevel.Landscape_0.Heightmap_61 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 1.145824 MB), EncodeSpeed: Fast
+[2025.04.02-17.32.44:138][692]LogSavePackage: Moving output files for package: /Game/Levels/Level_1
+[2025.04.02-17.32.44:138][692]LogSavePackage: Moving '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Saved/Level_18BB03C004DA67487872BBA886E541D28.tmp' to '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Levels/Level_1.umap'
+[2025.04.02-17.32.44:159][692]LogFileHelpers: Saving map 'Level_1' took 0.695
+[2025.04.02-17.32.44:168][692]LogFileHelpers: InternalPromptForCheckoutAndSave took 760.334 ms (total: 4.30 sec)
+[2025.04.02-17.32.44:241][692]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.02-17.32.44:241][692]LogContentValidation: Enabled validators:
+[2025.04.02-17.32.44:241][692]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.02-17.32.44:241][692]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.02-17.32.44:241][692]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.02-17.32.44:241][692]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.02-17.32.44:241][692]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.02-17.32.44:241][692]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.02-17.32.44:242][692]AssetCheck: /Game/Levels/Level_1 Validating asset
