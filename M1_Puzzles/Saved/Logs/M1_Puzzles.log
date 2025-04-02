@@ -8725,3 +8725,1201 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.02-14.49.41:534][673]LogSavePackage: Moving '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Saved/Pol_Auto7ECE02BCC4656719FB9B5DFBAA957B043.tmp' to '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Saved/Autosaves/Game/Levels/Pol_Auto7.umap'
 [2025.04.02-14.49.41:535][673]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_1' took 0.036
 [2025.04.02-14.49.41:535][673]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.036
+[2025.04.02-14.52.17:005][492]LogStreaming: Display: FlushAsyncLoading(549): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.02-14.52.22:562][839]LogStreaming: Display: FlushAsyncLoading(550): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.02-14.52.30:326][342]LogStreaming: Display: FlushAsyncLoading(551): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.02-14.52.32:816][482]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.02-14.52.32:825][482]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.02-14.52.32:826][482]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2025.04.02-14.52.32:980][482]LogPlayLevel: PIE: StaticDuplicateObject took: (0.154650s)
+[2025.04.02-14.52.32:980][482]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.154688s)
+[2025.04.02-14.52.33:002][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.04.02-14.52.33:011][482]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.04.02-14.52.33:013][482]LogPlayLevel: PIE: World Init took: (0.002102s)
+[2025.04.02-14.52.33:014][482]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2025.04.02-14.52.33:014][482]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.02-14.52.33:014][482]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.02-14.52.33:014][482]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.02-14.52.33:014][482]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.02-14.52.33:014][482]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.02-14.52.33:014][482]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.02-14.52.33:014][482]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.02-14.52.33:014][482]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.02-14.52.33:014][482]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.02-14.52.33:014][482]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.02-14.52.33:014][482]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.02-14.52.33:016][482]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.02-14.52.33:046][482]LogAudioMixer: Display: Using Audio Hardware Device Q27G2G4 (NVIDIA High Definition Audio)
+[2025.04.02-14.52.33:047][482]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.02-14.52.33:047][482]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.02-14.52.33:047][482]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.02-14.52.33:047][482]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=57
+[2025.04.02-14.52.33:047][482]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=57
+[2025.04.02-14.52.33:050][482]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=57
+[2025.04.02-14.52.33:050][482]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=57
+[2025.04.02-14.52.33:050][482]LogInit: FAudioDevice initialized with ID 57.
+[2025.04.02-14.52.33:050][482]LogAudio: Display: Audio Device (ID: 57) registered with world 'Level_1'.
+[2025.04.02-14.52.33:050][482]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 57
+[2025.04.02-14.52.33:053][482]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.02-14.52.33:145][482]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2025.04.02-08.52.33
+[2025.04.02-14.52.33:147][482]LogWorld: Bringing up level for play took: 0.057997
+[2025.04.02-14.52.33:150][482]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2025.04.02-14.52.33:176][482]PIE: Server logged in
+[2025.04.02-14.52.33:177][482]PIE: Play in editor total start time 0.352 seconds.
+[2025.04.02-14.52.33:205][482]LogAudio: Warning: Detected orphaned looping sound 'SC_AbandonedFactory'.
+[2025.04.02-14.53.20:777][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-14.53.20:777][384]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2025.04.02-14.53.20:779][384]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.04.02-14.53.20:793][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-14.53.20:797][384]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.02-14.53.20:804][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-14.53.20:831][384]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-14.53.20:834][384]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 57
+[2025.04.02-14.53.20:834][384]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2025.04.02-14.53.20:837][384]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2025.04.02-14.53.20:858][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.04.02-14.53.20:942][385]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2025.04.02-14.53.20:965][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.04.02-14.53.30:959][514]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7018.473145
+[2025.04.02-14.53.31:086][524]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.02-14.53.31:086][524]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7018.586914, Update Interval: 322.231506
+[2025.04.02-14.53.43:825][415]LogShaderCompilers: Display: ================================================
+[2025.04.02-14.53.43:825][415]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.02-14.53.43:825][415]LogShaderCompilers: Display: Total job queries 361, among them cache hits 121 (33.52%), DDC hits 148 (41.00%), Duplicates 10 (2.77%)
+[2025.04.02-14.53.43:825][415]LogShaderCompilers: Display: Tracking 230 distinct input hashes that result in 167 distinct outputs (72.61%)
+[2025.04.02-14.53.43:825][415]LogShaderCompilers: Display: RAM used: 119.96 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.04.02-14.53.43:825][415]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.02-14.53.43:825][415]LogShaderCompilers: Display: Shaders Compiled: 82
+[2025.04.02-14.53.43:825][415]LogShaderCompilers: Display: Jobs assigned 82, completed 82 (100%)
+[2025.04.02-14.53.43:825][415]LogShaderCompilers: Display: Average time worker was idle: 517.47 s
+[2025.04.02-14.53.43:825][415]LogShaderCompilers: Display: Time job spent in pending queue: average 3.30 s, longest 8.74 s
+[2025.04.02-14.53.43:825][415]LogShaderCompilers: Display: Job execution time: average 1.60 s, max 6.89 s
+[2025.04.02-14.53.43:825][415]LogShaderCompilers: Display: Job life time (pending + execution): average 4.90 s, max 10.33
+[2025.04.02-14.53.43:825][415]LogShaderCompilers: Display: Shader code size: average 9.329 KiB, min 2.105 KiB, max 20.652 KiB
+[2025.04.02-14.53.43:825][415]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 20.97 s
+[2025.04.02-14.53.43:825][415]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.37%
+[2025.04.02-14.53.43:825][415]LogShaderCompilers: Display: Jobs were issued in 75 batches (only local compilation was used), average 1.09 jobs/batch
+[2025.04.02-14.53.43:825][415]LogShaderCompilers: Display: Average processing rate: 3.91 jobs/sec
+[2025.04.02-14.53.43:825][415]LogShaderCompilers: Display: Total thread time: 85.713 s
+[2025.04.02-14.53.43:825][415]LogShaderCompilers: Display: Total thread preprocess time: 6.676 s
+[2025.04.02-14.53.43:825][415]LogShaderCompilers: Display: Percentage time preprocessing: 7.79%
+[2025.04.02-14.53.43:825][415]LogShaderCompilers: Display: Effective parallelization: 4.09 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.04.02-14.53.43:825][415]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.02-14.53.43:825][415]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    4 times, average 4.40 sec, max 4.57 sec, min 4.21 sec)
+[2025.04.02-14.53.43:825][415]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    4 times, average 3.61 sec, max 3.72 sec, min 3.38 sec)
+[2025.04.02-14.53.43:826][415]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 1.61 sec, max 2.14 sec, min 1.07 sec)
+[2025.04.02-14.53.43:826][415]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   11 times, average 1.47 sec, max 1.84 sec, min 1.00 sec)
+[2025.04.02-14.53.43:826][415]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 1.46 sec, max 1.51 sec, min 1.42 sec)
+[2025.04.02-14.53.43:826][415]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.02-14.53.43:826][415]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 20.54% of total time (compiled    4 times, average 4.40 sec, max 4.57 sec, min 4.21 sec)
+[2025.04.02-14.53.43:826][415]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 18.86% of total time (compiled   11 times, average 1.47 sec, max 1.84 sec, min 1.00 sec)
+[2025.04.02-14.53.43:826][415]LogShaderCompilers: Display:                                                 FLumenCardCS - 16.84% of total time (compiled    4 times, average 3.61 sec, max 3.72 sec, min 3.38 sec)
+[2025.04.02-14.53.43:826][415]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.60% of total time (compiled   12 times, average 0.69 sec, max 0.96 sec, min 0.48 sec)
+[2025.04.02-14.53.43:826][415]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.67% of total time (compiled   13 times, average 0.44 sec, max 0.57 sec, min 0.24 sec)
+[2025.04.02-14.53.43:826][415]LogShaderCompilers: Display: === Material stats ===
+[2025.04.02-14.53.43:826][415]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.02-14.53.43:826][415]LogShaderCompilers: Display: Materials Translated:    161
+[2025.04.02-14.53.43:826][415]LogShaderCompilers: Display: Material Total Translate Time: 0.18 s
+[2025.04.02-14.53.43:826][415]LogShaderCompilers: Display: Material Translation Only: 0.06 s (36%)
+[2025.04.02-14.53.43:826][415]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.04.02-14.53.43:826][415]LogShaderCompilers: Display: Material Cache Hits: 31 (19%)
+[2025.04.02-14.53.43:826][415]LogShaderCompilers: Display: ================================================
+[2025.04.02-14.55.06:391][  4]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: b16...22d
+[2025.04.02-14.55.06:391][  4]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 100 RefreshExpires: 1.554e+07
+[2025.04.02-14.55.06:542][ 18]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: b16...22d Access[Expires: 2025.04.02-16.55.06 Remaining: 7200.40] Refresh[Expires: 2025-09-29T12:56:46.204Z Remaining: 15544900.20] State: Valid
+[2025.04.02-14.56.35:830][719]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame.BP_DoorGame
+[2025.04.02-14.56.35:830][719]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.04.02-14.57.01:460][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.04.02-14.57.01:759][947]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.02-14.57.01:790][947]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame] ([2] browsable assets)...
+[2025.04.02-14.57.01:826][947]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame.BP_DoorGame]
+[2025.04.02-14.57.01:826][947]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame]
+[2025.04.02-14.57.01:842][947]LogSavePackage: Moving output files for package: /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame
+[2025.04.02-14.57.01:843][947]LogSavePackage: Moving '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Saved/BP_DoorGame61552BD8474A6E2793B8449F696FA7D5.tmp' to '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Content/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame.uasset'
+[2025.04.02-14.57.01:853][947]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.655 ms (total: 14.9 sec)
+[2025.04.02-14.57.01:878][947]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.02-14.57.01:878][947]LogContentValidation: Enabled validators:
+[2025.04.02-14.57.01:878][947]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.02-14.57.01:878][947]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.02-14.57.01:878][947]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.02-14.57.01:878][947]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.02-14.57.01:878][947]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.02-14.57.01:878][947]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.02-14.57.01:878][947]AssetCheck: /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame Validating asset
+[2025.04.02-14.58.31:366][802]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.02-14.58.31:395][802]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame] ([2] browsable assets)...
+[2025.04.02-14.58.31:395][802]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame]
+[2025.04.02-14.58.31:411][802]LogSavePackage: Moving output files for package: /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame
+[2025.04.02-14.58.31:411][802]LogSavePackage: Moving '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Saved/BP_DoorGame13B92C4F4174EE45D1E934943F27FE0A.tmp' to '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Content/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame.uasset'
+[2025.04.02-14.58.31:419][802]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.245 ms (total: 14.9 sec)
+[2025.04.02-14.58.31:441][802]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.02-14.58.31:441][802]LogContentValidation: Enabled validators:
+[2025.04.02-14.58.31:441][802]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.02-14.58.31:441][802]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.02-14.58.31:441][802]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.02-14.58.31:441][802]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.02-14.58.31:441][802]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.02-14.58.31:441][802]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.02-14.58.31:441][802]AssetCheck: /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame Validating asset
+[2025.04.02-14.58.37:073][257]LogDerivedDataCache: C:/Users/sergi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:19.198 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 10170 files in 11874 folders with total size 422 MiB.
+[2025.04.02-14.59.01:023][340]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.02-14.59.01:045][340]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.02-14.59.01:045][340]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2025.04.02-14.59.01:199][340]LogPlayLevel: PIE: StaticDuplicateObject took: (0.153822s)
+[2025.04.02-14.59.01:199][340]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.153861s)
+[2025.04.02-14.59.01:222][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.04.02-14.59.01:231][340]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.04.02-14.59.01:233][340]LogPlayLevel: PIE: World Init took: (0.002089s)
+[2025.04.02-14.59.01:234][340]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2025.04.02-14.59.01:234][340]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.02-14.59.01:234][340]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.02-14.59.01:234][340]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.02-14.59.01:234][340]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.02-14.59.01:234][340]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.02-14.59.01:234][340]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.02-14.59.01:234][340]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.02-14.59.01:234][340]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.02-14.59.01:234][340]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.02-14.59.01:234][340]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.02-14.59.01:234][340]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.02-14.59.01:236][340]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.02-14.59.01:263][340]LogAudioMixer: Display: Using Audio Hardware Device Q27G2G4 (NVIDIA High Definition Audio)
+[2025.04.02-14.59.01:264][340]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.02-14.59.01:264][340]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.02-14.59.01:264][340]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.02-14.59.01:264][340]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=58
+[2025.04.02-14.59.01:264][340]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=58
+[2025.04.02-14.59.01:267][340]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=58
+[2025.04.02-14.59.01:267][340]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=58
+[2025.04.02-14.59.01:267][340]LogInit: FAudioDevice initialized with ID 58.
+[2025.04.02-14.59.01:267][340]LogAudio: Display: Audio Device (ID: 58) registered with world 'Level_1'.
+[2025.04.02-14.59.01:267][340]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 58
+[2025.04.02-14.59.01:270][340]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.02-14.59.01:364][340]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2025.04.02-08.59.01
+[2025.04.02-14.59.01:366][340]LogWorld: Bringing up level for play took: 0.059459
+[2025.04.02-14.59.01:368][340]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2025.04.02-14.59.01:395][340]PIE: Server logged in
+[2025.04.02-14.59.01:397][340]PIE: Play in editor total start time 0.365 seconds.
+[2025.04.02-14.59.01:426][340]LogAudio: Warning: Detected orphaned looping sound 'SC_AbandonedFactory'.
+[2025.04.02-14.59.04:701][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-14.59.04:701][599]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2025.04.02-14.59.04:702][599]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.04.02-14.59.04:716][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-14.59.04:721][599]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.02-14.59.04:728][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-14.59.04:758][599]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.02-14.59.04:758][599]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 58
+[2025.04.02-14.59.04:758][599]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2025.04.02-14.59.04:760][599]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2025.04.02-14.59.04:763][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-14.59.04:781][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.04.02-14.59.04:849][600]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2025.04.02-14.59.04:873][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.04.02-14.59.10:681][ 87]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.02-14.59.10:712][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_1" FILE="../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Content/Levels/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.04.02-14.59.10:756][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.04.02-14.59.11:198][ 87]LogSavePackage: Moving output files for package: /Game/Levels/Level_1
+[2025.04.02-14.59.11:198][ 87]LogSavePackage: Moving '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Saved/Level_1578D0AE845AAE4022A537FAB13B4E2C9.tmp' to '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Content/Levels/Level_1.umap'
+[2025.04.02-14.59.11:216][ 87]LogFileHelpers: Saving map 'Level_1' took 0.506
+[2025.04.02-14.59.11:224][ 87]LogFileHelpers: InternalPromptForCheckoutAndSave took 543.665 ms (total: 15.5 sec)
+[2025.04.02-14.59.11:266][ 87]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.02-14.59.11:266][ 87]LogContentValidation: Enabled validators:
+[2025.04.02-14.59.11:266][ 87]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.02-14.59.11:266][ 87]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.02-14.59.11:266][ 87]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.02-14.59.11:266][ 87]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.02-14.59.11:266][ 87]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.02-14.59.11:266][ 87]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.02-14.59.11:267][ 87]AssetCheck: /Game/Levels/Level_1 Validating asset
+[2025.04.02-14.59.11:386][ 97]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.02-14.59.11:393][ 97]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.02-14.59.11:394][ 97]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2025.04.02-14.59.11:548][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.155079s)
+[2025.04.02-14.59.11:548][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.155117s)
+[2025.04.02-14.59.11:572][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.04.02-14.59.11:575][ 97]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.04.02-14.59.11:576][ 97]LogPlayLevel: PIE: World Init took: (0.001939s)
+[2025.04.02-14.59.11:577][ 97]LogAudio: Display: Creating Audio Device:                 Id: 59, Scope: Unique, Realtime: True
+[2025.04.02-14.59.11:577][ 97]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.02-14.59.11:577][ 97]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.02-14.59.11:577][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.02-14.59.11:577][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.02-14.59.11:577][ 97]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.02-14.59.11:577][ 97]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.02-14.59.11:577][ 97]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.02-14.59.11:577][ 97]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.02-14.59.11:577][ 97]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.02-14.59.11:577][ 97]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.02-14.59.11:577][ 97]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.02-14.59.11:580][ 97]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.02-14.59.11:608][ 97]LogAudioMixer: Display: Using Audio Hardware Device Q27G2G4 (NVIDIA High Definition Audio)
+[2025.04.02-14.59.11:608][ 97]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.02-14.59.11:608][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.02-14.59.11:608][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.02-14.59.11:609][ 97]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=59
+[2025.04.02-14.59.11:609][ 97]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=59
+[2025.04.02-14.59.11:612][ 97]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=59
+[2025.04.02-14.59.11:612][ 97]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=59
+[2025.04.02-14.59.11:612][ 97]LogInit: FAudioDevice initialized with ID 59.
+[2025.04.02-14.59.11:612][ 97]LogAudio: Display: Audio Device (ID: 59) registered with world 'Level_1'.
+[2025.04.02-14.59.11:612][ 97]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 59
+[2025.04.02-14.59.11:615][ 97]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.02-14.59.11:708][ 97]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2025.04.02-08.59.11
+[2025.04.02-14.59.11:710][ 97]LogWorld: Bringing up level for play took: 0.059016
+[2025.04.02-14.59.11:712][ 97]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2025.04.02-14.59.11:738][ 97]PIE: Server logged in
+[2025.04.02-14.59.11:738][ 97]PIE: Play in editor total start time 0.346 seconds.
+[2025.04.02-14.59.11:767][ 97]LogAudio: Warning: Detected orphaned looping sound 'SC_AbandonedFactory'.
+[2025.04.02-14.59.15:351][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-14.59.15:351][375]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2025.04.02-14.59.15:352][375]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.04.02-14.59.15:366][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-14.59.15:371][375]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.02-14.59.15:378][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-14.59.15:403][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-14.59.15:408][375]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 59
+[2025.04.02-14.59.15:408][375]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2025.04.02-14.59.15:410][375]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2025.04.02-14.59.15:430][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.04.02-14.59.15:497][376]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2025.04.02-14.59.15:520][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.04.02-14.59.37:119][716]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7384.434082
+[2025.04.02-14.59.38:119][719]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.02-14.59.38:119][719]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7385.100586, Update Interval: 309.587708
+[2025.04.02-15.00.44:315][ 30]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2025.04.02-15.01.20:639][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.04.02-15.01.20:957][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.02-15.01.20:989][ 96]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame] ([2] browsable assets)...
+[2025.04.02-15.01.21:043][ 96]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame.BP_DoorGame]
+[2025.04.02-15.01.21:044][ 96]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame]
+[2025.04.02-15.01.21:060][ 96]LogSavePackage: Moving output files for package: /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame
+[2025.04.02-15.01.21:061][ 96]LogSavePackage: Moving '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Saved/BP_DoorGame6AE7B93F438A0189A3EBB5BDE52BFFB8.tmp' to '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Content/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame.uasset'
+[2025.04.02-15.01.21:070][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.162 ms (total: 15.6 sec)
+[2025.04.02-15.01.21:097][ 96]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.02-15.01.21:097][ 96]LogContentValidation: Enabled validators:
+[2025.04.02-15.01.21:097][ 96]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.02-15.01.21:097][ 96]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.02-15.01.21:097][ 96]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.02-15.01.21:097][ 96]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.02-15.01.21:097][ 96]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.02-15.01.21:097][ 96]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.02-15.01.21:097][ 96]AssetCheck: /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame Validating asset
+[2025.04.02-15.01.31:152][109]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.02-15.01.31:179][109]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame] ([2] browsable assets)...
+[2025.04.02-15.01.31:179][109]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame]
+[2025.04.02-15.01.31:195][109]LogSavePackage: Moving output files for package: /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame
+[2025.04.02-15.01.31:195][109]LogSavePackage: Moving '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Saved/BP_DoorGame5B2E08B945E37B44A10D12A043582ED7.tmp' to '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Content/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame.uasset'
+[2025.04.02-15.01.31:203][109]LogFileHelpers: InternalPromptForCheckoutAndSave took 50.766 ms (total: 15.6 sec)
+[2025.04.02-15.01.31:236][109]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.02-15.01.31:236][109]LogContentValidation: Enabled validators:
+[2025.04.02-15.01.31:236][109]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.02-15.01.31:236][109]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.02-15.01.31:236][109]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.02-15.01.31:236][109]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.02-15.01.31:236][109]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.02-15.01.31:236][109]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.02-15.01.31:236][109]AssetCheck: /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame Validating asset
+[2025.04.02-15.01.36:671][678]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.02-15.01.36:706][678]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame] ([2] browsable assets)...
+[2025.04.02-15.01.36:706][678]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame]
+[2025.04.02-15.01.36:722][678]LogSavePackage: Moving output files for package: /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame
+[2025.04.02-15.01.36:723][678]LogSavePackage: Moving '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Saved/BP_DoorGame50EA949649735B4FCA6E9DAE219FC4A5.tmp' to '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Content/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame.uasset'
+[2025.04.02-15.01.36:731][678]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.820 ms (total: 15.7 sec)
+[2025.04.02-15.01.36:768][678]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.02-15.01.36:768][678]LogContentValidation: Enabled validators:
+[2025.04.02-15.01.36:768][678]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.02-15.01.36:768][678]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.02-15.01.36:768][678]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.02-15.01.36:768][678]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.02-15.01.36:768][678]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.02-15.01.36:768][678]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.02-15.01.36:768][678]AssetCheck: /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame Validating asset
+[2025.04.02-15.01.38:293][815]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.02-15.01.38:300][815]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.02-15.01.38:322][815]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2025.04.02-15.01.38:479][815]LogPlayLevel: PIE: StaticDuplicateObject took: (0.156382s)
+[2025.04.02-15.01.38:479][815]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.156426s)
+[2025.04.02-15.01.38:498][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.04.02-15.01.38:505][815]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.04.02-15.01.38:507][815]LogPlayLevel: PIE: World Init took: (0.001974s)
+[2025.04.02-15.01.38:508][815]LogAudio: Display: Creating Audio Device:                 Id: 60, Scope: Unique, Realtime: True
+[2025.04.02-15.01.38:508][815]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.02-15.01.38:508][815]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.02-15.01.38:508][815]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.02-15.01.38:508][815]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.02-15.01.38:508][815]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.02-15.01.38:508][815]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.02-15.01.38:508][815]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.02-15.01.38:508][815]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.02-15.01.38:508][815]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.02-15.01.38:508][815]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.02-15.01.38:508][815]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.02-15.01.38:510][815]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.02-15.01.38:537][815]LogAudioMixer: Display: Using Audio Hardware Device Q27G2G4 (NVIDIA High Definition Audio)
+[2025.04.02-15.01.38:537][815]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.02-15.01.38:537][815]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.02-15.01.38:537][815]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.02-15.01.38:538][815]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=60
+[2025.04.02-15.01.38:538][815]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=60
+[2025.04.02-15.01.38:540][815]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=60
+[2025.04.02-15.01.38:540][815]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=60
+[2025.04.02-15.01.38:541][815]LogInit: FAudioDevice initialized with ID 60.
+[2025.04.02-15.01.38:541][815]LogAudio: Display: Audio Device (ID: 60) registered with world 'Level_1'.
+[2025.04.02-15.01.38:541][815]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 60
+[2025.04.02-15.01.38:544][815]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.02-15.01.38:636][815]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2025.04.02-09.01.38
+[2025.04.02-15.01.38:637][815]LogWorld: Bringing up level for play took: 0.059292
+[2025.04.02-15.01.38:640][815]LogOnline: OSS: Created online subsystem instance for: :Context_70
+[2025.04.02-15.01.38:667][815]PIE: Server logged in
+[2025.04.02-15.01.38:668][815]PIE: Play in editor total start time 0.367 seconds.
+[2025.04.02-15.01.38:697][815]LogAudio: Warning: Detected orphaned looping sound 'SC_AbandonedFactory'.
+[2025.04.02-15.01.41:033][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-15.01.41:033][  0]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2025.04.02-15.01.41:035][  0]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.04.02-15.01.41:048][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-15.01.41:067][  0]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.02-15.01.41:073][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-15.01.41:100][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.02-15.01.41:102][  0]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 60
+[2025.04.02-15.01.41:102][  0]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2025.04.02-15.01.41:104][  0]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2025.04.02-15.01.41:108][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-15.01.41:125][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.04.02-15.01.41:193][  1]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2025.04.02-15.01.41:216][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.04.02-15.01.54:745][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.04.02-15.01.55:247][312]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.02-15.01.55:280][312]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame] ([2] browsable assets)...
+[2025.04.02-15.01.55:334][312]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame.BP_DoorGame]
+[2025.04.02-15.01.55:334][312]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame]
+[2025.04.02-15.01.55:350][312]LogSavePackage: Moving output files for package: /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame
+[2025.04.02-15.01.55:351][312]LogSavePackage: Moving '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Saved/BP_DoorGame84B90A084E672CCBCBA777A6CBEBAF15.tmp' to '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Content/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame.uasset'
+[2025.04.02-15.01.55:360][312]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.790 ms (total: 15.8 sec)
+[2025.04.02-15.01.55:390][312]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.02-15.01.55:390][312]LogContentValidation: Enabled validators:
+[2025.04.02-15.01.55:390][312]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.02-15.01.55:390][312]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.02-15.01.55:390][312]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.02-15.01.55:390][312]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.02-15.01.55:390][312]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.02-15.01.55:390][312]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.02-15.01.55:390][312]AssetCheck: /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame Validating asset
+[2025.04.02-15.01.56:390][401]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.02-15.01.56:397][401]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.02-15.01.56:397][401]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2025.04.02-15.01.56:549][401]LogPlayLevel: PIE: StaticDuplicateObject took: (0.152242s)
+[2025.04.02-15.01.56:550][401]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.152280s)
+[2025.04.02-15.01.56:572][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.04.02-15.01.56:579][401]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.04.02-15.01.56:582][401]LogPlayLevel: PIE: World Init took: (0.002134s)
+[2025.04.02-15.01.56:583][401]LogAudio: Display: Creating Audio Device:                 Id: 61, Scope: Unique, Realtime: True
+[2025.04.02-15.01.56:583][401]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.02-15.01.56:583][401]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.02-15.01.56:583][401]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.02-15.01.56:583][401]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.02-15.01.56:583][401]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.02-15.01.56:583][401]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.02-15.01.56:583][401]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.02-15.01.56:583][401]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.02-15.01.56:583][401]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.02-15.01.56:583][401]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.02-15.01.56:583][401]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.02-15.01.56:585][401]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.02-15.01.56:612][401]LogAudioMixer: Display: Using Audio Hardware Device Q27G2G4 (NVIDIA High Definition Audio)
+[2025.04.02-15.01.56:612][401]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.02-15.01.56:612][401]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.02-15.01.56:612][401]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.02-15.01.56:613][401]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=61
+[2025.04.02-15.01.56:613][401]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=61
+[2025.04.02-15.01.56:616][401]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=61
+[2025.04.02-15.01.56:616][401]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=61
+[2025.04.02-15.01.56:616][401]LogInit: FAudioDevice initialized with ID 61.
+[2025.04.02-15.01.56:616][401]LogAudio: Display: Audio Device (ID: 61) registered with world 'Level_1'.
+[2025.04.02-15.01.56:616][401]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 61
+[2025.04.02-15.01.56:618][401]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.02-15.01.56:710][401]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2025.04.02-09.01.56
+[2025.04.02-15.01.56:712][401]LogWorld: Bringing up level for play took: 0.058555
+[2025.04.02-15.01.56:714][401]LogOnline: OSS: Created online subsystem instance for: :Context_71
+[2025.04.02-15.01.56:739][401]PIE: Server logged in
+[2025.04.02-15.01.56:740][401]PIE: Play in editor total start time 0.344 seconds.
+[2025.04.02-15.01.56:769][401]LogAudio: Warning: Detected orphaned looping sound 'SC_AbandonedFactory'.
+[2025.04.02-15.02.05:153][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-15.02.05:153][ 88]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2025.04.02-15.02.05:155][ 88]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.04.02-15.02.05:168][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-15.02.05:187][ 88]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.02-15.02.05:194][ 88]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-15.02.05:223][ 88]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.02-15.02.05:223][ 88]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 61
+[2025.04.02-15.02.05:223][ 88]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=61
+[2025.04.02-15.02.05:225][ 88]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=61
+[2025.04.02-15.02.05:229][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-15.02.05:246][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.04.02-15.02.05:317][ 89]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2025.04.02-15.02.05:341][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.04.02-15.02.11:566][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.04.02-15.02.12:020][771]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.02-15.02.12:054][771]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame] ([2] browsable assets)...
+[2025.04.02-15.02.12:109][771]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame.BP_DoorGame]
+[2025.04.02-15.02.12:109][771]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame]
+[2025.04.02-15.02.12:125][771]LogSavePackage: Moving output files for package: /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame
+[2025.04.02-15.02.12:125][771]LogSavePackage: Moving '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Saved/BP_DoorGame7AC160274A428C56046045A3AC9EEA95.tmp' to '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Content/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame.uasset'
+[2025.04.02-15.02.12:134][771]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.565 ms (total: 15.9 sec)
+[2025.04.02-15.02.12:164][771]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.02-15.02.12:164][771]LogContentValidation: Enabled validators:
+[2025.04.02-15.02.12:164][771]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.02-15.02.12:164][771]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.02-15.02.12:164][771]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.02-15.02.12:164][771]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.02-15.02.12:164][771]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.02-15.02.12:164][771]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.02-15.02.12:164][771]AssetCheck: /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame Validating asset
+[2025.04.02-15.02.15:279][ 56]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.02-15.02.15:286][ 56]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.02-15.02.15:312][ 56]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2025.04.02-15.02.15:466][ 56]LogPlayLevel: PIE: StaticDuplicateObject took: (0.153832s)
+[2025.04.02-15.02.15:466][ 56]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.153878s)
+[2025.04.02-15.02.15:490][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.04.02-15.02.15:498][ 56]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.04.02-15.02.15:500][ 56]LogPlayLevel: PIE: World Init took: (0.001807s)
+[2025.04.02-15.02.15:500][ 56]LogAudio: Display: Creating Audio Device:                 Id: 62, Scope: Unique, Realtime: True
+[2025.04.02-15.02.15:500][ 56]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.02-15.02.15:500][ 56]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.02-15.02.15:500][ 56]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.02-15.02.15:500][ 56]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.02-15.02.15:500][ 56]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.02-15.02.15:500][ 56]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.02-15.02.15:500][ 56]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.02-15.02.15:500][ 56]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.02-15.02.15:500][ 56]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.02-15.02.15:500][ 56]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.02-15.02.15:500][ 56]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.02-15.02.15:504][ 56]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.02-15.02.15:530][ 56]LogAudioMixer: Display: Using Audio Hardware Device Q27G2G4 (NVIDIA High Definition Audio)
+[2025.04.02-15.02.15:531][ 56]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.02-15.02.15:531][ 56]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.02-15.02.15:531][ 56]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.02-15.02.15:531][ 56]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=62
+[2025.04.02-15.02.15:531][ 56]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=62
+[2025.04.02-15.02.15:534][ 56]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=62
+[2025.04.02-15.02.15:534][ 56]LogInit: FAudioDevice initialized with ID 62.
+[2025.04.02-15.02.15:534][ 56]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=62
+[2025.04.02-15.02.15:534][ 56]LogAudio: Display: Audio Device (ID: 62) registered with world 'Level_1'.
+[2025.04.02-15.02.15:534][ 56]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 62
+[2025.04.02-15.02.15:536][ 56]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.02-15.02.15:628][ 56]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2025.04.02-09.02.15
+[2025.04.02-15.02.15:629][ 56]LogWorld: Bringing up level for play took: 0.057834
+[2025.04.02-15.02.15:632][ 56]LogOnline: OSS: Created online subsystem instance for: :Context_72
+[2025.04.02-15.02.15:657][ 56]PIE: Server logged in
+[2025.04.02-15.02.15:658][ 56]PIE: Play in editor total start time 0.372 seconds.
+[2025.04.02-15.02.15:686][ 56]LogAudio: Warning: Detected orphaned looping sound 'SC_AbandonedFactory'.
+[2025.04.02-15.02.23:883][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-15.02.23:883][736]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2025.04.02-15.02.23:885][736]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.04.02-15.02.23:899][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-15.02.23:917][736]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.02-15.02.23:923][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-15.02.23:952][736]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.02-15.02.23:952][736]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 62
+[2025.04.02-15.02.23:952][736]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=62
+[2025.04.02-15.02.23:954][736]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=62
+[2025.04.02-15.02.23:959][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-15.02.23:975][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.04.02-15.02.24:045][737]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2025.04.02-15.02.24:070][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.04.02-15.02.32:189][409]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.02-15.02.32:198][409]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.02-15.02.32:232][409]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2025.04.02-15.02.32:387][409]LogPlayLevel: PIE: StaticDuplicateObject took: (0.154764s)
+[2025.04.02-15.02.32:387][409]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.154810s)
+[2025.04.02-15.02.32:410][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.04.02-15.02.32:414][409]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.04.02-15.02.32:416][409]LogPlayLevel: PIE: World Init took: (0.002038s)
+[2025.04.02-15.02.32:417][409]LogAudio: Display: Creating Audio Device:                 Id: 63, Scope: Unique, Realtime: True
+[2025.04.02-15.02.32:417][409]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.02-15.02.32:417][409]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.02-15.02.32:417][409]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.02-15.02.32:417][409]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.02-15.02.32:417][409]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.02-15.02.32:418][409]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.02-15.02.32:418][409]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.02-15.02.32:418][409]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.02-15.02.32:418][409]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.02-15.02.32:418][409]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.02-15.02.32:418][409]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.02-15.02.32:420][409]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.02-15.02.32:447][409]LogAudioMixer: Display: Using Audio Hardware Device Q27G2G4 (NVIDIA High Definition Audio)
+[2025.04.02-15.02.32:447][409]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.02-15.02.32:447][409]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.02-15.02.32:448][409]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.02-15.02.32:448][409]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=63
+[2025.04.02-15.02.32:448][409]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=63
+[2025.04.02-15.02.32:452][409]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=63
+[2025.04.02-15.02.32:452][409]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=63
+[2025.04.02-15.02.32:452][409]LogInit: FAudioDevice initialized with ID 63.
+[2025.04.02-15.02.32:452][409]LogAudio: Display: Audio Device (ID: 63) registered with world 'Level_1'.
+[2025.04.02-15.02.32:452][409]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 63
+[2025.04.02-15.02.32:454][409]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.02-15.02.32:546][409]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2025.04.02-09.02.32
+[2025.04.02-15.02.32:548][409]LogWorld: Bringing up level for play took: 0.058429
+[2025.04.02-15.02.32:550][409]LogOnline: OSS: Created online subsystem instance for: :Context_73
+[2025.04.02-15.02.32:575][409]PIE: Server logged in
+[2025.04.02-15.02.32:576][409]PIE: Play in editor total start time 0.379 seconds.
+[2025.04.02-15.02.32:604][409]LogAudio: Warning: Detected orphaned looping sound 'SC_AbandonedFactory'.
+[2025.04.02-15.02.37:183][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-15.02.37:183][796]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2025.04.02-15.02.37:185][796]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.04.02-15.02.37:199][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-15.02.37:204][796]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.02-15.02.37:210][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-15.02.37:236][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-15.02.37:240][796]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 63
+[2025.04.02-15.02.37:240][796]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=63
+[2025.04.02-15.02.37:243][796]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=63
+[2025.04.02-15.02.37:264][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.04.02-15.02.37:333][797]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2025.04.02-15.02.37:357][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.04.02-15.03.02:095][896]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.04.02-15.03.02:559][896]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Level_1_Auto8
+[2025.04.02-15.03.02:560][896]LogSavePackage: Moving '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Saved/Level_1_Auto89E6BBBA24B096B3725B1B5B1D8F820DE.tmp' to '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Saved/Autosaves/Game/Levels/Level_1_Auto8.umap'
+[2025.04.02-15.03.02:564][896]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_1' took 0.492
+[2025.04.02-15.03.02:564][896]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.492
+[2025.04.02-15.04.56:500][288]LogEditorTransaction: Undo Create Pin Link
+[2025.04.02-15.05.35:290][734]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7742.574707
+[2025.04.02-15.05.35:391][746]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.02-15.05.35:391][746]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7742.667480, Update Interval: 355.158539
+[2025.04.02-15.05.43:551][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.04.02-15.05.43:964][741]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.02-15.05.44:005][741]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame] ([2] browsable assets)...
+[2025.04.02-15.05.44:099][741]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame.BP_DoorGame]
+[2025.04.02-15.05.44:099][741]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame]
+[2025.04.02-15.05.44:117][741]LogSavePackage: Moving output files for package: /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame
+[2025.04.02-15.05.44:117][741]LogSavePackage: Moving '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Saved/BP_DoorGameAAFB9B5C4962D9A1B48AAC9D37DE5FA4.tmp' to '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Content/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame.uasset'
+[2025.04.02-15.05.44:125][741]LogFileHelpers: InternalPromptForCheckoutAndSave took 160.755 ms (total: 16.1 sec)
+[2025.04.02-15.05.44:158][741]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.02-15.05.44:158][741]LogContentValidation: Enabled validators:
+[2025.04.02-15.05.44:158][741]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.02-15.05.44:159][741]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.02-15.05.44:159][741]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.02-15.05.44:159][741]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.02-15.05.44:159][741]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.02-15.05.44:159][741]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.02-15.05.44:159][741]AssetCheck: /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame Validating asset
+[2025.04.02-15.05.46:292][957]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.02-15.05.46:300][957]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.02-15.05.46:325][957]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2025.04.02-15.05.46:482][957]LogPlayLevel: PIE: StaticDuplicateObject took: (0.156614s)
+[2025.04.02-15.05.46:482][957]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.156661s)
+[2025.04.02-15.05.46:504][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.04.02-15.05.46:512][957]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.04.02-15.05.46:514][957]LogPlayLevel: PIE: World Init took: (0.001898s)
+[2025.04.02-15.05.46:516][957]LogAudio: Display: Creating Audio Device:                 Id: 64, Scope: Unique, Realtime: True
+[2025.04.02-15.05.46:516][957]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.02-15.05.46:516][957]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.02-15.05.46:516][957]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.02-15.05.46:516][957]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.02-15.05.46:516][957]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.02-15.05.46:516][957]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.02-15.05.46:516][957]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.02-15.05.46:516][957]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.02-15.05.46:516][957]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.02-15.05.46:516][957]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.02-15.05.46:516][957]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.02-15.05.46:518][957]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.02-15.05.46:546][957]LogAudioMixer: Display: Using Audio Hardware Device Q27G2G4 (NVIDIA High Definition Audio)
+[2025.04.02-15.05.46:546][957]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.02-15.05.46:546][957]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.02-15.05.46:546][957]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.02-15.05.46:547][957]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=64
+[2025.04.02-15.05.46:547][957]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=64
+[2025.04.02-15.05.46:550][957]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=64
+[2025.04.02-15.05.46:550][957]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=64
+[2025.04.02-15.05.46:550][957]LogInit: FAudioDevice initialized with ID 64.
+[2025.04.02-15.05.46:550][957]LogAudio: Display: Audio Device (ID: 64) registered with world 'Level_1'.
+[2025.04.02-15.05.46:550][957]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 64
+[2025.04.02-15.05.46:552][957]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.02-15.05.46:644][957]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2025.04.02-09.05.46
+[2025.04.02-15.05.46:647][957]LogWorld: Bringing up level for play took: 0.058824
+[2025.04.02-15.05.46:649][957]LogOnline: OSS: Created online subsystem instance for: :Context_74
+[2025.04.02-15.05.46:674][957]PIE: Server logged in
+[2025.04.02-15.05.46:675][957]PIE: Play in editor total start time 0.375 seconds.
+[2025.04.02-15.05.46:702][957]LogAudio: Warning: Detected orphaned looping sound 'SC_AbandonedFactory'.
+[2025.04.02-15.05.50:265][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-15.05.50:265][280]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2025.04.02-15.05.50:267][280]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.04.02-15.05.50:281][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-15.05.50:302][280]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.02-15.05.50:308][280]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-15.05.50:337][280]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.02-15.05.50:337][280]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 64
+[2025.04.02-15.05.50:337][280]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=64
+[2025.04.02-15.05.50:339][280]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=64
+[2025.04.02-15.05.50:343][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-15.05.50:360][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.04.02-15.05.50:429][281]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2025.04.02-15.05.50:453][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.04.02-15.06.23:167][965]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.02-15.06.23:200][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_1" FILE="../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Content/Levels/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.04.02-15.06.23:244][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.04.02-15.06.23:692][965]LogSavePackage: Moving output files for package: /Game/Levels/Level_1
+[2025.04.02-15.06.23:693][965]LogSavePackage: Moving '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Saved/Level_120F2BD944C7A7638739034B406B74216.tmp' to '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Content/Levels/Level_1.umap'
+[2025.04.02-15.06.23:710][965]LogFileHelpers: Saving map 'Level_1' took 0.512
+[2025.04.02-15.06.23:719][965]LogFileHelpers: InternalPromptForCheckoutAndSave took 550.794 ms (total: 16.6 sec)
+[2025.04.02-15.06.23:752][965]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.02-15.06.23:752][965]LogContentValidation: Enabled validators:
+[2025.04.02-15.06.23:752][965]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.02-15.06.23:752][965]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.02-15.06.23:752][965]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.02-15.06.23:752][965]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.02-15.06.23:752][965]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.02-15.06.23:752][965]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.02-15.06.23:753][965]AssetCheck: /Game/Levels/Level_1 Validating asset
+[2025.04.02-15.06.24:169][999]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.02-15.06.24:177][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.02-15.06.24:215][999]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2025.04.02-15.06.24:370][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.154084s)
+[2025.04.02-15.06.24:370][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.154131s)
+[2025.04.02-15.06.24:393][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.04.02-15.06.24:395][999]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.04.02-15.06.24:397][999]LogPlayLevel: PIE: World Init took: (0.001938s)
+[2025.04.02-15.06.24:398][999]LogAudio: Display: Creating Audio Device:                 Id: 65, Scope: Unique, Realtime: True
+[2025.04.02-15.06.24:398][999]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.02-15.06.24:398][999]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.02-15.06.24:398][999]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.02-15.06.24:398][999]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.02-15.06.24:398][999]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.02-15.06.24:398][999]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.02-15.06.24:398][999]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.02-15.06.24:398][999]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.02-15.06.24:398][999]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.02-15.06.24:398][999]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.02-15.06.24:398][999]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.02-15.06.24:401][999]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.02-15.06.24:428][999]LogAudioMixer: Display: Using Audio Hardware Device Q27G2G4 (NVIDIA High Definition Audio)
+[2025.04.02-15.06.24:429][999]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.02-15.06.24:429][999]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.02-15.06.24:429][999]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.02-15.06.24:430][999]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=65
+[2025.04.02-15.06.24:430][999]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=65
+[2025.04.02-15.06.24:433][999]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=65
+[2025.04.02-15.06.24:433][999]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=65
+[2025.04.02-15.06.24:433][999]LogInit: FAudioDevice initialized with ID 65.
+[2025.04.02-15.06.24:433][999]LogAudio: Display: Audio Device (ID: 65) registered with world 'Level_1'.
+[2025.04.02-15.06.24:433][999]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 65
+[2025.04.02-15.06.24:435][999]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.02-15.06.24:527][999]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2025.04.02-09.06.24
+[2025.04.02-15.06.24:528][999]LogWorld: Bringing up level for play took: 0.057875
+[2025.04.02-15.06.24:531][999]LogOnline: OSS: Created online subsystem instance for: :Context_75
+[2025.04.02-15.06.24:555][999]PIE: Server logged in
+[2025.04.02-15.06.24:556][999]PIE: Play in editor total start time 0.38 seconds.
+[2025.04.02-15.06.24:585][999]LogAudio: Warning: Detected orphaned looping sound 'SC_AbandonedFactory'.
+[2025.04.02-15.06.37:846][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-15.06.37:847][214]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2025.04.02-15.06.37:848][214]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.04.02-15.06.37:861][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-15.06.37:883][214]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.02-15.06.37:890][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-15.06.37:915][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-15.06.37:920][214]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 65
+[2025.04.02-15.06.37:920][214]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=65
+[2025.04.02-15.06.37:922][214]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=65
+[2025.04.02-15.06.37:942][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.04.02-15.06.38:012][215]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2025.04.02-15.06.38:037][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.04.02-15.08.10:867][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.04.02-15.08.11:392][963]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.02-15.08.11:424][963]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame] ([2] browsable assets)...
+[2025.04.02-15.08.11:480][963]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame.BP_DoorGame]
+[2025.04.02-15.08.11:480][963]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame]
+[2025.04.02-15.08.11:498][963]LogSavePackage: Moving output files for package: /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame
+[2025.04.02-15.08.11:499][963]LogSavePackage: Moving '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Saved/BP_DoorGame2152F81347A48CFC7DF1EAB6EB3763E3.tmp' to '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Content/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame.uasset'
+[2025.04.02-15.08.11:507][963]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.685 ms (total: 16.7 sec)
+[2025.04.02-15.08.11:542][963]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.02-15.08.11:542][963]LogContentValidation: Enabled validators:
+[2025.04.02-15.08.11:542][963]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.02-15.08.11:542][963]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.02-15.08.11:542][963]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.02-15.08.11:542][963]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.02-15.08.11:542][963]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.02-15.08.11:542][963]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.02-15.08.11:542][963]AssetCheck: /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame Validating asset
+[2025.04.02-15.08.12:810][110]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.02-15.08.12:818][110]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.02-15.08.12:818][110]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2025.04.02-15.08.12:974][110]LogPlayLevel: PIE: StaticDuplicateObject took: (0.156648s)
+[2025.04.02-15.08.12:974][110]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.156688s)
+[2025.04.02-15.08.12:996][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.04.02-15.08.13:004][110]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.04.02-15.08.13:006][110]LogPlayLevel: PIE: World Init took: (0.001963s)
+[2025.04.02-15.08.13:007][110]LogAudio: Display: Creating Audio Device:                 Id: 66, Scope: Unique, Realtime: True
+[2025.04.02-15.08.13:007][110]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.02-15.08.13:007][110]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.02-15.08.13:007][110]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.02-15.08.13:007][110]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.02-15.08.13:007][110]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.02-15.08.13:007][110]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.02-15.08.13:007][110]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.02-15.08.13:007][110]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.02-15.08.13:007][110]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.02-15.08.13:007][110]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.02-15.08.13:007][110]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.02-15.08.13:009][110]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.02-15.08.13:037][110]LogAudioMixer: Display: Using Audio Hardware Device Q27G2G4 (NVIDIA High Definition Audio)
+[2025.04.02-15.08.13:038][110]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.02-15.08.13:038][110]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.02-15.08.13:038][110]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.02-15.08.13:038][110]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=66
+[2025.04.02-15.08.13:038][110]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=66
+[2025.04.02-15.08.13:041][110]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=66
+[2025.04.02-15.08.13:041][110]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=66
+[2025.04.02-15.08.13:041][110]LogInit: FAudioDevice initialized with ID 66.
+[2025.04.02-15.08.13:041][110]LogAudio: Display: Audio Device (ID: 66) registered with world 'Level_1'.
+[2025.04.02-15.08.13:041][110]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 66
+[2025.04.02-15.08.13:071][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-15.08.13:072][110]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.02-15.08.13:165][110]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2025.04.02-09.08.13
+[2025.04.02-15.08.13:166][110]LogWorld: Bringing up level for play took: 0.058740
+[2025.04.02-15.08.13:170][110]LogOnline: OSS: Created online subsystem instance for: :Context_76
+[2025.04.02-15.08.13:199][110]PIE: Server logged in
+[2025.04.02-15.08.13:202][110]PIE: Play in editor total start time 0.384 seconds.
+[2025.04.02-15.08.13:232][110]LogAudio: Warning: Detected orphaned looping sound 'SC_AbandonedFactory'.
+[2025.04.02-15.08.27:417][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-15.08.27:417][103]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2025.04.02-15.08.27:418][103]LogSlate: Window 'M1_Puzzles Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.04.02-15.08.27:425][103]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.04.02-15.08.27:439][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-15.08.27:460][103]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.02-15.08.27:467][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-15.08.27:497][103]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.02-15.08.27:497][103]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 66
+[2025.04.02-15.08.27:498][103]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=66
+[2025.04.02-15.08.27:500][103]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=66
+[2025.04.02-15.08.27:525][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.04.02-15.08.27:685][104]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2025.04.02-15.08.27:710][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.04.02-15.09.19:155][181]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.04.02-15.09.19:500][196]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.02-15.09.19:532][196]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame] ([2] browsable assets)...
+[2025.04.02-15.09.19:605][196]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame.BP_DoorGame]
+[2025.04.02-15.09.19:606][196]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame]
+[2025.04.02-15.09.19:623][196]LogSavePackage: Moving output files for package: /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame
+[2025.04.02-15.09.19:624][196]LogSavePackage: Moving '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Saved/BP_DoorGameA8F77F7046CC0FFF6E1FA3A1C3FDF424.tmp' to '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Content/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame.uasset'
+[2025.04.02-15.09.19:632][196]LogFileHelpers: InternalPromptForCheckoutAndSave took 132.689 ms (total: 16.9 sec)
+[2025.04.02-15.09.19:660][196]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.02-15.09.19:660][196]LogContentValidation: Enabled validators:
+[2025.04.02-15.09.19:660][196]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.02-15.09.19:660][196]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.02-15.09.19:660][196]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.02-15.09.19:660][196]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.02-15.09.19:660][196]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.02-15.09.19:660][196]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.02-15.09.19:660][196]AssetCheck: /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame Validating asset
+[2025.04.02-15.09.20:442][266]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.02-15.09.20:451][266]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.02-15.09.20:451][266]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2025.04.02-15.09.20:607][266]LogPlayLevel: PIE: StaticDuplicateObject took: (0.156655s)
+[2025.04.02-15.09.20:608][266]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.156691s)
+[2025.04.02-15.09.20:629][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.04.02-15.09.20:637][266]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.04.02-15.09.20:639][266]LogPlayLevel: PIE: World Init took: (0.001909s)
+[2025.04.02-15.09.20:640][266]LogAudio: Display: Creating Audio Device:                 Id: 67, Scope: Unique, Realtime: True
+[2025.04.02-15.09.20:640][266]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.02-15.09.20:640][266]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.02-15.09.20:640][266]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.02-15.09.20:640][266]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.02-15.09.20:640][266]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.02-15.09.20:640][266]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.02-15.09.20:640][266]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.02-15.09.20:640][266]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.02-15.09.20:640][266]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.02-15.09.20:640][266]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.02-15.09.20:640][266]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.02-15.09.20:642][266]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.02-15.09.20:670][266]LogAudioMixer: Display: Using Audio Hardware Device Q27G2G4 (NVIDIA High Definition Audio)
+[2025.04.02-15.09.20:670][266]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.02-15.09.20:670][266]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.02-15.09.20:670][266]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.02-15.09.20:671][266]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=67
+[2025.04.02-15.09.20:671][266]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=67
+[2025.04.02-15.09.20:674][266]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=67
+[2025.04.02-15.09.20:674][266]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=67
+[2025.04.02-15.09.20:674][266]LogInit: FAudioDevice initialized with ID 67.
+[2025.04.02-15.09.20:674][266]LogAudio: Display: Audio Device (ID: 67) registered with world 'Level_1'.
+[2025.04.02-15.09.20:674][266]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 67
+[2025.04.02-15.09.20:703][266]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-15.09.20:703][266]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.02-15.09.20:797][266]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2025.04.02-09.09.20
+[2025.04.02-15.09.20:798][266]LogWorld: Bringing up level for play took: 0.059508
+[2025.04.02-15.09.20:800][266]LogOnline: OSS: Created online subsystem instance for: :Context_77
+[2025.04.02-15.09.20:830][266]PIE: Server logged in
+[2025.04.02-15.09.20:833][266]PIE: Play in editor total start time 0.383 seconds.
+[2025.04.02-15.09.20:860][266]LogAudio: Warning: Detected orphaned looping sound 'SC_AbandonedFactory'.
+[2025.04.02-15.09.55:378][284]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-15.09.55:378][284]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2025.04.02-15.09.55:379][284]LogSlate: Window 'M1_Puzzles Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.04.02-15.09.55:388][284]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.04.02-15.09.55:404][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-15.09.55:425][284]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.02-15.09.55:433][284]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-15.09.55:463][284]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.02-15.09.55:464][284]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 67
+[2025.04.02-15.09.55:464][284]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=67
+[2025.04.02-15.09.55:466][284]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=67
+[2025.04.02-15.09.55:488][284]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2025.04.02-15.09.55:650][285]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2025.04.02-15.09.55:676][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.04.02-15.10.13:240][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.04.02-15.10.13:560][212]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.02-15.10.13:591][212]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame] ([2] browsable assets)...
+[2025.04.02-15.10.13:685][212]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame.BP_DoorGame]
+[2025.04.02-15.10.13:685][212]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame]
+[2025.04.02-15.10.13:703][212]LogSavePackage: Moving output files for package: /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame
+[2025.04.02-15.10.13:704][212]LogSavePackage: Moving '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Saved/BP_DoorGame97B51F1E495CC6DF7A89F3ACD124F872.tmp' to '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Content/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame.uasset'
+[2025.04.02-15.10.13:713][212]LogFileHelpers: InternalPromptForCheckoutAndSave took 152.515 ms (total: 17.0 sec)
+[2025.04.02-15.10.13:744][212]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.02-15.10.13:744][212]LogContentValidation: Enabled validators:
+[2025.04.02-15.10.13:744][212]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.02-15.10.13:744][212]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.02-15.10.13:744][212]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.02-15.10.13:744][212]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.02-15.10.13:744][212]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.02-15.10.13:744][212]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.02-15.10.13:744][212]AssetCheck: /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame Validating asset
+[2025.04.02-15.10.21:781][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.04.02-15.10.22:149][122]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.02-15.10.22:189][122]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame] ([2] browsable assets)...
+[2025.04.02-15.10.22:280][122]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame.BP_DoorGame]
+[2025.04.02-15.10.22:280][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame]
+[2025.04.02-15.10.22:299][122]LogSavePackage: Moving output files for package: /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame
+[2025.04.02-15.10.22:299][122]LogSavePackage: Moving '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Saved/BP_DoorGame3F7DB07C4C910813E8B8059B309E6E32.tmp' to '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Content/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame.uasset'
+[2025.04.02-15.10.22:309][122]LogFileHelpers: InternalPromptForCheckoutAndSave took 158.912 ms (total: 17.2 sec)
+[2025.04.02-15.10.22:339][122]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.02-15.10.22:340][122]LogContentValidation: Enabled validators:
+[2025.04.02-15.10.22:340][122]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.02-15.10.22:340][122]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.02-15.10.22:340][122]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.02-15.10.22:340][122]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.02-15.10.22:340][122]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.02-15.10.22:340][122]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.02-15.10.22:340][122]AssetCheck: /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame Validating asset
+[2025.04.02-15.10.59:744][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.04.02-15.11.00:188][621]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.02-15.11.00:219][621]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame] ([2] browsable assets)...
+[2025.04.02-15.11.00:276][621]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame.BP_DoorGame]
+[2025.04.02-15.11.00:276][621]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame]
+[2025.04.02-15.11.00:296][621]LogSavePackage: Moving output files for package: /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame
+[2025.04.02-15.11.00:296][621]LogSavePackage: Moving '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Saved/BP_DoorGameF4692441466EF2C6BF819981E84038BE.tmp' to '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Content/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame.uasset'
+[2025.04.02-15.11.00:305][621]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.487 ms (total: 17.3 sec)
+[2025.04.02-15.11.00:336][621]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.02-15.11.00:336][621]LogContentValidation: Enabled validators:
+[2025.04.02-15.11.00:336][621]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.02-15.11.00:336][621]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.02-15.11.00:336][621]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.02-15.11.00:336][621]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.02-15.11.00:336][621]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.02-15.11.00:336][621]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.02-15.11.00:336][621]AssetCheck: /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame Validating asset
+[2025.04.02-15.11.07:366][219]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.02-15.11.09:031][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.04.02-15.11.09:563][406]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.02-15.11.09:592][406]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame] ([2] browsable assets)...
+[2025.04.02-15.11.09:648][406]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame.BP_DoorGame]
+[2025.04.02-15.11.09:648][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame]
+[2025.04.02-15.11.09:666][406]LogSavePackage: Moving output files for package: /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame
+[2025.04.02-15.11.09:667][406]LogSavePackage: Moving '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Saved/BP_DoorGame960404DC46816B6927EACC85CA926050.tmp' to '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Content/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame.uasset'
+[2025.04.02-15.11.09:675][406]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.481 ms (total: 17.4 sec)
+[2025.04.02-15.11.09:703][406]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.02-15.11.09:703][406]LogContentValidation: Enabled validators:
+[2025.04.02-15.11.09:703][406]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.02-15.11.09:703][406]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.02-15.11.09:703][406]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.02-15.11.09:703][406]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.02-15.11.09:703][406]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.02-15.11.09:703][406]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.02-15.11.09:703][406]AssetCheck: /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame Validating asset
+[2025.04.02-15.11.12:266][622]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.02-15.11.12:274][622]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.02-15.11.12:298][622]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2025.04.02-15.11.12:453][622]LogPlayLevel: PIE: StaticDuplicateObject took: (0.154194s)
+[2025.04.02-15.11.12:453][622]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.154242s)
+[2025.04.02-15.11.12:476][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.04.02-15.11.12:485][622]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.04.02-15.11.12:487][622]LogPlayLevel: PIE: World Init took: (0.001916s)
+[2025.04.02-15.11.12:488][622]LogAudio: Display: Creating Audio Device:                 Id: 68, Scope: Unique, Realtime: True
+[2025.04.02-15.11.12:488][622]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.02-15.11.12:488][622]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.02-15.11.12:488][622]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.02-15.11.12:488][622]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.02-15.11.12:488][622]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.02-15.11.12:488][622]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.02-15.11.12:488][622]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.02-15.11.12:488][622]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.02-15.11.12:488][622]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.02-15.11.12:488][622]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.02-15.11.12:488][622]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.02-15.11.12:490][622]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.02-15.11.12:521][622]LogAudioMixer: Display: Using Audio Hardware Device Q27G2G4 (NVIDIA High Definition Audio)
+[2025.04.02-15.11.12:521][622]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.02-15.11.12:521][622]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.02-15.11.12:521][622]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.02-15.11.12:522][622]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=68
+[2025.04.02-15.11.12:522][622]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=68
+[2025.04.02-15.11.12:525][622]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=68
+[2025.04.02-15.11.12:525][622]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=68
+[2025.04.02-15.11.12:525][622]LogInit: FAudioDevice initialized with ID 68.
+[2025.04.02-15.11.12:525][622]LogAudio: Display: Audio Device (ID: 68) registered with world 'Level_1'.
+[2025.04.02-15.11.12:525][622]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 68
+[2025.04.02-15.11.12:529][622]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.02-15.11.12:631][622]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2025.04.02-09.11.12
+[2025.04.02-15.11.12:632][622]LogWorld: Bringing up level for play took: 0.064535
+[2025.04.02-15.11.12:635][622]LogOnline: OSS: Created online subsystem instance for: :Context_78
+[2025.04.02-15.11.12:660][622]PIE: Server logged in
+[2025.04.02-15.11.12:661][622]PIE: Play in editor total start time 0.387 seconds.
+[2025.04.02-15.11.12:689][622]LogAudio: Warning: Detected orphaned looping sound 'SC_AbandonedFactory'.
+[2025.04.02-15.11.21:570][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-15.11.21:570][401]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2025.04.02-15.11.21:571][401]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.04.02-15.11.21:585][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-15.11.21:608][401]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.02-15.11.21:615][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-15.11.21:646][401]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.02-15.11.21:647][401]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 68
+[2025.04.02-15.11.21:647][401]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=68
+[2025.04.02-15.11.21:648][401]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=68
+[2025.04.02-15.11.21:653][401]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-15.11.21:670][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.04.02-15.11.21:743][402]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2025.04.02-15.11.21:766][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.04.02-15.11.52:602][628]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.02-15.11.53:557][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.04.02-15.11.54:015][733]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.02-15.11.54:037][733]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame] ([2] browsable assets)...
+[2025.04.02-15.11.54:092][733]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame.BP_DoorGame]
+[2025.04.02-15.11.54:093][733]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame]
+[2025.04.02-15.11.54:112][733]LogSavePackage: Moving output files for package: /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame
+[2025.04.02-15.11.54:112][733]LogSavePackage: Moving '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Saved/BP_DoorGameAEBE8F914E1D9C55666775BD0C5AE616.tmp' to '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Content/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame.uasset'
+[2025.04.02-15.11.54:120][733]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.824 ms (total: 17.5 sec)
+[2025.04.02-15.11.54:154][733]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.02-15.11.54:154][733]LogContentValidation: Enabled validators:
+[2025.04.02-15.11.54:154][733]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.02-15.11.54:154][733]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.02-15.11.54:154][733]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.02-15.11.54:154][733]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.02-15.11.54:154][733]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.02-15.11.54:154][733]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.02-15.11.54:154][733]AssetCheck: /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame Validating asset
+[2025.04.02-15.11.55:343][836]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.02-15.11.55:350][836]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.02-15.11.55:350][836]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2025.04.02-15.11.55:504][836]LogPlayLevel: PIE: StaticDuplicateObject took: (0.153912s)
+[2025.04.02-15.11.55:504][836]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.153949s)
+[2025.04.02-15.11.55:527][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.04.02-15.11.55:536][836]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.04.02-15.11.55:538][836]LogPlayLevel: PIE: World Init took: (0.001816s)
+[2025.04.02-15.11.55:539][836]LogAudio: Display: Creating Audio Device:                 Id: 69, Scope: Unique, Realtime: True
+[2025.04.02-15.11.55:539][836]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.02-15.11.55:539][836]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.02-15.11.55:539][836]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.02-15.11.55:539][836]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.02-15.11.55:539][836]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.02-15.11.55:539][836]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.02-15.11.55:539][836]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.02-15.11.55:539][836]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.02-15.11.55:539][836]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.02-15.11.55:539][836]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.02-15.11.55:539][836]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.02-15.11.55:541][836]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.02-15.11.55:570][836]LogAudioMixer: Display: Using Audio Hardware Device Q27G2G4 (NVIDIA High Definition Audio)
+[2025.04.02-15.11.55:570][836]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.02-15.11.55:570][836]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.02-15.11.55:570][836]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.02-15.11.55:570][836]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=69
+[2025.04.02-15.11.55:571][836]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=69
+[2025.04.02-15.11.55:573][836]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=69
+[2025.04.02-15.11.55:573][836]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=69
+[2025.04.02-15.11.55:573][836]LogInit: FAudioDevice initialized with ID 69.
+[2025.04.02-15.11.55:573][836]LogAudio: Display: Audio Device (ID: 69) registered with world 'Level_1'.
+[2025.04.02-15.11.55:573][836]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 69
+[2025.04.02-15.11.55:576][836]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.02-15.11.55:671][836]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2025.04.02-09.11.55
+[2025.04.02-15.11.55:672][836]LogWorld: Bringing up level for play took: 0.060904
+[2025.04.02-15.11.55:675][836]LogOnline: OSS: Created online subsystem instance for: :Context_79
+[2025.04.02-15.11.55:701][836]PIE: Server logged in
+[2025.04.02-15.11.55:702][836]PIE: Play in editor total start time 0.352 seconds.
+[2025.04.02-15.11.55:731][836]LogAudio: Warning: Detected orphaned looping sound 'SC_AbandonedFactory'.
+[2025.04.02-15.11.59:950][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-15.11.59:950][178]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2025.04.02-15.11.59:952][178]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.04.02-15.11.59:966][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-15.11.59:991][178]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.02-15.11.59:997][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-15.12.00:031][178]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.02-15.12.00:031][178]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 69
+[2025.04.02-15.12.00:031][178]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=69
+[2025.04.02-15.12.00:033][178]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=69
+[2025.04.02-15.12.00:039][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-15.12.00:057][178]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2025.04.02-15.12.00:134][179]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2025.04.02-15.12.00:159][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.04.02-15.12.11:516][325]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8138.767090
+[2025.04.02-15.12.11:610][336]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.02-15.12.11:610][336]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8138.853027, Update Interval: 324.522217
+[2025.04.02-15.12.16:297][853]LogEditorTransaction: Undo Edit Light Color
+[2025.04.02-15.12.34:550][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.04.02-15.12.35:007][734]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.02-15.12.35:041][734]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame] ([2] browsable assets)...
+[2025.04.02-15.12.35:096][734]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame.BP_DoorGame]
+[2025.04.02-15.12.35:096][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame]
+[2025.04.02-15.12.35:115][734]LogSavePackage: Moving output files for package: /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame
+[2025.04.02-15.12.35:116][734]LogSavePackage: Moving '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Saved/BP_DoorGame3CC0AE7F45ADDB42656E6F888F2417DF.tmp' to '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Content/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame.uasset'
+[2025.04.02-15.12.35:124][734]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.028 ms (total: 17.6 sec)
+[2025.04.02-15.12.35:152][734]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.02-15.12.35:152][734]LogContentValidation: Enabled validators:
+[2025.04.02-15.12.35:152][734]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.02-15.12.35:152][734]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.02-15.12.35:152][734]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.02-15.12.35:152][734]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.02-15.12.35:152][734]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.02-15.12.35:152][734]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.02-15.12.35:152][734]AssetCheck: /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame Validating asset
+[2025.04.02-15.12.44:631][558]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.02-15.12.45:935][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.04.02-15.12.46:362][704]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.02-15.12.46:396][704]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame] ([2] browsable assets)...
+[2025.04.02-15.12.46:451][704]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame.BP_DoorGame]
+[2025.04.02-15.12.46:451][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame]
+[2025.04.02-15.12.46:470][704]LogSavePackage: Moving output files for package: /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame
+[2025.04.02-15.12.46:471][704]LogSavePackage: Moving '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Saved/BP_DoorGameC910B13243C90C88EF55D095C62A0068.tmp' to '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Content/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame.uasset'
+[2025.04.02-15.12.46:478][704]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.663 ms (total: 17.7 sec)
+[2025.04.02-15.12.46:513][704]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.02-15.12.46:513][704]LogContentValidation: Enabled validators:
+[2025.04.02-15.12.46:513][704]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.02-15.12.46:513][704]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.02-15.12.46:513][704]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.02-15.12.46:513][704]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.02-15.12.46:513][704]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.02-15.12.46:513][704]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.02-15.12.46:513][704]AssetCheck: /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame Validating asset
+[2025.04.02-15.12.47:620][795]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.02-15.12.47:628][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.02-15.12.47:628][795]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2025.04.02-15.12.47:781][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.152976s)
+[2025.04.02-15.12.47:781][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.153023s)
+[2025.04.02-15.12.47:804][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.04.02-15.12.47:809][795]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.04.02-15.12.47:812][795]LogPlayLevel: PIE: World Init took: (0.001868s)
+[2025.04.02-15.12.47:813][795]LogAudio: Display: Creating Audio Device:                 Id: 70, Scope: Unique, Realtime: True
+[2025.04.02-15.12.47:813][795]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.02-15.12.47:813][795]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.02-15.12.47:813][795]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.02-15.12.47:813][795]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.02-15.12.47:813][795]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.02-15.12.47:813][795]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.02-15.12.47:813][795]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.02-15.12.47:813][795]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.02-15.12.47:813][795]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.02-15.12.47:813][795]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.02-15.12.47:813][795]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.02-15.12.47:815][795]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.02-15.12.47:844][795]LogAudioMixer: Display: Using Audio Hardware Device Q27G2G4 (NVIDIA High Definition Audio)
+[2025.04.02-15.12.47:844][795]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.02-15.12.47:844][795]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.02-15.12.47:844][795]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.02-15.12.47:845][795]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=70
+[2025.04.02-15.12.47:845][795]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=70
+[2025.04.02-15.12.47:848][795]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=70
+[2025.04.02-15.12.47:848][795]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=70
+[2025.04.02-15.12.47:848][795]LogInit: FAudioDevice initialized with ID 70.
+[2025.04.02-15.12.47:848][795]LogAudio: Display: Audio Device (ID: 70) registered with world 'Level_1'.
+[2025.04.02-15.12.47:848][795]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 70
+[2025.04.02-15.12.47:850][795]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.02-15.12.47:944][795]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2025.04.02-09.12.47
+[2025.04.02-15.12.47:945][795]LogWorld: Bringing up level for play took: 0.059101
+[2025.04.02-15.12.47:948][795]LogOnline: OSS: Created online subsystem instance for: :Context_80
+[2025.04.02-15.12.47:973][795]PIE: Server logged in
+[2025.04.02-15.12.47:974][795]PIE: Play in editor total start time 0.347 seconds.
+[2025.04.02-15.12.48:002][795]LogAudio: Warning: Detected orphaned looping sound 'SC_AbandonedFactory'.
+[2025.04.02-15.12.53:691][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-15.12.53:691][260]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2025.04.02-15.12.53:692][260]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.04.02-15.12.53:706][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-15.12.53:730][260]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.02-15.12.53:737][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-15.12.53:767][260]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.02-15.12.53:768][260]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 70
+[2025.04.02-15.12.53:768][260]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=70
+[2025.04.02-15.12.53:770][260]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=70
+[2025.04.02-15.12.53:775][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-15.12.53:791][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.04.02-15.12.53:864][261]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2025.04.02-15.12.53:887][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.04.02-15.13.15:838][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.04.02-15.13.16:230][534]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.02-15.13.16:263][534]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame] ([2] browsable assets)...
+[2025.04.02-15.13.16:319][534]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame.BP_DoorGame]
+[2025.04.02-15.13.16:319][534]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame]
+[2025.04.02-15.13.16:340][534]LogSavePackage: Moving output files for package: /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame
+[2025.04.02-15.13.16:340][534]LogSavePackage: Moving '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Saved/BP_DoorGame7E4D87614283F502B7CD8E83678E7F2F.tmp' to '../../../../../Sergio/Escuela/TV2/Taller2Parcial1/M1_Puzzles/Content/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame.uasset'
+[2025.04.02-15.13.16:348][534]LogFileHelpers: InternalPromptForCheckoutAndSave took 118.781 ms (total: 17.9 sec)
+[2025.04.02-15.13.16:379][534]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.02-15.13.16:379][534]LogContentValidation: Enabled validators:
+[2025.04.02-15.13.16:379][534]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.02-15.13.16:379][534]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.02-15.13.16:379][534]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.02-15.13.16:379][534]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.02-15.13.16:379][534]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.02-15.13.16:379][534]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.02-15.13.16:379][534]AssetCheck: /Game/Sergio/Blueprints/Players/InteractionActors/BP_DoorGame Validating asset
+[2025.04.02-15.13.17:868][664]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.02-15.13.17:877][664]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.02-15.13.17:877][664]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2025.04.02-15.13.18:035][664]LogPlayLevel: PIE: StaticDuplicateObject took: (0.157524s)
+[2025.04.02-15.13.18:035][664]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.157564s)
+[2025.04.02-15.13.18:058][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.04.02-15.13.18:067][664]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.04.02-15.13.18:068][664]LogPlayLevel: PIE: World Init took: (0.001857s)
+[2025.04.02-15.13.18:069][664]LogAudio: Display: Creating Audio Device:                 Id: 71, Scope: Unique, Realtime: True
+[2025.04.02-15.13.18:069][664]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.02-15.13.18:069][664]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.02-15.13.18:069][664]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.02-15.13.18:069][664]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.02-15.13.18:069][664]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.02-15.13.18:069][664]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.02-15.13.18:069][664]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.02-15.13.18:069][664]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.02-15.13.18:070][664]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.02-15.13.18:070][664]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.02-15.13.18:070][664]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.02-15.13.18:071][664]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.02-15.13.18:100][664]LogAudioMixer: Display: Using Audio Hardware Device Q27G2G4 (NVIDIA High Definition Audio)
+[2025.04.02-15.13.18:100][664]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.02-15.13.18:100][664]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.02-15.13.18:100][664]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.02-15.13.18:100][664]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=71
+[2025.04.02-15.13.18:100][664]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=71
+[2025.04.02-15.13.18:103][664]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=71
+[2025.04.02-15.13.18:103][664]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=71
+[2025.04.02-15.13.18:103][664]LogInit: FAudioDevice initialized with ID 71.
+[2025.04.02-15.13.18:103][664]LogAudio: Display: Audio Device (ID: 71) registered with world 'Level_1'.
+[2025.04.02-15.13.18:103][664]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 71
+[2025.04.02-15.13.18:106][664]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.02-15.13.18:201][664]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2025.04.02-09.13.18
+[2025.04.02-15.13.18:202][664]LogWorld: Bringing up level for play took: 0.059888
+[2025.04.02-15.13.18:205][664]LogOnline: OSS: Created online subsystem instance for: :Context_81
+[2025.04.02-15.13.18:230][664]PIE: Server logged in
+[2025.04.02-15.13.18:231][664]PIE: Play in editor total start time 0.354 seconds.
+[2025.04.02-15.13.18:259][664]LogAudio: Warning: Detected orphaned looping sound 'SC_AbandonedFactory'.
+[2025.04.02-15.14.28:972][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-15.14.28:972][754]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2025.04.02-15.14.28:974][754]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.04.02-15.14.28:987][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-15.14.29:013][754]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.02-15.14.29:019][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.02-15.14.29:045][754]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.02-15.14.29:051][754]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 71
+[2025.04.02-15.14.29:051][754]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=71
+[2025.04.02-15.14.29:053][754]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=71
+[2025.04.02-15.14.29:058][754]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.02-15.14.29:074][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2025.04.02-15.14.29:150][755]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2025.04.02-15.14.29:173][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
