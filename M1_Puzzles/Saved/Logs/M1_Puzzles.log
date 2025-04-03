@@ -2328,3 +2328,927 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.03-05.38.01:734][393]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
 [2025.04.03-05.38.01:734][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.04.03-05.38.01:800][393]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2025.04.03-05.38.29:417][658]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3991.939453
+[2025.04.03-05.38.29:542][668]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.03-05.38.29:542][668]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3992.052734, Update Interval: 334.824066
+[2025.04.03-05.44.53:636][743]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4376.152344
+[2025.04.03-05.44.54:636][745]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.03-05.44.54:636][745]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4376.819336, Update Interval: 356.696686
+[2025.04.03-05.51.45:695][978]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4788.222656
+[2025.04.03-05.51.46:694][981]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.03-05.51.46:694][982]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4788.893555, Update Interval: 358.557068
+[2025.04.03-05.52.18:966][605]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.04.03-05.52.18:974][605]LogContentBrowser: Creating deferred item: NewFolder
+[2025.04.03-05.52.18:987][606]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.04.03-05.52.20:920][780]LogContentBrowser: Attempting asset rename: NewFolder -> Lights
+[2025.04.03-05.52.20:920][780]LogContentBrowser: End creating deferred item NewFolder
+[2025.04.03-05.53.35:881][290]LogStreaming: Display: FlushAsyncLoading(563): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.03-05.53.35:904][290]LogInterchangeEngine: [Pending] Importing
+[2025.04.03-05.53.35:904][290]LogInterchangeEngine: Display: Interchange start importing source [D:/UNIAT 6to Semestre/Taller de Videojuegos II/Fabric_Lights_Txt/Fabric_Lights_R.png]
+[2025.04.03-05.53.35:905][290]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.04.03-05.53.35:905][290]LogInterchangeEngine: Display: Interchange start importing source [D:/UNIAT 6to Semestre/Taller de Videojuegos II/Fabric_Lights_Txt/Fabric_Lights_H.png]
+[2025.04.03-05.53.35:906][290]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.04.03-05.53.35:906][290]LogInterchangeEngine: Display: Interchange start importing source [D:/UNIAT 6to Semestre/Taller de Videojuegos II/Fabric_Lights_Txt/Fabric_Lights_AO.png]
+[2025.04.03-05.53.35:907][290]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.04.03-05.53.35:907][290]LogInterchangeEngine: Display: Interchange start importing source [D:/UNIAT 6to Semestre/Taller de Videojuegos II/Fabric_Lights_Txt/Fabric_Lights_C.png]
+[2025.04.03-05.53.35:907][290]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.04.03-05.53.35:907][290]LogInterchangeEngine: Display: Interchange start importing source [D:/UNIAT 6to Semestre/Taller de Videojuegos II/Fabric_Lights_Txt/Fabric_Lights_Emission.png]
+[2025.04.03-05.53.35:908][290]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.04.03-05.53.35:908][290]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.04.03-05.53.36:060][292]LogStreaming: Display: FlushAsyncLoading(575): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.03-05.53.36:148][293]LogTexture: Display: Building textures: /Game/Textures/Lights/Fabric_Lights_H.Fabric_Lights_H (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 268.999983 MB), EncodeSpeed: Fast
+[2025.04.03-05.53.36:150][293]LogTexture: Display: Building textures: /Game/Textures/Lights/Fabric_Lights_R.Fabric_Lights_R (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 268.999983 MB), EncodeSpeed: Fast
+[2025.04.03-05.53.36:165][294]LogTexture: Display: Building textures: /Game/Textures/Lights/Fabric_Lights_AO.Fabric_Lights_AO (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 268.999983 MB), EncodeSpeed: Fast
+[2025.04.03-05.53.36:327][296]LogTexture: Display: Building textures: /Game/Textures/Lights/Fabric_Lights_C.Fabric_Lights_C (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.04.03-05.53.36:327][296]LogTexture: Display: Building textures: /Game/Textures/Lights/Fabric_Lights_Emission.Fabric_Lights_Emission (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.04.03-05.53.36:413][296]LogInterchangeEngine: Display: Interchange import completed [D:/UNIAT 6to Semestr...II/Fabric_Lights_Txt/Fabric_Lights_H.png]
+[2025.04.03-05.53.36:413][296]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.04.03-05.53.36:413][296]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.04.03-05.53.36:413][296]LogInterchangeEngine: Display: Interchange start importing source [D:/UNIAT 6to Semestre/Taller de Videojuegos II/Fabric_Lights_Txt/Fabric_Lights_M.png]
+[2025.04.03-05.53.36:476][297]LogInterchangeEngine: Display: Interchange import completed [D:/UNIAT 6to Semestr...II/Fabric_Lights_Txt/Fabric_Lights_R.png]
+[2025.04.03-05.53.36:476][297]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.04.03-05.53.36:476][297]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.04.03-05.53.36:476][297]LogInterchangeEngine: Display: Interchange start importing source [D:/UNIAT 6to Semestre/Taller de Videojuegos II/Fabric_Lights_Txt/Fabric_Lights_N.png]
+[2025.04.03-05.53.36:477][297]LogInterchangeEngine: Display: Interchange import completed [D:/UNIAT 6to Semestr...II/Fabric_Lights_Txt/Fabric_Lights_AO.png]
+[2025.04.03-05.53.36:477][297]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.04.03-05.53.36:495][298]LogInterchangeEngine: Display: Interchange import completed [D:/UNIAT 6to Semestr...II/Fabric_Lights_Txt/Fabric_Lights_C.png]
+[2025.04.03-05.53.36:495][298]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.04.03-05.53.36:497][298]LogInterchangeEngine: Display: Interchange import completed [D:/UNIAT 6to Semestr...II/Fabric_Lights_Txt/Fabric_Lights_Emission.png]
+[2025.04.03-05.53.36:497][298]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.04.03-05.53.36:507][299]LogStreaming: Display: FlushAsyncLoading(580): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.03-05.53.36:521][300]LogStreaming: Display: FlushAsyncLoading(581): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.03-05.53.36:523][301]LogTexture: Display: Building textures: /Game/Textures/Lights/Fabric_Lights_M.Fabric_Lights_M (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 268.999983 MB), EncodeSpeed: Fast
+[2025.04.03-05.53.36:618][305]LogInterchangeEngine: Display: Interchange import completed [D:/UNIAT 6to Semestr...II/Fabric_Lights_Txt/Fabric_Lights_M.png]
+[2025.04.03-05.53.36:618][305]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.04.03-05.53.36:636][305]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.04.03-05.53.36:642][306]LogTexture: Display: Building textures: /Game/Textures/Lights/Fabric_Lights_N.Fabric_Lights_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 337.499988 MB), EncodeSpeed: Fast
+[2025.04.03-05.53.36:799][308]LogInterchangeEngine: Display: Interchange import completed [D:/UNIAT 6to Semestr...II/Fabric_Lights_Txt/Fabric_Lights_N.png]
+[2025.04.03-05.53.36:855][308]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.04.03-05.53.36:855][308]LogInterchangeEngine: [Success] Import Done
+[2025.04.03-05.53.37:969][380]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Textures/Lights/Fabric_Lights_N.Fabric_Lights_N
+[2025.04.03-05.53.38:303][380]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.53.38:303][380]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.53.38:303][380]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.53.38:303][380]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.53.38:303][380]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.53.38:303][380]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.53.38:303][380]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.53.38:303][380]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.53.38:303][380]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.53.38:303][380]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.53.38:303][380]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.53.38:303][380]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.53.38:304][380]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.53.38:304][380]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.53.38:304][380]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.53.38:304][380]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.53.38:304][380]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.53.38:304][380]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.53.42:226][663]LogTexture: Display: Building textures: /Game/Textures/Lights/Fabric_Lights_N.Fabric_Lights_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 337.499988 MB), EncodeSpeed: Final
+[2025.04.03-05.53.43:311][749]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.03-05.53.43:377][749]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Lights/Fabric_Lights_N] ([1] browsable assets)...
+[2025.04.03-05.53.43:380][749]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Lights/Fabric_Lights_N.Fabric_Lights_N]
+[2025.04.03-05.53.43:380][749]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Lights/Fabric_Lights_N]
+[2025.04.03-05.53.43:380][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Lights/Fabric_Lights_N" FILE="../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Textures/Lights/Fabric_Lights_N.uasset" SILENT=true
+[2025.04.03-05.53.43:409][749]LogSavePackage: Moving output files for package: /Game/Textures/Lights/Fabric_Lights_N
+[2025.04.03-05.53.43:409][749]LogSavePackage: Moving '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Saved/Fabric_Lights_N3C4CDEE1488E7154D763DCB19DA61E41.tmp' to '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Textures/Lights/Fabric_Lights_N.uasset'
+[2025.04.03-05.53.43:424][749]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.866 ms (total: 1.76 sec)
+[2025.04.03-05.53.43:494][749]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.03-05.53.43:494][749]LogContentValidation: Enabled validators:
+[2025.04.03-05.53.43:494][749]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.03-05.53.43:494][749]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.03-05.53.43:494][749]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.03-05.53.43:494][749]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.03-05.53.43:494][749]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.03-05.53.43:494][749]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.03-05.53.43:494][749]AssetCheck: /Game/Textures/Lights/Fabric_Lights_N Validating asset
+[2025.04.03-05.53.44:158][804]LogSlate: Window 'Fabric_Lights_N' being destroyed
+[2025.04.03-05.53.44:187][804]LogSlate: Window 'Fabric_Lights_N' being destroyed
+[2025.04.03-05.53.55:217][588]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.04.03-05.53.55:225][588]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.04.03-05.53.55:244][589]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.04.03-05.54.04:297][368]LogContentBrowser: Attempting asset rename: NewMaterial -> M_Fabric_Lights
+[2025.04.03-05.54.04:298][368]LogContentBrowser: End creating deferred item NewMaterial
+[2025.04.03-05.54.06:088][492]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/M_Fabric_Lights.M_Fabric_Lights
+[2025.04.03-05.54.06:090][492]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png' error.
+[2025.04.03-05.54.06:090][492]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png
+[2025.04.03-05.54.06:090][492]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png' error.
+[2025.04.03-05.54.06:090][492]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png
+[2025.04.03-05.54.06:090][492]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png' error.
+[2025.04.03-05.54.06:090][492]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png
+[2025.04.03-05.54.06:090][492]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png' error.
+[2025.04.03-05.54.06:090][492]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png
+[2025.04.03-05.54.06:090][492]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png' error.
+[2025.04.03-05.54.06:090][492]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png
+[2025.04.03-05.54.06:090][492]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png' error.
+[2025.04.03-05.54.06:090][492]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png
+[2025.04.03-05.54.06:090][492]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png' error.
+[2025.04.03-05.54.06:090][492]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png
+[2025.04.03-05.54.06:090][492]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png' error.
+[2025.04.03-05.54.06:091][492]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png' error.
+[2025.04.03-05.54.06:091][492]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png
+[2025.04.03-05.54.06:091][492]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png
+[2025.04.03-05.54.06:091][492]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png' error.
+[2025.04.03-05.54.06:091][492]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png
+[2025.04.03-05.54.06:091][492]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png' error.
+[2025.04.03-05.54.06:091][492]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png
+[2025.04.03-05.54.06:091][492]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png' error.
+[2025.04.03-05.54.06:091][492]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png' error.
+[2025.04.03-05.54.06:091][492]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png
+[2025.04.03-05.54.06:091][492]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png
+[2025.04.03-05.54.06:091][492]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png' error.
+[2025.04.03-05.54.06:091][492]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png
+[2025.04.03-05.54.06:091][492]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png' error.
+[2025.04.03-05.54.06:091][492]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png
+[2025.04.03-05.54.06:091][492]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png' error.
+[2025.04.03-05.54.06:091][492]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png
+[2025.04.03-05.54.06:091][492]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png' error.
+[2025.04.03-05.54.06:091][492]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png
+[2025.04.03-05.54.06:091][492]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png' error.
+[2025.04.03-05.54.06:091][492]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png
+[2025.04.03-05.54.06:091][492]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png' error.
+[2025.04.03-05.54.06:091][492]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png
+[2025.04.03-05.54.06:091][492]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png' error.
+[2025.04.03-05.54.06:091][492]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png
+[2025.04.03-05.54.06:091][492]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png' error.
+[2025.04.03-05.54.06:091][492]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png
+[2025.04.03-05.54.06:091][492]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png' error.
+[2025.04.03-05.54.06:091][492]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png
+[2025.04.03-05.54.06:091][492]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png' error.
+[2025.04.03-05.54.06:091][492]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png
+[2025.04.03-05.54.06:091][492]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png' error.
+[2025.04.03-05.54.06:091][492]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png
+[2025.04.03-05.54.06:091][492]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png' error.
+[2025.04.03-05.54.06:091][492]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png
+[2025.04.03-05.54.06:091][492]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png' error.
+[2025.04.03-05.54.06:091][492]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png' error.
+[2025.04.03-05.54.06:091][492]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png
+[2025.04.03-05.54.06:091][492]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png
+[2025.04.03-05.54.06:091][492]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png' error.
+[2025.04.03-05.54.06:091][492]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png
+[2025.04.03-05.54.06:102][492]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.04.03-05.54.06:109][492]LogStreaming: Display: FlushAsyncLoading(582): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.03-05.54.06:435][492]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.54.06:435][492]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.54.06:435][492]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.54.06:435][492]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.54.06:692][492]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.03-05.54.06:692][492]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.03-05.54.06:692][492]MaterialEditorStats: Shader Count: 0
+[2025.04.03-05.54.06:692][492]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-05.54.06:707][492]LogSlate: Took 0.006204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.04.03-05.54.06:866][494]MaterialEditorStats: Base pass shader: 164 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.04.03-05.54.06:866][494]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.03-05.54.06:866][494]MaterialEditorStats: Texture samplers: 1/16
+[2025.04.03-05.54.06:866][494]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.03-05.54.06:866][494]MaterialEditorStats: Shader Count: 5
+[2025.04.03-05.54.06:866][494]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-05.54.34:432][112]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/Fabric_Lights.Fabric_Lights
+[2025.04.03-05.54.34:449][112]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.04.03-05.54.34:585][112]LogStreaming: Display: FlushAsyncLoading(586): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.03-05.54.45:370][597]LogMaterial: Display: Material /Game/Materials/M_Fabric_Lights.M_Fabric_Lights needed to have new flag set bUsedWithNanite !
+[2025.04.03-05.54.45:371][597]LogMaterial: Display: Material /Engine/Transient.M_Fabric_Lights needed to have new flag set bUsedWithNanite !
+[2025.04.03-05.54.45:377][597]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.54.45:377][597]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.54.45:377][597]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.54.45:377][597]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.54.45:386][597]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.54.45:386][597]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.54.45:386][597]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.54.45:386][597]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.54.45:435][597]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.03-05.54.45:435][597]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.03-05.54.45:435][597]MaterialEditorStats: Shader Count: 0
+[2025.04.03-05.54.45:435][597]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-05.54.45:501][598]MaterialEditorStats: Base pass shader: 164 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.04.03-05.54.45:501][598]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.03-05.54.45:501][598]MaterialEditorStats: Texture samplers: 1/16
+[2025.04.03-05.54.45:501][598]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.03-05.54.45:501][598]MaterialEditorStats: Shader Count: 5
+[2025.04.03-05.54.45:501][598]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-05.54.47:327][692]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.03-05.54.47:399][692]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Fabric_Lights] ([1] browsable assets)...
+[2025.04.03-05.54.47:414][692]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Fabric_Lights.Fabric_Lights]
+[2025.04.03-05.54.47:414][692]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Fabric_Lights]
+[2025.04.03-05.54.47:414][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Fabric_Lights" FILE="../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Models/Fabric_Lights.uasset" SILENT=true
+[2025.04.03-05.54.47:419][692]LogSavePackage: Moving output files for package: /Game/Models/Fabric_Lights
+[2025.04.03-05.54.47:420][692]LogSavePackage: Moving '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Saved/Fabric_Lights902E789B4ECE03B1C4350F9B0326F21F.tmp' to '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Models/Fabric_Lights.uasset'
+[2025.04.03-05.54.47:434][692]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.766 ms (total: 1.87 sec)
+[2025.04.03-05.54.47:501][692]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.03-05.54.47:501][692]LogContentValidation: Enabled validators:
+[2025.04.03-05.54.47:501][692]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.03-05.54.47:501][692]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.03-05.54.47:501][692]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.03-05.54.47:501][692]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.03-05.54.47:501][692]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.03-05.54.47:501][692]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.03-05.54.47:501][692]AssetCheck: /Game/Models/Fabric_Lights Validating asset
+[2025.04.03-05.54.49:811][777]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.04.03-05.54.49:811][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-05.54.49:958][777]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2025.04.03-05.54.50:457][802]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.54.50:457][802]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.54.50:457][802]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.54.50:457][802]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.54.50:975][830]MaterialEditorStats: Base pass shader: 164 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.04.03-05.54.50:975][830]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.03-05.54.50:975][830]MaterialEditorStats: Nanite Compute Shader: 780 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.04.03-05.54.50:975][830]MaterialEditorStats: Texture samplers: 1/16
+[2025.04.03-05.54.50:975][830]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.03-05.54.50:975][830]MaterialEditorStats: Shader Count: 13
+[2025.04.03-05.54.50:975][830]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-05.55.02:075][419]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.02:075][419]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.02:075][419]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.02:075][419]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.02:090][419]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.02:091][419]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.02:091][419]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.02:091][419]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.02:105][419]LogShaderCompilers: Display: Cancelled job 0x000005EE3AC54600 with pending SubmitJob call.
+[2025.04.03-05.55.02:105][419]LogShaderCompilers: Display: Cancelled job 0x000005EE3AC58C00 with pending SubmitJob call.
+[2025.04.03-05.55.02:108][419]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.02:108][419]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.02:108][419]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.02:108][419]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.02:122][419]LogShaderCompilers: Display: Cancelled job 0x000005EE3AC53C00 with pending SubmitJob call.
+[2025.04.03-05.55.02:122][419]LogShaderCompilers: Display: Cancelled job 0x000005EDD6C8F000 with pending SubmitJob call.
+[2025.04.03-05.55.02:124][419]LogShaderCompilers: Display: Cancelled job 0x000005EE3AC58C00 with pending SubmitJob call.
+[2025.04.03-05.55.02:126][419]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.02:126][419]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.02:126][419]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.02:126][419]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.02:142][419]LogShaderCompilers: Display: Cancelled job 0x000005EDD6C8D200 with pending SubmitJob call.
+[2025.04.03-05.55.02:143][419]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.02:143][419]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.02:143][419]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.02:143][419]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.02:144][419]LogShaderCompilers: Display: Cancelled job 0x000005EDD6C89600 with pending SubmitJob call.
+[2025.04.03-05.55.02:163][419]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.02:163][419]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.02:163][419]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.02:163][419]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.02:163][419]LogShaderCompilers: Display: Cancelled job 0x000005EE3AEFE600 with pending SubmitJob call.
+[2025.04.03-05.55.02:163][419]LogShaderCompilers: Display: Cancelled job 0x000005EDD6C8B400 with pending SubmitJob call.
+[2025.04.03-05.55.02:178][419]LogShaderCompilers: Display: Cancelled job 0x000005EE3AEFF000 with pending SubmitJob call.
+[2025.04.03-05.55.02:180][419]LogShaderCompilers: Display: Cancelled job 0x000005EDD6C8E600 with pending SubmitJob call.
+[2025.04.03-05.55.02:182][419]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.02:182][419]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.02:182][419]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.02:182][419]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.02:198][419]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.03-05.55.02:198][419]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.03-05.55.02:198][419]MaterialEditorStats: Shader Count: 0
+[2025.04.03-05.55.02:198][419]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-05.55.02:290][420]MaterialEditorStats: Base pass shader: 164 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.04.03-05.55.02:290][420]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.03-05.55.02:290][420]MaterialEditorStats: Texture samplers: 1/16
+[2025.04.03-05.55.02:290][420]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.03-05.55.02:290][420]MaterialEditorStats: Shader Count: 4
+[2025.04.03-05.55.02:290][420]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-05.55.09:044][735]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.09:044][735]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.09:044][735]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.09:044][735]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.09:050][735]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.03-05.55.09:050][735]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.04.03-05.55.09:050][735]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.03-05.55.09:050][735]MaterialEditorStats: Shader Count: 0
+[2025.04.03-05.55.09:050][735]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-05.55.09:160][738]MaterialEditorStats: Base pass shader: 172 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.04.03-05.55.09:160][738]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.03-05.55.09:160][738]MaterialEditorStats: Texture samplers: 2/16
+[2025.04.03-05.55.09:160][738]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.04.03-05.55.09:160][738]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.03-05.55.09:160][738]MaterialEditorStats: Shader Count: 5
+[2025.04.03-05.55.09:160][738]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-05.55.12:753][926]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.12:753][926]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.12:753][926]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.12:753][926]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.12:760][926]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.03-05.55.12:760][926]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.04.03-05.55.12:760][926]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.03-05.55.12:760][926]MaterialEditorStats: Shader Count: 0
+[2025.04.03-05.55.12:760][926]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-05.55.12:821][929]MaterialEditorStats: Base pass shader: 177 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.04.03-05.55.12:821][929]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.03-05.55.12:821][929]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.03-05.55.12:821][929]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.04.03-05.55.12:821][929]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.03-05.55.12:821][929]MaterialEditorStats: Shader Count: 5
+[2025.04.03-05.55.12:821][929]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-05.55.22:352][478]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.22:352][478]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.22:352][478]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.22:352][478]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.22:357][478]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.03-05.55.22:357][478]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.04.03-05.55.22:357][478]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.03-05.55.22:357][478]MaterialEditorStats: Shader Count: 0
+[2025.04.03-05.55.22:357][478]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-05.55.22:420][480]MaterialEditorStats: Base pass shader: 183 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.04.03-05.55.22:420][480]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.03-05.55.22:420][480]MaterialEditorStats: Texture samplers: 4/16
+[2025.04.03-05.55.22:420][480]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.04.03-05.55.22:420][480]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.03-05.55.22:420][480]MaterialEditorStats: Shader Count: 5
+[2025.04.03-05.55.22:420][480]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-05.55.36:351][258]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.36:351][258]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.36:351][258]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.36:351][258]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.36:357][258]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.03-05.55.36:357][258]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.04.03-05.55.36:357][258]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.03-05.55.36:357][258]MaterialEditorStats: Shader Count: 0
+[2025.04.03-05.55.36:357][258]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-05.55.36:407][260]MaterialEditorStats: Base pass shader: 186 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2025.04.03-05.55.36:407][260]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.03-05.55.36:407][260]MaterialEditorStats: Texture samplers: 5/16
+[2025.04.03-05.55.36:407][260]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.04.03-05.55.36:407][260]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.03-05.55.36:407][260]MaterialEditorStats: Shader Count: 5
+[2025.04.03-05.55.36:407][260]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-05.55.41:240][527]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.41:240][527]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.41:240][527]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.41:240][527]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.41:246][527]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.03-05.55.41:246][527]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2025.04.03-05.55.41:246][527]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.03-05.55.41:246][527]MaterialEditorStats: Shader Count: 0
+[2025.04.03-05.55.41:246][527]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-05.55.41:296][529]MaterialEditorStats: Base pass shader: 194 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 6
+Sampler Limit: 32
+
+[2025.04.03-05.55.41:296][529]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.03-05.55.41:296][529]MaterialEditorStats: Texture samplers: 6/16
+[2025.04.03-05.55.41:296][529]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2025.04.03-05.55.41:296][529]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.03-05.55.41:296][529]MaterialEditorStats: Shader Count: 5
+[2025.04.03-05.55.41:296][529]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-05.55.48:017][917]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.48:017][917]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.48:017][917]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.48:017][917]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.48:023][917]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.03-05.55.48:023][917]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.04.03-05.55.48:023][917]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.03-05.55.48:023][917]MaterialEditorStats: Shader Count: 0
+[2025.04.03-05.55.48:023][917]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-05.55.48:090][919]MaterialEditorStats: Base pass shader: 197 instructions
+Stats: Resources Used: 10
+Resource Limit: 64
+Samplers Used: 7
+Sampler Limit: 32
+
+[2025.04.03-05.55.48:090][919]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.03-05.55.48:090][919]MaterialEditorStats: Texture samplers: 7/16
+[2025.04.03-05.55.48:090][919]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.04.03-05.55.48:090][919]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.03-05.55.48:090][919]MaterialEditorStats: Shader Count: 5
+[2025.04.03-05.55.48:090][919]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-05.55.49:640][  5]LogMaterialEditor: Applying material M_Fabric_Lights
+[2025.04.03-05.55.49:809][  5]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.49:809][  5]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.49:809][  5]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.49:809][  5]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.49:866][  5]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.49:866][  5]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.49:866][  5]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.49:866][  5]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.49:866][  5]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.49:866][  5]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.49:866][  5]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.49:866][  5]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.49:866][  5]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.49:866][  5]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.49:866][  5]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.49:866][  5]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.49:866][  5]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.49:866][  5]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.49:866][  5]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.49:866][  5]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.49:866][  5]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.49:866][  5]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.55.49:893][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.04.03-05.55.50:098][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.04.03-05.55.50:113][  5]MaterialEditorStats: Base pass shader: 197 instructions
+Stats: Resources Used: 10
+Resource Limit: 64
+Samplers Used: 7
+Sampler Limit: 32
+
+[2025.04.03-05.55.50:113][  5]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.03-05.55.50:113][  5]MaterialEditorStats: Nanite Compute Shader: 843 instructions
+Stats: Resources Used: 15
+Resource Limit: 64
+Samplers Used: 7
+Sampler Limit: 32
+
+[2025.04.03-05.55.50:113][  5]MaterialEditorStats: Texture samplers: 7/16
+[2025.04.03-05.55.50:113][  5]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(6)
+[2025.04.03-05.55.50:113][  5]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.03-05.55.50:113][  5]MaterialEditorStats: Shader Count: 15
+[2025.04.03-05.55.50:113][  5]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-05.55.52:714][165]LogMaterialEditor: Saving and Compiling material M_Fabric_Lights
+[2025.04.03-05.55.52:717][165]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.03-05.55.52:778][165]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_Fabric_Lights] ([1] browsable assets)...
+[2025.04.03-05.55.52:790][165]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_Fabric_Lights.M_Fabric_Lights]
+[2025.04.03-05.55.52:790][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_Fabric_Lights]
+[2025.04.03-05.55.52:790][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Fabric_Lights" FILE="../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Materials/M_Fabric_Lights.uasset" SILENT=true
+[2025.04.03-05.55.52:793][165]LogSavePackage: Moving output files for package: /Game/Materials/M_Fabric_Lights
+[2025.04.03-05.55.52:793][165]LogSavePackage: Moving '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Saved/M_Fabric_Lights2D8110AE4E61EB96D50AB7AFDDD1B995.tmp' to '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Materials/M_Fabric_Lights.uasset'
+[2025.04.03-05.55.52:805][165]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.630 ms (total: 1.95 sec)
+[2025.04.03-05.55.52:861][165]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.03-05.55.52:861][165]LogContentValidation: Enabled validators:
+[2025.04.03-05.55.52:861][165]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.03-05.55.52:861][165]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.03-05.55.52:861][165]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.03-05.55.52:861][165]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.03-05.55.52:861][165]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.03-05.55.52:861][165]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.03-05.55.52:862][165]AssetCheck: /Game/Materials/M_Fabric_Lights Validating asset
+[2025.04.03-05.56.08:356][105]LogShaderCompilers: Display: ================================================
+[2025.04.03-05.56.08:356][105]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.03-05.56.08:356][105]LogShaderCompilers: Display: Total job queries 1072, among them cache hits 222 (20.71%), DDC hits 656 (61.19%), Duplicates 151 (14.09%)
+[2025.04.03-05.56.08:356][105]LogShaderCompilers: Display: Tracking 699 distinct input hashes that result in 369 distinct outputs (52.79%)
+[2025.04.03-05.56.08:356][105]LogShaderCompilers: Display: RAM used: 249,74 KiB of 1,60 GiB budget. Usage: 0.01%
+[2025.04.03-05.56.08:356][105]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.03-05.56.08:356][105]LogShaderCompilers: Display: Shaders Compiled: 43
+[2025.04.03-05.56.08:356][105]LogShaderCompilers: Display: Jobs assigned 43, completed 43 (100%)
+[2025.04.03-05.56.08:356][105]LogShaderCompilers: Display: Average time worker was idle: 1310.90 s
+[2025.04.03-05.56.08:356][105]LogShaderCompilers: Display: Time job spent in pending queue: average 0.96 s, longest 3.14 s
+[2025.04.03-05.56.08:356][105]LogShaderCompilers: Display: Job execution time: average 2.20 s, max 5.42 s
+[2025.04.03-05.56.08:356][105]LogShaderCompilers: Display: Job life time (pending + execution): average 3.16 s, max 5.54
+[2025.04.03-05.56.08:356][105]LogShaderCompilers: Display: Shader code size: average 9,947 KiB, min 3,445 KiB, max 26,016 KiB
+[2025.04.03-05.56.08:356][105]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 14.95 s
+[2025.04.03-05.56.08:356][105]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.03%
+[2025.04.03-05.56.08:356][105]LogShaderCompilers: Display: Jobs were issued in 43 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.03-05.56.08:356][105]LogShaderCompilers: Display: Average processing rate: 2.88 jobs/sec
+[2025.04.03-05.56.08:356][105]LogShaderCompilers: Display: Total thread time: 59,573 s
+[2025.04.03-05.56.08:356][105]LogShaderCompilers: Display: Total thread preprocess time: 17,808 s
+[2025.04.03-05.56.08:356][105]LogShaderCompilers: Display: Percentage time preprocessing: 29.89%
+[2025.04.03-05.56.08:356][105]LogShaderCompilers: Display: Effective parallelization: 3.98 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.04.03-05.56.08:356][105]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.03-05.56.08:356][105]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 3.64 sec, max 3.64 sec, min 3.64 sec)
+[2025.04.03-05.56.08:356][105]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 3.58 sec, max 3.58 sec, min 3.58 sec)
+[2025.04.03-05.56.08:356][105]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 3.05 sec, max 3.05 sec, min 3.05 sec)
+[2025.04.03-05.56.08:356][105]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 2.68 sec, max 2.68 sec, min 2.68 sec)
+[2025.04.03-05.56.08:356][105]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 2.53 sec, max 2.55 sec, min 2.50 sec)
+[2025.04.03-05.56.08:356][105]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.03-05.56.08:357][105]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 11.80% of total time (compiled    3 times, average 2.34 sec, max 2.90 sec, min 1.58 sec)
+[2025.04.03-05.56.08:357][105]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 8.49% of total time (compiled    2 times, average 2.53 sec, max 2.55 sec, min 2.50 sec)
+[2025.04.03-05.56.08:357][105]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 8.38% of total time (compiled    2 times, average 2.50 sec, max 2.93 sec, min 2.07 sec)
+[2025.04.03-05.56.08:357][105]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.63% of total time (compiled    3 times, average 1.52 sec, max 1.59 sec, min 1.41 sec)
+[2025.04.03-05.56.08:357][105]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.22% of total time (compiled    3 times, average 1.43 sec, max 2.28 sec, min 0.99 sec)
+[2025.04.03-05.56.08:357][105]LogShaderCompilers: Display: === Material stats ===
+[2025.04.03-05.56.08:357][105]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.03-05.56.08:357][105]LogShaderCompilers: Display: Materials Translated:    260
+[2025.04.03-05.56.08:357][105]LogShaderCompilers: Display: Material Total Translate Time: 0.21 s
+[2025.04.03-05.56.08:357][105]LogShaderCompilers: Display: Material Translation Only: 0.09 s (45%)
+[2025.04.03-05.56.08:357][105]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.04.03-05.56.08:357][105]LogShaderCompilers: Display: Material Cache Hits: 50 (19%)
+[2025.04.03-05.56.08:357][105]LogShaderCompilers: Display: ================================================
+[2025.04.03-05.56.08:531][115]LogMaterialEditor: Saving and Compiling material M_Fabric_Lights
+[2025.04.03-05.56.08:535][115]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.03-05.56.08:594][115]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/M_Fabric_Lights] ([1] browsable assets)...
+[2025.04.03-05.56.08:594][115]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_Fabric_Lights]
+[2025.04.03-05.56.08:594][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Fabric_Lights" FILE="../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Materials/M_Fabric_Lights.uasset" SILENT=true
+[2025.04.03-05.56.08:596][115]LogSavePackage: Moving output files for package: /Game/Materials/M_Fabric_Lights
+[2025.04.03-05.56.08:597][115]LogSavePackage: Moving '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Saved/M_Fabric_LightsB50753884CC9CD8D500C76B5DE4E63EF.tmp' to '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Materials/M_Fabric_Lights.uasset'
+[2025.04.03-05.56.08:608][115]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.174 ms (total: 2.03 sec)
+[2025.04.03-05.56.08:660][115]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.03-05.56.08:660][115]LogContentValidation: Enabled validators:
+[2025.04.03-05.56.08:660][115]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.03-05.56.08:660][115]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.03-05.56.08:660][115]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.03-05.56.08:660][115]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.03-05.56.08:660][115]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.03-05.56.08:660][115]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.03-05.56.08:660][115]AssetCheck: /Game/Materials/M_Fabric_Lights Validating asset
+[2025.04.03-05.56.09:971][192]LogSlate: Window 'M_Fabric_Lights' being destroyed
+[2025.04.03-05.56.09:983][192]LogSlate: Window 'M_Fabric_Lights' being destroyed
+[2025.04.03-05.56.14:752][567]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.04.03-05.56.14:811][568]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.04.03-05.56.14:909][570]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.04.03-05.56.14:948][571]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.04.03-05.56.15:039][575]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.04.03-05.56.15:092][577]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.04.03-05.56.15:117][578]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.04.03-05.56.16:916][696]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Models/BP_Fabric_Lights.BP_Fabric_Lights
+[2025.04.03-05.56.16:916][696]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.04.03-05.56.40:845][901]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.03-05.56.41:138][901]LogSlate: Window 'Color Picker' being destroyed
+[2025.04.03-05.56.59:148][819]LogEditorTransaction: Undo Edit Intensity
+[2025.04.03-05.57.21:729][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.04.03-05.57.22:333][909]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.03-05.57.22:408][909]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Models/BP_Fabric_Lights] ([2] browsable assets)...
+[2025.04.03-05.57.22:416][909]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Models/BP_Fabric_Lights.BP_Fabric_Lights]
+[2025.04.03-05.57.22:416][909]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/BP_Fabric_Lights]
+[2025.04.03-05.57.22:416][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/BP_Fabric_Lights" FILE="../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Models/BP_Fabric_Lights.uasset" SILENT=true
+[2025.04.03-05.57.22:421][909]LogSavePackage: Moving output files for package: /Game/Models/BP_Fabric_Lights
+[2025.04.03-05.57.22:421][909]LogSavePackage: Moving '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Saved/BP_Fabric_Lights4A5328994D376B68DC7E96B644CE8267.tmp' to '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Models/BP_Fabric_Lights.uasset'
+[2025.04.03-05.57.22:433][909]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.253 ms (total: 2.12 sec)
+[2025.04.03-05.57.22:477][909]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.03-05.57.22:477][909]LogContentValidation: Enabled validators:
+[2025.04.03-05.57.22:477][909]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.03-05.57.22:477][909]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.03-05.57.22:477][909]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.03-05.57.22:477][909]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.03-05.57.22:477][909]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.03-05.57.22:477][909]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.03-05.57.22:477][909]AssetCheck: /Game/Models/BP_Fabric_Lights Validating asset
+[2025.04.03-05.57.33:354][396]Cmd: DELETE
+[2025.04.03-05.57.33:354][396]Cmd: ACTOR DELETE
+[2025.04.03-05.57.33:390][396]LogEditorActor: Deleted Actor: PointLight
+[2025.04.03-05.57.33:424][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.04.03-05.57.33:428][396]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2025.04.03-05.57.52:821][404]Cmd: EDIT COPY
+[2025.04.03-05.57.53:076][416]Cmd: EDIT PASTE
+[2025.04.03-05.57.58:761][684]Cmd: EDIT COPY
+[2025.04.03-05.57.59:007][691]Cmd: EDIT PASTE
+[2025.04.03-05.58.08:892][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.04.03-05.58.08:901][148]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.03-05.58.08:960][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_1" FILE="../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Levels/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.04.03-05.58.09:005][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.04.03-05.58.09:528][148]LogSavePackage: Moving output files for package: /Game/Levels/Level_1
+[2025.04.03-05.58.09:528][148]LogSavePackage: Moving '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Saved/Level_187E068704BB400B392C6539E379B58A4.tmp' to '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Levels/Level_1.umap'
+[2025.04.03-05.58.09:551][148]LogFileHelpers: Saving map 'Level_1' took 0.593
+[2025.04.03-05.58.09:551][148]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Lights/Fabric_Lights_H] ([1] browsable assets)...
+[2025.04.03-05.58.09:554][148]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Lights/Fabric_Lights_H.Fabric_Lights_H]
+[2025.04.03-05.58.09:554][148]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Lights/Fabric_Lights_H]
+[2025.04.03-05.58.09:554][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Lights/Fabric_Lights_H" FILE="../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Textures/Lights/Fabric_Lights_H.uasset" SILENT=true
+[2025.04.03-05.58.09:571][148]LogSavePackage: Moving output files for package: /Game/Textures/Lights/Fabric_Lights_H
+[2025.04.03-05.58.09:571][148]LogSavePackage: Moving '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Saved/Fabric_Lights_HF21F53774E074A995D3FD1944E0017F8.tmp' to '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Textures/Lights/Fabric_Lights_H.uasset'
+[2025.04.03-05.58.09:574][148]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Lights/Fabric_Lights_C] ([1] browsable assets)...
+[2025.04.03-05.58.09:576][148]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Lights/Fabric_Lights_C.Fabric_Lights_C]
+[2025.04.03-05.58.09:576][148]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Lights/Fabric_Lights_C]
+[2025.04.03-05.58.09:576][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Lights/Fabric_Lights_C" FILE="../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Textures/Lights/Fabric_Lights_C.uasset" SILENT=true
+[2025.04.03-05.58.09:602][148]LogSavePackage: Moving output files for package: /Game/Textures/Lights/Fabric_Lights_C
+[2025.04.03-05.58.09:602][148]LogSavePackage: Moving '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Saved/Fabric_Lights_CFA905DC644B711FB73DE219B45CAA830.tmp' to '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Textures/Lights/Fabric_Lights_C.uasset'
+[2025.04.03-05.58.09:604][148]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Lights/Fabric_Lights_R] ([1] browsable assets)...
+[2025.04.03-05.58.09:606][148]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Lights/Fabric_Lights_R.Fabric_Lights_R]
+[2025.04.03-05.58.09:606][148]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Lights/Fabric_Lights_R]
+[2025.04.03-05.58.09:606][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Lights/Fabric_Lights_R" FILE="../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Textures/Lights/Fabric_Lights_R.uasset" SILENT=true
+[2025.04.03-05.58.09:621][148]LogSavePackage: Moving output files for package: /Game/Textures/Lights/Fabric_Lights_R
+[2025.04.03-05.58.09:621][148]LogSavePackage: Moving '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Saved/Fabric_Lights_RF2930D6441A8C081BBC0E7BE1BC36ADB.tmp' to '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Textures/Lights/Fabric_Lights_R.uasset'
+[2025.04.03-05.58.09:623][148]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Lights/Fabric_Lights_AO] ([1] browsable assets)...
+[2025.04.03-05.58.09:625][148]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Lights/Fabric_Lights_AO.Fabric_Lights_AO]
+[2025.04.03-05.58.09:625][148]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Lights/Fabric_Lights_AO]
+[2025.04.03-05.58.09:625][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Lights/Fabric_Lights_AO" FILE="../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Textures/Lights/Fabric_Lights_AO.uasset" SILENT=true
+[2025.04.03-05.58.09:634][148]LogSavePackage: Moving output files for package: /Game/Textures/Lights/Fabric_Lights_AO
+[2025.04.03-05.58.09:634][148]LogSavePackage: Moving '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Saved/Fabric_Lights_AO3D9977F048ED1713F7F27AABAA149BDB.tmp' to '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Textures/Lights/Fabric_Lights_AO.uasset'
+[2025.04.03-05.58.09:635][148]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Lights/Fabric_Lights_Emission] ([1] browsable assets)...
+[2025.04.03-05.58.09:638][148]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Lights/Fabric_Lights_Emission.Fabric_Lights_Emission]
+[2025.04.03-05.58.09:638][148]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Lights/Fabric_Lights_Emission]
+[2025.04.03-05.58.09:638][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Lights/Fabric_Lights_Emission" FILE="../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Textures/Lights/Fabric_Lights_Emission.uasset" SILENT=true
+[2025.04.03-05.58.09:657][148]LogSavePackage: Moving output files for package: /Game/Textures/Lights/Fabric_Lights_Emission
+[2025.04.03-05.58.09:657][148]LogSavePackage: Moving '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Saved/Fabric_Lights_EmissionC9F93C7D4DF24C279C58D3A5A49773FE.tmp' to '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Textures/Lights/Fabric_Lights_Emission.uasset'
+[2025.04.03-05.58.09:659][148]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Lights/Fabric_Lights_M] ([1] browsable assets)...
+[2025.04.03-05.58.09:661][148]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Lights/Fabric_Lights_M.Fabric_Lights_M]
+[2025.04.03-05.58.09:661][148]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Lights/Fabric_Lights_M]
+[2025.04.03-05.58.09:661][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Lights/Fabric_Lights_M" FILE="../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Textures/Lights/Fabric_Lights_M.uasset" SILENT=true
+[2025.04.03-05.58.09:672][148]LogSavePackage: Moving output files for package: /Game/Textures/Lights/Fabric_Lights_M
+[2025.04.03-05.58.09:672][148]LogSavePackage: Moving '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Saved/Fabric_Lights_M5FCCFB204A75CFC9F7F975BE2DA8134F.tmp' to '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Textures/Lights/Fabric_Lights_M.uasset'
+[2025.04.03-05.58.09:682][148]LogFileHelpers: InternalPromptForCheckoutAndSave took 781.446 ms (total: 2.91 sec)
+[2025.04.03-05.58.09:759][148]LogContentValidation: Display: Starting to validate 7 assets
+[2025.04.03-05.58.09:760][148]LogContentValidation: Enabled validators:
+[2025.04.03-05.58.09:760][148]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.03-05.58.09:760][148]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.03-05.58.09:760][148]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.03-05.58.09:760][148]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.03-05.58.09:760][148]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.03-05.58.09:760][148]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.03-05.58.09:760][148]AssetCheck: /Game/Levels/Level_1 Validating asset
+[2025.04.03-05.58.09:760][148]AssetCheck: /Game/Textures/Lights/Fabric_Lights_H Validating asset
+[2025.04.03-05.58.09:760][148]AssetCheck: /Game/Textures/Lights/Fabric_Lights_C Validating asset
+[2025.04.03-05.58.09:761][148]AssetCheck: /Game/Textures/Lights/Fabric_Lights_R Validating asset
+[2025.04.03-05.58.09:761][148]AssetCheck: /Game/Textures/Lights/Fabric_Lights_AO Validating asset
+[2025.04.03-05.58.09:761][148]AssetCheck: /Game/Textures/Lights/Fabric_Lights_Emission Validating asset
+[2025.04.03-05.58.09:761][148]AssetCheck: /Game/Textures/Lights/Fabric_Lights_M Validating asset
+[2025.04.03-05.58.15:637][428]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5178.179199
+[2025.04.03-05.58.15:783][435]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.03-05.58.15:783][435]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5178.303711, Update Interval: 347.759033
+[2025.04.03-05.58.20:810][665]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.04.03-05.58.24:032][797]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.04.03-05.58.27:496][944]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.04.03-05.58.33:588][259]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.04.03-05.58.38:781][542]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.04.03-05.58.40:293][625]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.04.03-05.58.41:773][701]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.03-05.58.41:785][701]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.03-05.58.41:786][701]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2025.04.03-05.58.41:875][701]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.58.41:875][701]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.58.41:875][701]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.58.41:875][701]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.58.41:994][701]LogPlayLevel: PIE: StaticDuplicateObject took: (0.209023s)
+[2025.04.03-05.58.41:994][701]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.209077s)
+[2025.04.03-05.58.42:016][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.04.03-05.58.42:019][701]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.04.03-05.58.42:021][701]LogPlayLevel: PIE: World Init took: (0.002168s)
+[2025.04.03-05.58.42:022][701]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.04.03-05.58.42:022][701]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.03-05.58.42:022][701]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.03-05.58.42:022][701]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.03-05.58.42:022][701]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.03-05.58.42:022][701]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.03-05.58.42:022][701]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.03-05.58.42:022][701]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.03-05.58.42:022][701]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.03-05.58.42:022][701]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.03-05.58.42:022][701]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.03-05.58.42:022][701]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.03-05.58.42:025][701]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.03-05.58.42:051][701]LogAudioMixer: Display: Using Audio Hardware Device 24G1WG4 (NVIDIA High Definition Audio)
+[2025.04.03-05.58.42:051][701]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.03-05.58.42:051][701]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.03-05.58.42:052][701]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.03-05.58.42:052][701]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.04.03-05.58.42:052][701]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.04.03-05.58.42:054][701]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.04.03-05.58.42:054][701]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.04.03-05.58.42:054][701]LogInit: FAudioDevice initialized with ID 3.
+[2025.04.03-05.58.42:054][701]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level_1'.
+[2025.04.03-05.58.42:055][701]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.04.03-05.58.42:062][701]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.03-05.58.42:238][701]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.58.42:238][701]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.58.42:238][701]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.58.42:238][701]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.58.42:238][701]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.58.42:238][701]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.58.42:238][701]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.58.42:239][701]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.58.42:270][701]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.58.42:270][701]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.58.42:270][701]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.58.42:270][701]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.58.42:270][701]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.58.42:270][701]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.58.42:270][701]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.58.42:270][701]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.58.42:270][701]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.58.42:270][701]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.58.42:270][701]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.58.42:270][701]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.58.42:270][701]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.58.42:270][701]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.58.42:270][701]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.58.42:270][701]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.58.42:270][701]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.58.42:270][701]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.58.42:271][701]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2025.04.02-23.58.42
+[2025.04.03-05.58.42:273][701]LogWorld: Bringing up level for play took: 0.085034
+[2025.04.03-05.58.42:276][701]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.04.03-05.58.42:283][701]PIE: Server logged in
+[2025.04.03-05.58.42:283][701]PIE: Play in editor total start time 0,499 seconds.
+[2025.04.03-05.58.42:304][701]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.58.42:304][701]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.58.42:304][701]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.58.42:304][701]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_techo]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.04.03-05.58.42:320][701]LogAudio: Warning: Detected orphaned looping sound 'SC_AbandonedFactory'.
+[2025.04.03-06.04.46:998][222]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5569.533691
+[2025.04.03-06.04.47:108][229]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.03-06.04.47:108][229]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5569.627930, Update Interval: 353.622253
+[2025.04.03-06.05.59:077][714]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.03-06.05.59:077][714]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/BP_Fabric_Lights] ([2] browsable assets)...
+[2025.04.03-06.05.59:077][714]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/BP_Fabric_Lights]
+[2025.04.03-06.05.59:077][714]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/BP_Fabric_Lights" FILE="../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Models/BP_Fabric_Lights.uasset" SILENT=true
+[2025.04.03-06.05.59:081][714]LogSavePackage: Moving output files for package: /Game/Models/BP_Fabric_Lights
+[2025.04.03-06.05.59:082][714]LogSavePackage: Moving '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Saved/BP_Fabric_Lights498566EE4CD157D9F524AD9CF011C9E0.tmp' to '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Models/BP_Fabric_Lights.uasset'
+[2025.04.03-06.05.59:083][714]LogFileHelpers: InternalPromptForCheckoutAndSave took 5.905 ms (total: 2.91 sec)
+[2025.04.03-06.05.59:090][714]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.03-06.05.59:090][714]LogContentValidation: Enabled validators:
+[2025.04.03-06.05.59:090][714]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.03-06.05.59:090][714]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.03-06.05.59:090][714]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.03-06.05.59:090][714]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.03-06.05.59:090][714]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.03-06.05.59:090][714]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.03-06.05.59:091][714]AssetCheck: /Game/Models/BP_Fabric_Lights Validating asset
+[2025.04.03-06.06.00:011][774]LogSlate: Window 'BP_Fabric_Lights' being destroyed
+[2025.04.03-06.06.00:021][774]LogSlate: Window 'BP_Fabric_Lights' being destroyed
+[2025.04.03-06.06.00:028][774]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.04.03-06.06.00:028][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-06.06.00:092][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.04.03-06.06.03:096][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.03-06.06.03:096][ 33]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2025.04.03-06.06.03:098][ 33]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.04.03-06.06.03:112][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-06.06.03:118][ 33]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.03-06.06.03:126][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-06.06.03:153][ 33]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.03-06.06.03:153][ 33]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.04.03-06.06.03:153][ 33]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.04.03-06.06.03:156][ 33]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2025.04.03-06.06.03:163][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.03-06.06.03:180][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.04.03-06.06.03:248][ 34]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.04.03-06.06.03:271][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.04.03-06.06.04:864][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.04.03-06.06.04:868][161]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.03-06.06.04:928][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_1" FILE="../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Levels/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.04.03-06.06.04:976][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.04.03-06.06.05:503][161]LogSavePackage: Moving output files for package: /Game/Levels/Level_1
+[2025.04.03-06.06.05:503][161]LogSavePackage: Moving '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Saved/Level_1296A2E76490A3486AD9DBCAEE426FC6D.tmp' to '../../../../DELETETHISLATER/Taller2Parcial1/M1_Puzzles/Content/Levels/Level_1.umap'
+[2025.04.03-06.06.05:526][161]LogFileHelpers: Saving map 'Level_1' took 0.599
+[2025.04.03-06.06.05:535][161]LogFileHelpers: InternalPromptForCheckoutAndSave took 666.678 ms (total: 3.58 sec)
+[2025.04.03-06.06.05:608][161]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.03-06.06.05:608][161]LogContentValidation: Enabled validators:
+[2025.04.03-06.06.05:608][161]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.03-06.06.05:609][161]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.03-06.06.05:609][161]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.03-06.06.05:609][161]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.03-06.06.05:609][161]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.03-06.06.05:609][161]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.03-06.06.05:609][161]AssetCheck: /Game/Levels/Level_1 Validating asset
+[2025.04.03-06.06.16:085][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.04.03-06.06.16:145][814]LogStall: Shutdown...
+[2025.04.03-06.06.16:145][814]LogStall: Shutdown complete.
+[2025.04.03-06.06.16:198][814]LogSlate: Window 'M1_Puzzles - Unreal Editor' being destroyed
+[2025.04.03-06.06.16:199][814]LogWindowsTextInputMethodSystem: Activated input method: Spanish (Spain, International Sort) - (Keyboard).
+[2025.04.03-06.06.16:328][814]Cmd: QUIT_EDITOR
+[2025.04.03-06.06.16:328][815]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.04.03-06.06.16:335][815]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.04.03-06.06.16:335][815]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.04.03-06.06.16:335][815]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.04.03-06.06.16:394][815]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.04.03-06.06.16:396][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-06.06.16:397][815]LogWorld: UWorld::CleanupWorld for Pol, bSessionEnded=true, bCleanupResources=true
+[2025.04.03-06.06.16:397][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-06.06.16:397][815]LogWorld: UWorld::CleanupWorld for cris, bSessionEnded=true, bCleanupResources=true
+[2025.04.03-06.06.16:397][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-06.06.16:414][815]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.04.03-06.06.16:414][815]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.04.03-06.06.16:433][815]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.04.03-06.06.16:433][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-06.06.16:437][815]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.04.03-06.06.16:437][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-06.06.16:443][815]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.04.03-06.06.16:443][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-06.06.16:449][815]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.04.03-06.06.16:449][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-06.06.16:455][815]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.04.03-06.06.16:455][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-06.06.16:460][815]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.04.03-06.06.16:461][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-06.06.16:467][815]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.04.03-06.06.16:467][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-06.06.16:471][815]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.04.03-06.06.16:471][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-06.06.16:475][815]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.04.03-06.06.16:475][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-06.06.16:480][815]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.04.03-06.06.16:480][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-06.06.16:486][815]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.04.03-06.06.16:486][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-06.06.16:491][815]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.04.03-06.06.16:491][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-06.06.16:494][815]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.04.03-06.06.16:494][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-06.06.16:500][815]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.04.03-06.06.16:500][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-06.06.16:505][815]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.04.03-06.06.16:505][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-06.06.16:509][815]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.04.03-06.06.16:512][815]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.04.03-06.06.16:512][815]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.04.03-06.06.16:512][815]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.04.03-06.06.17:409][815]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.04.03-06.06.17:409][815]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.04.03-06.06.17:409][815]LogAudio: Display: Audio Device unregistered from world 'Level_1'.
+[2025.04.03-06.06.17:409][815]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.04.03-06.06.17:409][815]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.04.03-06.06.17:412][815]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.04.03-06.06.17:421][815]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.04.03-06.06.17:421][815]LogAudio: Display: Audio Device Manager Shutdown
+[2025.04.03-06.06.17:424][815]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.04.03-06.06.17:425][815]LogExit: Preparing to exit.
+[2025.04.03-06.06.17:462][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.04.03-06.06.17:472][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.03-06.06.17:472][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.03-06.06.17:474][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.03-06.06.17:474][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.03-06.06.17:474][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.03-06.06.17:474][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.03-06.06.17:474][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.03-06.06.17:474][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.03-06.06.17:474][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.03-06.06.17:474][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.03-06.06.17:474][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.03-06.06.17:474][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.03-06.06.17:474][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.03-06.06.17:475][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.03-06.06.17:475][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.03-06.06.17:475][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.03-06.06.17:475][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.03-06.06.17:475][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.03-06.06.17:475][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.03-06.06.17:475][815]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.04.03-06.06.17:475][815]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
