@@ -34584,3 +34584,226 @@ Sampler Limit: 32
 [2025.04.03-02.49.55:161][841]LogStaticMesh: Warning: Invalid material [vidrio_base2] used on Nanite static mesh [Lampara_pared]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
 [2025.04.03-02.49.55:164][842]LogPlayLevel: Display: Destroying online subsystem :Context_97
 [2025.04.03-02.49.55:188][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.04.03-02.51.08:244][171]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 28740.240234
+[2025.04.03-02.51.09:246][174]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.03-02.51.09:246][174]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 28740.910156, Update Interval: 328.869293
+[2025.04.03-02.51.12:015][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.04.03-02.51.12:020][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_1" FILE="D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Autosaves/Game/Levels/Level_1_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.04.03-02.51.12:579][182]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Level_1_Auto7
+[2025.04.03-02.51.12:580][182]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Level_1_Auto72AAC53E340ADEF894A1598983B8D5320.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Autosaves/Game/Levels/Level_1_Auto7.umap'
+[2025.04.03-02.51.12:582][182]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_1' took 0.590
+[2025.04.03-02.51.12:582][182]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.590
+[2025.04.03-02.51.12:583][182]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Lampara_pared] ([1] browsable assets)...
+[2025.04.03-02.51.12:959][182]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/Lampara_pared.Lampara_pared]
+[2025.04.03-02.51.12:959][182]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Lampara_pared]
+[2025.04.03-02.51.12:960][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Lampara_pared" FILE="D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Autosaves/Game/Models/Lampara_pared_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2025.04.03-02.51.12:967][182]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/Lampara_pared_Auto7
+[2025.04.03-02.51.12:967][182]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Lampara_pared_Auto7C9F77E2A422E8E737E6B18B79E81DD5B.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Autosaves/Game/Models/Lampara_pared_Auto7.uasset'
+[2025.04.03-02.51.12:968][182]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/m_lampared] ([1] browsable assets)...
+[2025.04.03-02.51.12:968][182]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/m_lampared]
+[2025.04.03-02.51.12:968][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/m_lampared" FILE="D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Autosaves/Game/Materials/m_lampared_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2025.04.03-02.51.12:970][182]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Materials/m_lampared_Auto7
+[2025.04.03-02.51.12:970][182]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/m_lampared_Auto78D738DE142EFEEEB1D268CA4420CED07.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Autosaves/Game/Materials/m_lampared_Auto7.uasset'
+[2025.04.03-02.51.12:970][182]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/lamptext2/Lampara_pared_Material__60_BaseColor] ([1] browsable assets)...
+[2025.04.03-02.51.12:995][182]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/lamptext2/Lampara_pared_Material__60_BaseColor.Lampara_pared_Material__60_BaseColor]
+[2025.04.03-02.51.12:995][182]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/lamptext2/Lampara_pared_Material__60_BaseColor]
+[2025.04.03-02.51.12:997][182]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/lamptext2/Lampara_pared_Material__60_BaseColor_Auto7
+[2025.04.03-02.51.12:997][182]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Lampara_pared_Material__60_BaseCD0C698CE41EF2E8FEDBBCC8F117F1EF6.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Autosaves/Game/Textures/lamptext2/Lampara_pared_Material__60_BaseColor_Auto7.uasset'
+[2025.04.03-02.51.12:998][182]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/lamptext2/Lampara_pared_Material__60_Metallic] ([1] browsable assets)...
+[2025.04.03-02.51.13:000][182]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/lamptext2/Lampara_pared_Material__60_Metallic.Lampara_pared_Material__60_Metallic]
+[2025.04.03-02.51.13:000][182]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/lamptext2/Lampara_pared_Material__60_Metallic]
+[2025.04.03-02.51.13:002][182]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/lamptext2/Lampara_pared_Material__60_Metallic_Auto7
+[2025.04.03-02.51.13:002][182]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Lampara_pared_Material__60_MetalCD5B80714422625BE7E4918D58EB414A.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Autosaves/Game/Textures/lamptext2/Lampara_pared_Material__60_Metallic_Auto7.uasset'
+[2025.04.03-02.51.13:003][182]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/lamptext2/Lampara_pared_Material__60_Emissive] ([1] browsable assets)...
+[2025.04.03-02.51.13:004][182]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/lamptext2/Lampara_pared_Material__60_Emissive.Lampara_pared_Material__60_Emissive]
+[2025.04.03-02.51.13:004][182]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/lamptext2/Lampara_pared_Material__60_Emissive]
+[2025.04.03-02.51.13:043][182]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/lamptext2/Lampara_pared_Material__60_Emissive_Auto7
+[2025.04.03-02.51.13:043][182]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Lampara_pared_Material__60_Emiss4C004C284E52B867953B5A89CAAD4783.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Autosaves/Game/Textures/lamptext2/Lampara_pared_Material__60_Emissive_Auto7.uasset'
+[2025.04.03-02.51.13:043][182]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/lamptext2/Lampara_pared_Material__60_Height] ([1] browsable assets)...
+[2025.04.03-02.51.13:045][182]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/lamptext2/Lampara_pared_Material__60_Height.Lampara_pared_Material__60_Height]
+[2025.04.03-02.51.13:046][182]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/lamptext2/Lampara_pared_Material__60_Height]
+[2025.04.03-02.51.13:048][182]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/lamptext2/Lampara_pared_Material__60_Height_Auto7
+[2025.04.03-02.51.13:048][182]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Lampara_pared_Material__60_Heigh00DF0C0243BF3B37CA96C5A3835869BF.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Autosaves/Game/Textures/lamptext2/Lampara_pared_Material__60_Height_Auto7.uasset'
+[2025.04.03-02.51.13:049][182]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/lamptext2/Lampara_pared_Material__60_Normal] ([1] browsable assets)...
+[2025.04.03-02.51.13:050][182]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/lamptext2/Lampara_pared_Material__60_Normal.Lampara_pared_Material__60_Normal]
+[2025.04.03-02.51.13:051][182]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/lamptext2/Lampara_pared_Material__60_Normal]
+[2025.04.03-02.51.13:054][182]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/lamptext2/Lampara_pared_Material__60_Normal_Auto7
+[2025.04.03-02.51.13:054][182]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Lampara_pared_Material__60_Norma783DE75A4907146025B6DAA15B0666BB.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Autosaves/Game/Textures/lamptext2/Lampara_pared_Material__60_Normal_Auto7.uasset'
+[2025.04.03-02.51.13:055][182]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/lamptext2/Lampara_pared_Material__72_Metallic] ([1] browsable assets)...
+[2025.04.03-02.51.13:056][182]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/lamptext2/Lampara_pared_Material__72_Metallic.Lampara_pared_Material__72_Metallic]
+[2025.04.03-02.51.13:056][182]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/lamptext2/Lampara_pared_Material__72_Metallic]
+[2025.04.03-02.51.13:058][182]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/lamptext2/Lampara_pared_Material__72_Metallic_Auto7
+[2025.04.03-02.51.13:058][182]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Lampara_pared_Material__72_MetalBA0EAFD44272C48E199685B23CAEC881.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Autosaves/Game/Textures/lamptext2/Lampara_pared_Material__72_Metallic_Auto7.uasset'
+[2025.04.03-02.51.13:059][182]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/lamptext2/Lampara_pared_Material__72_Height] ([1] browsable assets)...
+[2025.04.03-02.51.13:060][182]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/lamptext2/Lampara_pared_Material__72_Height.Lampara_pared_Material__72_Height]
+[2025.04.03-02.51.13:060][182]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/lamptext2/Lampara_pared_Material__72_Height]
+[2025.04.03-02.51.13:136][182]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/lamptext2/Lampara_pared_Material__72_Height_Auto7
+[2025.04.03-02.51.13:136][182]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Lampara_pared_Material__72_Heigh6F87D990433849520395A28A0BF500FC.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Autosaves/Game/Textures/lamptext2/Lampara_pared_Material__72_Height_Auto7.uasset'
+[2025.04.03-02.51.13:139][182]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/lamptext2/Lampara_pared_Material__72_Emissive] ([1] browsable assets)...
+[2025.04.03-02.51.13:144][182]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/lamptext2/Lampara_pared_Material__72_Emissive.Lampara_pared_Material__72_Emissive]
+[2025.04.03-02.51.13:145][182]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/lamptext2/Lampara_pared_Material__72_Emissive]
+[2025.04.03-02.51.13:148][182]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/lamptext2/Lampara_pared_Material__72_Emissive_Auto7
+[2025.04.03-02.51.13:148][182]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Lampara_pared_Material__72_EmissF00BB97D4BA3D76F6E1165AD8E180C1C.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Autosaves/Game/Textures/lamptext2/Lampara_pared_Material__72_Emissive_Auto7.uasset'
+[2025.04.03-02.51.13:149][182]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/lamptext2/Lampara_pared_Material__60_Roughness] ([1] browsable assets)...
+[2025.04.03-02.51.13:151][182]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/lamptext2/Lampara_pared_Material__60_Roughness.Lampara_pared_Material__60_Roughness]
+[2025.04.03-02.51.13:151][182]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/lamptext2/Lampara_pared_Material__60_Roughness]
+[2025.04.03-02.51.13:153][182]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/lamptext2/Lampara_pared_Material__60_Roughness_Auto7
+[2025.04.03-02.51.13:153][182]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Lampara_pared_Material__60_Rough4883B13143DCE8DC6A2B5F871C943A78.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Autosaves/Game/Textures/lamptext2/Lampara_pared_Material__60_Roughness_Auto7.uasset'
+[2025.04.03-02.51.13:154][182]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/lamptext2/Lampara_pared_Material__72_BaseColor] ([1] browsable assets)...
+[2025.04.03-02.51.13:156][182]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/lamptext2/Lampara_pared_Material__72_BaseColor.Lampara_pared_Material__72_BaseColor]
+[2025.04.03-02.51.13:156][182]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/lamptext2/Lampara_pared_Material__72_BaseColor]
+[2025.04.03-02.51.13:178][182]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/lamptext2/Lampara_pared_Material__72_BaseColor_Auto7
+[2025.04.03-02.51.13:178][182]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Lampara_pared_Material__72_BaseC4575D31E42B1AD03F2A946900A9441C0.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Autosaves/Game/Textures/lamptext2/Lampara_pared_Material__72_BaseColor_Auto7.uasset'
+[2025.04.03-02.51.13:179][182]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/lamptext2/Lampara_pared_Material__72_Normal] ([1] browsable assets)...
+[2025.04.03-02.51.13:182][182]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/lamptext2/Lampara_pared_Material__72_Normal.Lampara_pared_Material__72_Normal]
+[2025.04.03-02.51.13:182][182]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/lamptext2/Lampara_pared_Material__72_Normal]
+[2025.04.03-02.51.13:197][182]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/lamptext2/Lampara_pared_Material__72_Normal_Auto7
+[2025.04.03-02.51.13:197][182]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Lampara_pared_Material__72_Norma030C999346EFA475C41B7C94DFE7F8B7.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Autosaves/Game/Textures/lamptext2/Lampara_pared_Material__72_Normal_Auto7.uasset'
+[2025.04.03-02.51.13:198][182]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/lamptext2/Lampara_pared_Material__72_Roughness] ([1] browsable assets)...
+[2025.04.03-02.51.13:200][182]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/lamptext2/Lampara_pared_Material__72_Roughness.Lampara_pared_Material__72_Roughness]
+[2025.04.03-02.51.13:200][182]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/lamptext2/Lampara_pared_Material__72_Roughness]
+[2025.04.03-02.51.13:203][182]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/lamptext2/Lampara_pared_Material__72_Roughness_Auto7
+[2025.04.03-02.51.13:203][182]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Lampara_pared_Material__72_Rough35D828174EC416E32750438FFBD5D049.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Autosaves/Game/Textures/lamptext2/Lampara_pared_Material__72_Roughness_Auto7.uasset'
+[2025.04.03-02.51.13:203][182]LogFileHelpers: Auto-saving content packages took 0.621
+[2025.04.03-02.53.14:001][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.04.03-02.53.16:886][665]LogSlate: Window 'Save Content' being destroyed
+[2025.04.03-02.53.18:224][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.04.03-02.53.19:644][691]LogSlate: Window 'Save Content' being destroyed
+[2025.04.03-02.53.19:675][691]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.03-02.53.19:762][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_1" FILE="D:/Github/Taller2Parcial1/M1_Puzzles/Content/Levels/Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.04.03-02.53.19:810][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.04.03-02.53.20:350][691]LogSavePackage: Moving output files for package: /Game/Levels/Level_1
+[2025.04.03-02.53.20:350][691]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Level_1EBC26029493FFE4717254BAF8AC6B97C.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Content/Levels/Level_1.umap'
+[2025.04.03-02.53.20:373][691]LogFileHelpers: Saving map 'Level_1' took 0.612
+[2025.04.03-02.53.20:373][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Pol" FILE="D:/Github/Taller2Parcial1/M1_Puzzles/Content/Levels/Pol.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.04.03-02.53.20:394][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.04.03-02.53.20:408][691]LogSavePackage: Moving output files for package: /Game/Levels/Pol
+[2025.04.03-02.53.20:409][691]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/PolA1EBDC184394999F4DC09FB8B15A4B53.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Content/Levels/Pol.umap'
+[2025.04.03-02.53.20:410][691]LogFileHelpers: Saving map 'Pol' took 0.037
+[2025.04.03-02.53.20:411][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Lampara_pared] ([1] browsable assets)...
+[2025.04.03-02.53.20:411][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Lampara_pared]
+[2025.04.03-02.53.20:411][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Lampara_pared" FILE="D:/Github/Taller2Parcial1/M1_Puzzles/Content/Models/Lampara_pared.uasset" SILENT=true
+[2025.04.03-02.53.20:416][691]LogSavePackage: Moving output files for package: /Game/Models/Lampara_pared
+[2025.04.03-02.53.20:416][691]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Lampara_paredAA3E4EA34B483C11293AE386A7897E96.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Content/Models/Lampara_pared.uasset'
+[2025.04.03-02.53.20:420][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/lamptext2/Lampara_pared_Material__60_BaseColor] ([1] browsable assets)...
+[2025.04.03-02.53.20:420][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/lamptext2/Lampara_pared_Material__60_BaseColor]
+[2025.04.03-02.53.20:422][691]LogSavePackage: Moving output files for package: /Game/Textures/lamptext2/Lampara_pared_Material__60_BaseColor
+[2025.04.03-02.53.20:422][691]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Lampara_pared_Material__60_BaseC47E122014C87B240615CA58B57D0898A.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Content/Textures/lamptext2/Lampara_pared_Material__60_BaseColor.uasset'
+[2025.04.03-02.53.20:485][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/lamptext2/Lampara_pared_Material__60_Emissive] ([1] browsable assets)...
+[2025.04.03-02.53.20:485][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/lamptext2/Lampara_pared_Material__60_Emissive]
+[2025.04.03-02.53.20:487][691]LogSavePackage: Moving output files for package: /Game/Textures/lamptext2/Lampara_pared_Material__60_Emissive
+[2025.04.03-02.53.20:487][691]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Lampara_pared_Material__60_EmissA2599DC44A1E543FC6F4AC88240DAB91.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Content/Textures/lamptext2/Lampara_pared_Material__60_Emissive.uasset'
+[2025.04.03-02.53.20:488][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/lamptext2/Lampara_pared_Material__60_Height] ([1] browsable assets)...
+[2025.04.03-02.53.20:488][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/lamptext2/Lampara_pared_Material__60_Height]
+[2025.04.03-02.53.20:490][691]LogSavePackage: Moving output files for package: /Game/Textures/lamptext2/Lampara_pared_Material__60_Height
+[2025.04.03-02.53.20:490][691]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Lampara_pared_Material__60_HeighED654B2C43D52B82D2105EA33208F392.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Content/Textures/lamptext2/Lampara_pared_Material__60_Height.uasset'
+[2025.04.03-02.53.20:491][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/lamptext2/Lampara_pared_Material__60_Metallic] ([1] browsable assets)...
+[2025.04.03-02.53.20:491][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/lamptext2/Lampara_pared_Material__60_Metallic]
+[2025.04.03-02.53.20:493][691]LogSavePackage: Moving output files for package: /Game/Textures/lamptext2/Lampara_pared_Material__60_Metallic
+[2025.04.03-02.53.20:493][691]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Lampara_pared_Material__60_Metal9D1621C4456ECD26162A678F52505E90.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Content/Textures/lamptext2/Lampara_pared_Material__60_Metallic.uasset'
+[2025.04.03-02.53.20:505][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/lamptext2/Lampara_pared_Material__60_Normal] ([1] browsable assets)...
+[2025.04.03-02.53.20:505][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/lamptext2/Lampara_pared_Material__60_Normal]
+[2025.04.03-02.53.20:512][691]LogSavePackage: Moving output files for package: /Game/Textures/lamptext2/Lampara_pared_Material__60_Normal
+[2025.04.03-02.53.20:512][691]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Lampara_pared_Material__60_NormaB99FE6A34A0D21AF526038800B94BF41.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Content/Textures/lamptext2/Lampara_pared_Material__60_Normal.uasset'
+[2025.04.03-02.53.20:513][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/lamptext2/Lampara_pared_Material__60_Roughness] ([1] browsable assets)...
+[2025.04.03-02.53.20:513][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/lamptext2/Lampara_pared_Material__60_Roughness]
+[2025.04.03-02.53.20:515][691]LogSavePackage: Moving output files for package: /Game/Textures/lamptext2/Lampara_pared_Material__60_Roughness
+[2025.04.03-02.53.20:515][691]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Lampara_pared_Material__60_RoughF07B3CBD448AA68F7B29CA89A1845529.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Content/Textures/lamptext2/Lampara_pared_Material__60_Roughness.uasset'
+[2025.04.03-02.53.20:516][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/lamptext2/Lampara_pared_Material__72_BaseColor] ([1] browsable assets)...
+[2025.04.03-02.53.20:516][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/lamptext2/Lampara_pared_Material__72_BaseColor]
+[2025.04.03-02.53.20:530][691]LogSavePackage: Moving output files for package: /Game/Textures/lamptext2/Lampara_pared_Material__72_BaseColor
+[2025.04.03-02.53.20:531][691]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Lampara_pared_Material__72_BaseC2CFA29D64E0F6016B7C36BACE4D3CA49.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Content/Textures/lamptext2/Lampara_pared_Material__72_BaseColor.uasset'
+[2025.04.03-02.53.20:532][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/lamptext2/Lampara_pared_Material__72_Emissive] ([1] browsable assets)...
+[2025.04.03-02.53.20:532][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/lamptext2/Lampara_pared_Material__72_Emissive]
+[2025.04.03-02.53.20:534][691]LogSavePackage: Moving output files for package: /Game/Textures/lamptext2/Lampara_pared_Material__72_Emissive
+[2025.04.03-02.53.20:534][691]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Lampara_pared_Material__72_Emiss88D480D64DE26D1DFC05AB9C362FC705.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Content/Textures/lamptext2/Lampara_pared_Material__72_Emissive.uasset'
+[2025.04.03-02.53.20:535][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/lamptext2/Lampara_pared_Material__72_Height] ([1] browsable assets)...
+[2025.04.03-02.53.20:535][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/lamptext2/Lampara_pared_Material__72_Height]
+[2025.04.03-02.53.20:541][691]LogSavePackage: Moving output files for package: /Game/Textures/lamptext2/Lampara_pared_Material__72_Height
+[2025.04.03-02.53.20:541][691]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Lampara_pared_Material__72_Heigh852B054440F058140A3993ACADCE13C1.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Content/Textures/lamptext2/Lampara_pared_Material__72_Height.uasset'
+[2025.04.03-02.53.20:542][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/lamptext2/Lampara_pared_Material__72_Metallic] ([1] browsable assets)...
+[2025.04.03-02.53.20:542][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/lamptext2/Lampara_pared_Material__72_Metallic]
+[2025.04.03-02.53.20:545][691]LogSavePackage: Moving output files for package: /Game/Textures/lamptext2/Lampara_pared_Material__72_Metallic
+[2025.04.03-02.53.20:545][691]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Lampara_pared_Material__72_MetalFE5ED29C4901AF5C7F50C7AC370E553D.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Content/Textures/lamptext2/Lampara_pared_Material__72_Metallic.uasset'
+[2025.04.03-02.53.20:546][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/lamptext2/Lampara_pared_Material__72_Normal] ([1] browsable assets)...
+[2025.04.03-02.53.20:546][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/lamptext2/Lampara_pared_Material__72_Normal]
+[2025.04.03-02.53.20:558][691]LogSavePackage: Moving output files for package: /Game/Textures/lamptext2/Lampara_pared_Material__72_Normal
+[2025.04.03-02.53.20:559][691]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Lampara_pared_Material__72_Norma6079F3CA4FDCFAB875E2E7805DC08C94.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Content/Textures/lamptext2/Lampara_pared_Material__72_Normal.uasset'
+[2025.04.03-02.53.20:562][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/lamptext2/Lampara_pared_Material__72_Roughness] ([1] browsable assets)...
+[2025.04.03-02.53.20:562][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/lamptext2/Lampara_pared_Material__72_Roughness]
+[2025.04.03-02.53.20:567][691]LogSavePackage: Moving output files for package: /Game/Textures/lamptext2/Lampara_pared_Material__72_Roughness
+[2025.04.03-02.53.20:567][691]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Lampara_pared_Material__72_RoughAA2FA0DE40347B00D05AE186752FD998.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Content/Textures/lamptext2/Lampara_pared_Material__72_Roughness.uasset'
+[2025.04.03-02.53.20:569][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Models/Lampara_techo] ([1] browsable assets)...
+[2025.04.03-02.53.20:569][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Lampara_techo]
+[2025.04.03-02.53.20:569][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Lampara_techo" FILE="D:/Github/Taller2Parcial1/M1_Puzzles/Content/Models/Lampara_techo.uasset" SILENT=true
+[2025.04.03-02.53.20:575][691]LogSavePackage: Moving output files for package: /Game/Models/Lampara_techo
+[2025.04.03-02.53.20:575][691]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Lampara_techoFFCD485241A28B651B5ADE9A33FE4C94.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Content/Models/Lampara_techo.uasset'
+[2025.04.03-02.53.20:576][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/lamptext/lamparas_Material__60_BaseColor] ([1] browsable assets)...
+[2025.04.03-02.53.20:576][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/lamptext/lamparas_Material__60_BaseColor]
+[2025.04.03-02.53.20:592][691]LogSavePackage: Moving output files for package: /Game/Textures/lamptext/lamparas_Material__60_BaseColor
+[2025.04.03-02.53.20:592][691]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/lamparas_Material__60_BaseColor452C5E0D47A0450D1634629A6ED99BB2.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Content/Textures/lamptext/lamparas_Material__60_BaseColor.uasset'
+[2025.04.03-02.53.20:594][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/lamptext/lamparas_Material__60_Emissive] ([1] browsable assets)...
+[2025.04.03-02.53.20:594][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/lamptext/lamparas_Material__60_Emissive]
+[2025.04.03-02.53.20:596][691]LogSavePackage: Moving output files for package: /Game/Textures/lamptext/lamparas_Material__60_Emissive
+[2025.04.03-02.53.20:596][691]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/lamparas_Material__60_Emissive841A3DDF4F31BF4C4D3E008114ADAAA4.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Content/Textures/lamptext/lamparas_Material__60_Emissive.uasset'
+[2025.04.03-02.53.20:597][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/lamptext/lamparas_Material__60_Height] ([1] browsable assets)...
+[2025.04.03-02.53.20:597][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/lamptext/lamparas_Material__60_Height]
+[2025.04.03-02.53.20:597][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/lamptext/lamparas_Material__60_Height" FILE="D:/Github/Taller2Parcial1/M1_Puzzles/Content/Textures/lamptext/lamparas_Material__60_Height.uasset" SILENT=true
+[2025.04.03-02.53.20:614][691]LogSavePackage: Moving output files for package: /Game/Textures/lamptext/lamparas_Material__60_Height
+[2025.04.03-02.53.20:614][691]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/lamparas_Material__60_Height48953E6F48EE04CB8A116DAC0332A764.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Content/Textures/lamptext/lamparas_Material__60_Height.uasset'
+[2025.04.03-02.53.20:616][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/lamptext/lamparas_Material__60_Metallic] ([1] browsable assets)...
+[2025.04.03-02.53.20:616][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/lamptext/lamparas_Material__60_Metallic]
+[2025.04.03-02.53.20:620][691]LogSavePackage: Moving output files for package: /Game/Textures/lamptext/lamparas_Material__60_Metallic
+[2025.04.03-02.53.20:620][691]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/lamparas_Material__60_MetallicA86A568F4E71CCA2B7F436917DFE5086.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Content/Textures/lamptext/lamparas_Material__60_Metallic.uasset'
+[2025.04.03-02.53.20:621][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/lamptext/lamparas_Material__60_Normal] ([1] browsable assets)...
+[2025.04.03-02.53.20:621][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/lamptext/lamparas_Material__60_Normal]
+[2025.04.03-02.53.20:621][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/lamptext/lamparas_Material__60_Normal" FILE="D:/Github/Taller2Parcial1/M1_Puzzles/Content/Textures/lamptext/lamparas_Material__60_Normal.uasset" SILENT=true
+[2025.04.03-02.53.20:639][691]LogSavePackage: Moving output files for package: /Game/Textures/lamptext/lamparas_Material__60_Normal
+[2025.04.03-02.53.20:640][691]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/lamparas_Material__60_Normal89AE8E0E40142FD0F098FC87ADD7262D.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Content/Textures/lamptext/lamparas_Material__60_Normal.uasset'
+[2025.04.03-02.53.20:641][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Textures/lamptext/lamparas_Material__60_Roughness] ([1] browsable assets)...
+[2025.04.03-02.53.20:641][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/lamptext/lamparas_Material__60_Roughness]
+[2025.04.03-02.53.20:647][691]LogSavePackage: Moving output files for package: /Game/Textures/lamptext/lamparas_Material__60_Roughness
+[2025.04.03-02.53.20:647][691]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/lamparas_Material__60_Roughness2E33A55D4016E8F7D0D4D4B736A38DB8.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Content/Textures/lamptext/lamparas_Material__60_Roughness.uasset'
+[2025.04.03-02.53.20:648][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/m_lamparas] ([1] browsable assets)...
+[2025.04.03-02.53.20:648][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/m_lamparas]
+[2025.04.03-02.53.20:648][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/m_lamparas" FILE="D:/Github/Taller2Parcial1/M1_Puzzles/Content/Materials/m_lamparas.uasset" SILENT=true
+[2025.04.03-02.53.20:650][691]LogSavePackage: Moving output files for package: /Game/Materials/m_lamparas
+[2025.04.03-02.53.20:650][691]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/m_lamparasAF52CE8D48D6332F885BBC8EF525EAF3.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Content/Materials/m_lamparas.uasset'
+[2025.04.03-02.53.20:651][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/m_lampared] ([1] browsable assets)...
+[2025.04.03-02.53.20:651][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/m_lampared]
+[2025.04.03-02.53.20:651][691]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/m_lampared" FILE="D:/Github/Taller2Parcial1/M1_Puzzles/Content/Materials/m_lampared.uasset" SILENT=true
+[2025.04.03-02.53.20:652][691]LogSavePackage: Moving output files for package: /Game/Materials/m_lampared
+[2025.04.03-02.53.20:653][691]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/m_lampared99D669F34BA120C93E0D2EA646B7A6D3.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Content/Materials/m_lampared.uasset'
+[2025.04.03-02.53.20:664][691]LogFileHelpers: InternalPromptForCheckoutAndSave took 988.941 ms (total: 11.7 sec)
+[2025.04.03-02.53.20:760][691]LogContentValidation: Display: Starting to validate 24 assets
+[2025.04.03-02.53.20:760][691]LogContentValidation: Enabled validators:
+[2025.04.03-02.53.20:760][691]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.03-02.53.20:760][691]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.03-02.53.20:760][691]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.03-02.53.20:761][691]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.03-02.53.20:761][691]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.03-02.53.20:761][691]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.03-02.53.20:761][691]AssetCheck: /Game/Levels/Level_1 Validating asset
+[2025.04.03-02.53.20:761][691]AssetCheck: /Game/Levels/Pol Validating asset
+[2025.04.03-02.53.20:761][691]AssetCheck: /Game/Models/Lampara_pared Validating asset
+[2025.04.03-02.53.20:762][691]AssetCheck: /Game/Textures/lamptext2/Lampara_pared_Material__60_BaseColor Validating asset
+[2025.04.03-02.53.20:762][691]AssetCheck: /Game/Textures/lamptext2/Lampara_pared_Material__60_Emissive Validating asset
+[2025.04.03-02.53.20:762][691]AssetCheck: /Game/Textures/lamptext2/Lampara_pared_Material__60_Height Validating asset
+[2025.04.03-02.53.20:762][691]AssetCheck: /Game/Textures/lamptext2/Lampara_pared_Material__60_Metallic Validating asset
+[2025.04.03-02.53.20:762][691]AssetCheck: /Game/Textures/lamptext2/Lampara_pared_Material__60_Normal Validating asset
+[2025.04.03-02.53.20:762][691]AssetCheck: /Game/Textures/lamptext2/Lampara_pared_Material__60_Roughness Validating asset
+[2025.04.03-02.53.20:762][691]AssetCheck: /Game/Textures/lamptext2/Lampara_pared_Material__72_BaseColor Validating asset
+[2025.04.03-02.53.20:762][691]AssetCheck: /Game/Textures/lamptext2/Lampara_pared_Material__72_Emissive Validating asset
+[2025.04.03-02.53.20:762][691]AssetCheck: /Game/Textures/lamptext2/Lampara_pared_Material__72_Height Validating asset
+[2025.04.03-02.53.20:762][691]AssetCheck: /Game/Textures/lamptext2/Lampara_pared_Material__72_Metallic Validating asset
+[2025.04.03-02.53.20:762][691]AssetCheck: /Game/Textures/lamptext2/Lampara_pared_Material__72_Normal Validating asset
+[2025.04.03-02.53.20:762][691]AssetCheck: /Game/Textures/lamptext2/Lampara_pared_Material__72_Roughness Validating asset
+[2025.04.03-02.53.20:762][691]AssetCheck: /Game/Models/Lampara_techo Validating asset
+[2025.04.03-02.53.20:762][691]AssetCheck: /Game/Textures/lamptext/lamparas_Material__60_BaseColor Validating asset
+[2025.04.03-02.53.20:762][691]AssetCheck: /Game/Textures/lamptext/lamparas_Material__60_Emissive Validating asset
+[2025.04.03-02.53.20:762][691]AssetCheck: /Game/Textures/lamptext/lamparas_Material__60_Height Validating asset
+[2025.04.03-02.53.20:762][691]AssetCheck: /Game/Textures/lamptext/lamparas_Material__60_Metallic Validating asset
+[2025.04.03-02.53.20:762][691]AssetCheck: /Game/Textures/lamptext/lamparas_Material__60_Normal Validating asset
+[2025.04.03-02.53.20:762][691]AssetCheck: /Game/Textures/lamptext/lamparas_Material__60_Roughness Validating asset
+[2025.04.03-02.53.20:762][691]AssetCheck: /Game/Materials/m_lamparas Validating asset
+[2025.04.03-02.53.20:762][691]AssetCheck: /Game/Materials/m_lampared Validating asset
