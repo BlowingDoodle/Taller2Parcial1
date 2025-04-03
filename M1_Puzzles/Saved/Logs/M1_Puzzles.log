@@ -24308,3 +24308,829 @@ Sampler Limit: 32
 [2025.04.02-23.08.15:480][473]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.04.02-23.08.15:480][473]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.04.02-23.08.15:481][473]AssetCheck: /Game/Levels/Level_1 Validating asset
+[2025.04.02-23.09.43:320][ 94]Cmd: TRANSACTION UNDO
+[2025.04.02-23.09.43:320][ 94]LogEditorTransaction: Undo Move Elements
+[2025.04.02-23.12.30:126][331]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15618.248047
+[2025.04.02-23.12.31:127][334]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.02-23.12.31:127][334]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15618.914062, Update Interval: 337.008575
+[2025.04.02-23.18.42:249][447]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15990.360352
+[2025.04.02-23.18.43:249][450]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.02-23.18.43:249][450]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15991.027344, Update Interval: 322.661835
+[2025.04.02-23.20.56:038][848]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.02-23.24.46:009][538]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16354.133789
+[2025.04.02-23.24.47:011][541]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.02-23.24.47:011][541]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16354.802734, Update Interval: 334.778290
+[2025.04.02-23.30.58:192][654]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16726.394531
+[2025.04.02-23.30.59:191][657]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.02-23.30.59:191][657]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16727.060547, Update Interval: 307.088226
+[2025.04.02-23.37.03:291][749]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17091.613281
+[2025.04.02-23.37.04:291][752]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.02-23.37.04:291][752]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17092.279297, Update Interval: 316.122925
+[2025.04.02-23.43.04:725][833]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17453.142578
+[2025.04.02-23.43.05:724][836]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.02-23.43.05:724][836]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17453.808594, Update Interval: 342.567841
+[2025.04.02-23.49.18:802][955]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17827.330078
+[2025.04.02-23.49.19:803][958]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.02-23.49.19:803][958]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17827.998047, Update Interval: 334.406555
+[2025.04.02-23.54.50:814][951]LogDerivedDataCache: C:/Users/Maréo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:45.054 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 23420 files in 24408 folders with total size 1426 MiB.
+[2025.04.02-23.55.15:726][ 26]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.02-23.55.29:257][ 66]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18197.978516
+[2025.04.02-23.55.30:257][ 69]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.02-23.55.30:257][ 70]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18198.646484, Update Interval: 335.206757
+[2025.04.02-23.55.43:689][110]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.03-00.01.42:023][184]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18570.833984
+[2025.04.03-00.01.43:025][187]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.03-00.01.43:025][187]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18571.500000, Update Interval: 317.164825
+[2025.04.03-00.07.49:441][286]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18938.316406
+[2025.04.03-00.07.50:441][289]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.03-00.07.50:441][289]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18938.982422, Update Interval: 345.904114
+[2025.04.03-00.14.22:872][466]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19331.867188
+[2025.04.03-00.14.23:873][469]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.03-00.14.23:873][469]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19332.533203, Update Interval: 329.715271
+[2025.04.03-00.20.05:727][966]LogStreaming: Display: FlushAsyncLoading(610): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.03-00.20.05:767][966]LogInterchangeEngine: [Pending] Importing
+[2025.04.03-00.20.05:767][966]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Maréo/Desktop/Taller de videojuegos ll/barracas/barracas_DefaultMaterial_Diffuse.png]
+[2025.04.03-00.20.05:769][966]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.04.03-00.20.05:769][966]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Maréo/Desktop/Taller de videojuegos ll/barracas/barracas_DefaultMaterial_Glossiness.png]
+[2025.04.03-00.20.05:771][966]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.04.03-00.20.05:771][966]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Maréo/Desktop/Taller de videojuegos ll/barracas/barracas_DefaultMaterial_Height.png]
+[2025.04.03-00.20.05:772][966]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.04.03-00.20.05:772][966]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Maréo/Desktop/Taller de videojuegos ll/barracas/barracas_DefaultMaterial_Normal.png]
+[2025.04.03-00.20.05:773][966]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.04.03-00.20.05:773][966]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Maréo/Desktop/Taller de videojuegos ll/barracas/barracas_DefaultMaterial_Specular.png]
+[2025.04.03-00.20.06:445][968]LogStreaming: Display: FlushAsyncLoading(615): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.03-00.20.06:463][969]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2025.04.03-00.20.06:809][970]LogTexture: Display: Building textures: /Game/Textures/barracas/barracas_DefaultMaterial_Diffuse.barracas_DefaultMaterial_Diffuse (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 115.583323 MB), EncodeSpeed: Fast
+[2025.04.03-00.20.07:063][970]LogTexture: Display: Building textures: /Game/Textures/barracas/barracas_DefaultMaterial_Height.barracas_DefaultMaterial_Height (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 112.583323 MB), EncodeSpeed: Fast
+[2025.04.03-00.20.07:098][970]LogInterchangePipeline: Display: Auto-detected normal map
+[2025.04.03-00.20.07:101][971]LogTexture: Display: Building textures: /Game/Textures/barracas/barracas_DefaultMaterial_Normal.barracas_DefaultMaterial_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 169.499988 MB), EncodeSpeed: Fast
+[2025.04.03-00.20.07:433][971]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Maréo/Deskt...eojuegos ll/barracas/barracas_DefaultMaterial_Diffuse.png]
+[2025.04.03-00.20.07:433][971]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.04.03-00.20.07:434][971]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Maréo/Deskt...eojuegos ll/barracas/barracas_DefaultMaterial_Height.png]
+[2025.04.03-00.20.07:434][971]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.04.03-00.20.07:434][971]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Maréo/Deskt...eojuegos ll/barracas/barracas_DefaultMaterial_Normal.png]
+[2025.04.03-00.20.07:434][971]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.04.03-00.20.07:438][971]LogTexture: Display: Building textures: /Game/Textures/barracas/barracas_DefaultMaterial_Glossiness.barracas_DefaultMaterial_Glossiness (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 112.583323 MB), EncodeSpeed: Fast
+[2025.04.03-00.20.07:442][972]LogTexture: Display: Building textures: /Game/Textures/barracas/barracas_DefaultMaterial_Specular.barracas_DefaultMaterial_Specular (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 112.583323 MB), EncodeSpeed: Fast
+[2025.04.03-00.20.07:796][972]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Maréo/Deskt...eojuegos ll/barracas/barracas_DefaultMaterial_Glossiness.png]
+[2025.04.03-00.20.07:796][972]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.04.03-00.20.07:797][972]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Maréo/Deskt...eojuegos ll/barracas/barracas_DefaultMaterial_Specular.png]
+[2025.04.03-00.20.07:962][972]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.04.03-00.20.07:962][972]LogInterchangeEngine: [Success] Import Done
+[2025.04.03-00.20.19:210][194]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.04.03-00.20.19:222][194]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.04.03-00.20.19:240][195]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.04.03-00.20.30:772][708]LogContentBrowser: Attempting asset rename: NewMaterial -> m_barracas
+[2025.04.03-00.20.30:774][708]LogContentBrowser: End creating deferred item NewMaterial
+[2025.04.03-00.20.33:030][726]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/m_barracas.m_barracas
+[2025.04.03-00.20.33:039][726]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_54
+[2025.04.03-00.20.33:310][726]LogSlate: The tab "MaterialEditor_Strata" attempted to spawn in layout 'Standalone_MaterialEditor_Layout_v14' but failed for some reason. It will not be displayed.
+[2025.04.03-00.20.33:770][726]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.03-00.20.33:770][726]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.03-00.20.33:770][726]MaterialEditorStats: Shader Count: 0
+[2025.04.03-00.20.33:770][726]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-00.20.33:983][728]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.03-00.20.33:984][728]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.03-00.20.33:984][728]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.03-00.20.33:984][728]MaterialEditorStats: Shader Count: 3
+[2025.04.03-00.20.33:984][728]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-00.20.34:107][729]MaterialEditorStats: Base pass shader: 164 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.04.03-00.20.34:107][729]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.03-00.20.34:107][729]MaterialEditorStats: Texture samplers: 1/16
+[2025.04.03-00.20.34:107][729]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.03-00.20.34:107][729]MaterialEditorStats: Shader Count: 4
+[2025.04.03-00.20.34:107][729]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-00.20.40:373][912]LogSlate: Window 'm_barracas' being destroyed
+[2025.04.03-00.20.45:605][420]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19714.685547
+[2025.04.03-00.20.45:709][430]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.03-00.20.45:709][430]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19714.781250, Update Interval: 337.662292
+[2025.04.03-00.21.19:694][244]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.03-00.21.19:694][244]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.03-00.21.19:694][244]MaterialEditorStats: Shader Count: 0
+[2025.04.03-00.21.19:694][244]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-00.21.21:719][437]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.03-00.21.21:719][437]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.03-00.21.21:719][437]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.03-00.21.21:719][437]MaterialEditorStats: Shader Count: 3
+[2025.04.03-00.21.21:719][437]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-00.21.21:924][456]MaterialEditorStats: Base pass shader: 166 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.04.03-00.21.21:924][456]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.03-00.21.21:924][456]MaterialEditorStats: Texture samplers: 1/16
+[2025.04.03-00.21.21:924][456]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.04.03-00.21.21:924][456]MaterialEditorStats: Shader Count: 4
+[2025.04.03-00.21.21:924][456]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-00.21.23:844][640]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.03-00.21.23:844][640]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.04.03-00.21.23:844][640]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.03-00.21.23:844][640]MaterialEditorStats: Shader Count: 0
+[2025.04.03-00.21.23:844][640]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-00.21.24:654][698]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.03-00.21.24:654][698]MaterialEditorStats: Texture samplers: 1/16
+[2025.04.03-00.21.24:654][698]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.04.03-00.21.24:654][698]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.03-00.21.24:654][698]MaterialEditorStats: Shader Count: 3
+[2025.04.03-00.21.24:654][698]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-00.21.24:852][716]MaterialEditorStats: Base pass shader: 174 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 2
+Sampler Limit: 32
+
+[2025.04.03-00.21.24:852][716]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.03-00.21.24:852][716]MaterialEditorStats: Texture samplers: 2/16
+[2025.04.03-00.21.24:852][716]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2025.04.03-00.21.24:852][716]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.03-00.21.24:852][716]MaterialEditorStats: Shader Count: 4
+[2025.04.03-00.21.24:852][716]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-00.21.32:990][427]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.03-00.21.32:990][427]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.04.03-00.21.32:990][427]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.03-00.21.32:990][427]MaterialEditorStats: Shader Count: 0
+[2025.04.03-00.21.32:990][427]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-00.21.34:297][536]MaterialEditorStats: Base pass shader: 179 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.04.03-00.21.34:297][536]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.03-00.21.34:297][536]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.03-00.21.34:297][536]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2025.04.03-00.21.34:297][536]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.03-00.21.34:297][536]MaterialEditorStats: Shader Count: 4
+[2025.04.03-00.21.34:297][536]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-00.21.42:600][280]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.03-00.21.42:600][280]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.04.03-00.21.42:600][280]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.03-00.21.42:601][280]MaterialEditorStats: Shader Count: 0
+[2025.04.03-00.21.42:601][280]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-00.21.43:456][341]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.03-00.21.43:456][341]MaterialEditorStats: Texture samplers: 3/16
+[2025.04.03-00.21.43:456][341]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.04.03-00.21.43:456][341]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.03-00.21.43:456][341]MaterialEditorStats: Shader Count: 3
+[2025.04.03-00.21.43:456][341]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-00.21.43:643][358]MaterialEditorStats: Base pass shader: 182 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.04.03-00.21.43:643][358]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.03-00.21.43:643][358]MaterialEditorStats: Texture samplers: 4/16
+[2025.04.03-00.21.43:643][358]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.04.03-00.21.43:643][358]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.03-00.21.43:643][358]MaterialEditorStats: Shader Count: 4
+[2025.04.03-00.21.43:644][358]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-00.22.01:303][972]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.03-00.22.01:303][972]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.04.03-00.22.01:303][972]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.03-00.22.01:303][972]MaterialEditorStats: Shader Count: 0
+[2025.04.03-00.22.01:303][972]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-00.22.02:106][ 35]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.03-00.22.02:106][ 35]MaterialEditorStats: Texture samplers: 4/16
+[2025.04.03-00.22.02:106][ 35]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.04.03-00.22.02:106][ 35]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.03-00.22.02:106][ 35]MaterialEditorStats: Shader Count: 3
+[2025.04.03-00.22.02:106][ 35]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-00.22.02:399][ 63]MaterialEditorStats: Base pass shader: 185 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2025.04.03-00.22.02:399][ 63]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.03-00.22.02:399][ 63]MaterialEditorStats: Texture samplers: 5/16
+[2025.04.03-00.22.02:399][ 63]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.04.03-00.22.02:399][ 63]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.03-00.22.02:399][ 63]MaterialEditorStats: Shader Count: 4
+[2025.04.03-00.22.02:399][ 63]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-00.22.12:901][975]LogMaterialEditor: Saving and Compiling material m_barracas
+[2025.04.03-00.22.13:227][975]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2025.04.03-00.22.15:131][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.04.03-00.22.15:148][975]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.03-00.22.15:240][975]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/m_barracas] ([1] browsable assets)...
+[2025.04.03-00.22.15:324][975]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/m_barracas.m_barracas]
+[2025.04.03-00.22.15:324][975]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/m_barracas]
+[2025.04.03-00.22.15:324][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/m_barracas" FILE="D:/Github/Taller2Parcial1/M1_Puzzles/Content/Materials/m_barracas.uasset" SILENT=true
+[2025.04.03-00.22.15:326][975]LogSavePackage: Moving output files for package: /Game/Materials/m_barracas
+[2025.04.03-00.22.15:326][975]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/m_barracas9EA1EC30492F39B25249119FD9605BFC.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Content/Materials/m_barracas.uasset'
+[2025.04.03-00.22.15:335][975]LogFileHelpers: InternalPromptForCheckoutAndSave took 186.809 ms (total: 9.63 sec)
+[2025.04.03-00.22.15:421][975]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.03-00.22.15:421][975]LogContentValidation: Enabled validators:
+[2025.04.03-00.22.15:421][975]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.03-00.22.15:421][975]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.03-00.22.15:421][975]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.03-00.22.15:421][975]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.03-00.22.15:421][975]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.03-00.22.15:421][975]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.03-00.22.15:421][975]AssetCheck: /Game/Materials/m_barracas Validating asset
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display: ================================================
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display: Total job queries 2139, among them cache hits 1103 (51.57%), DDC hits 144 (6.73%), Duplicates 35 (1.64%)
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display: Tracking 995 distinct input hashes that result in 279 distinct outputs (28.04%)
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display: RAM used: 211,12 KiB of 1,55 GiB budget. Usage: 0.01%
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display: Shaders Compiled: 851
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display: Jobs assigned 851, completed 851 (100%)
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display: Average time worker was idle: 195.39 s
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display: Time job spent in pending queue: average 0.13 s, longest 1.67 s
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display: Job execution time: average 1.18 s, max 4.09 s
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display: Job life time (pending + execution): average 1.31 s, max 4.24
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display: Shader code size: average 10,79 KiB, min 2,785 KiB, max 26,918 KiB
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 233.31 s
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display: Jobs were issued in 847 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display: Average processing rate: 3.65 jobs/sec
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display: Total thread time: 698,232 s
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display: Total thread preprocess time: 32,931 s
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display: Percentage time preprocessing: 4.72%
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display: Effective parallelization: 2.99 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   81 times, average 1.50 sec, max 1.99 sec, min 0.59 sec)
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   26 times, average 1.48 sec, max 1.64 sec, min 1.36 sec)
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   30 times, average 1.41 sec, max 2.04 sec, min 1.18 sec)
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled   27 times, average 1.24 sec, max 1.43 sec, min 1.12 sec)
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled   27 times, average 1.23 sec, max 1.41 sec, min 1.12 sec)
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 17.36% of total time (compiled   81 times, average 1.50 sec, max 1.99 sec, min 0.59 sec)
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.65% of total time (compiled   91 times, average 0.66 sec, max 0.88 sec, min 0.45 sec)
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display:                                            FDistortionMeshPS - 8.30% of total time (compiled   77 times, average 0.75 sec, max 1.03 sec, min 0.53 sec)
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display:                                                 FLumenCardPS - 8.20% of total time (compiled   88 times, average 0.65 sec, max 0.91 sec, min 0.40 sec)
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.24% of total time (compiled   88 times, average 0.57 sec, max 0.80 sec, min 0.36 sec)
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display: === Material stats ===
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display: Materials Translated:    412
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display: Material Total Translate Time: 0.23 s
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display: Material Translation Only: 0.12 s (54%)
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display: Material Cache Hits: 24 (6%)
+[2025.04.03-00.22.34:613][574]LogShaderCompilers: Display: ================================================
+[2025.04.03-00.22.46:601][683]LogStreaming: Display: FlushAsyncLoading(620): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.03-00.22.46:700][683]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Maréo/Desktop/Taller de videojuegos ll/barracas.fbx]
+[2025.04.03-00.22.48:219][683]LogSlate: Window 'Import Content' being destroyed
+[2025.04.03-00.22.48:265][683]LogInterchangeEngine: [Pending] Importing
+[2025.04.03-00.22.48:384][684]LogStreaming: Display: FlushAsyncLoading(621): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.03-00.22.48:463][686]LogStaticMesh: Display: Building static mesh barracas (Required Memory Estimate: 12.138676 MB)...
+[2025.04.03-00.22.48:502][686]LogStaticMesh: Adjacency [0.00s], tris: 7872, UVs 1
+[2025.04.03-00.22.48:515][686]LogStaticMesh: Clustering [0.01s]. Ratio: 1.032258
+[2025.04.03-00.22.48:516][686]LogStaticMesh: Leaves [0.00s]
+[2025.04.03-00.22.48:794][686]LogStaticMesh: Reduce [0.28s]
+[2025.04.03-00.22.48:929][686]LogStaticMesh: Fallback [0.14s], num tris: 2980
+[2025.04.03-00.22.48:932][686]LogStaticMesh: ConstrainClusters:
+[2025.04.03-00.22.48:932][686]LogStaticMesh:   Input: 127 Clusters, 15808 Triangles and 13837 Vertices
+[2025.04.03-00.22.48:932][686]LogStaticMesh:   Output without splits: 127 Clusters, 15808 Triangles and 13855 Vertices
+[2025.04.03-00.22.48:932][686]LogStaticMesh:   Output with splits: 127 Clusters, 15808 Triangles and 13855 Vertices
+[2025.04.03-00.22.48:933][686]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 127, Slow Path Clusters: 0, 1 Material: 127, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.04.03-00.22.48:936][686]LogStaticMesh: WritePages:
+[2025.04.03-00.22.48:936][686]LogStaticMesh:   Root: GPU size: 32140 bytes. 1 Pages. 32140.000 bytes per page (98.083% utilization).
+[2025.04.03-00.22.48:936][686]LogStaticMesh:   Streaming: GPU size: 144416 bytes. 2 Pages (2 with relative encoding). 72208.000 bytes per page (55.090% utilization).
+[2025.04.03-00.22.48:936][686]LogStaticMesh:   Page data disk size: 147708 bytes. Fixup data size: 600 bytes.
+[2025.04.03-00.22.48:936][686]LogStaticMesh:   Total GPU size: 176556 bytes, Total disk size: 148308 bytes.
+[2025.04.03-00.22.48:936][686]LogStaticMesh: Encode [0.01s]
+[2025.04.03-00.22.48:936][686]LogStaticMesh: Nanite build [0.44s]
+
+[2025.04.03-00.22.48:947][687]LogStaticMesh: Built static mesh [0.49s] /Game/Models/barracas.barracas
+[2025.04.03-00.22.49:047][688]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Maréo/Deskt...er de videojuegos ll/barracas.fbx]
+[2025.04.03-00.22.49:047][688]Interchange: Warning: [C:/Users/Maréo/Desktop/Taller de videojuegos ll/barracas.fbx : 'barracas', StaticMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.04.03-00.22.49:088][688]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.04.03-00.22.49:088][688]LogInterchangeEngine: [Success] Import Done
+[2025.04.03-00.22.56:917][853]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/barracas.barracas
+[2025.04.03-00.22.56:928][853]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_55
+[2025.04.03-00.23.14:550][757]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Models/barracas) ...
+[2025.04.03-00.23.14:562][757]LogMaterial: Display: Material /Game/Materials/m_barracas.m_barracas needed to have new flag set bUsedWithNanite !
+[2025.04.03-00.23.14:563][757]LogMaterial: Display: Material /Engine/Transient.m_barracas needed to have new flag set bUsedWithNanite !
+[2025.04.03-00.23.14:655][757]MaterialEditorStats: Texture samplers: 0/16
+[2025.04.03-00.23.14:655][757]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.04.03-00.23.14:655][757]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.03-00.23.14:655][757]MaterialEditorStats: Shader Count: 0
+[2025.04.03-00.23.14:655][757]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-00.23.14:751][758]MaterialEditorStats: Base pass shader: 185 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2025.04.03-00.23.14:751][758]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.03-00.23.14:751][758]MaterialEditorStats: Texture samplers: 5/16
+[2025.04.03-00.23.14:751][758]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.04.03-00.23.14:751][758]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.03-00.23.14:751][758]MaterialEditorStats: Shader Count: 10
+[2025.04.03-00.23.14:751][758]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-00.23.18:238][921]MaterialEditorStats: Base pass shader: 185 instructions
+Stats: Resources Used: 8
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2025.04.03-00.23.18:238][921]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.04.03-00.23.18:238][921]MaterialEditorStats: Nanite Compute Shader: 831 instructions
+Stats: Resources Used: 13
+Resource Limit: 64
+Samplers Used: 5
+Sampler Limit: 32
+
+[2025.04.03-00.23.18:238][921]MaterialEditorStats: Texture samplers: 5/16
+[2025.04.03-00.23.18:238][921]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.04.03-00.23.18:238][921]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.04.03-00.23.18:238][921]MaterialEditorStats: Shader Count: 15
+[2025.04.03-00.23.18:238][921]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.04.03-00.23.27:643][322]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2025.04.03-00.23.30:241][393]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2025.04.03-00.23.47:084][763]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/barracas.barracas
+[2025.04.03-00.23.47:085][763]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/barracas.barracas
+[2025.04.03-00.23.47:087][763]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/barracas.barracas as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_1444
+[2025.04.03-00.23.48:332][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.04.03-00.23.48:337][811]LogEditorActor: Deleted 0 Actors (0.062 secs)
+[2025.04.03-00.23.48:343][811]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/barracas.barracas
+[2025.04.03-00.23.48:343][811]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/barracas.barracas
+[2025.04.03-00.23.48:347][811]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/barracas.barracas as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_1446
+[2025.04.03-00.24.05:673][330]LogRenderer: Display: Virtual shadow map cache invalidated for light due to clipmap level count change
+[2025.04.03-00.24.32:927][222]Cmd: TRANSACTION UNDO
+[2025.04.03-00.24.32:927][222]LogEditorTransaction: Undo Move Elements
+[2025.04.03-00.24.33:281][222]Cmd: TRANSACTION UNDO
+[2025.04.03-00.24.33:282][222]LogEditorTransaction: Undo Move Elements
+[2025.04.03-00.24.33:550][222]Cmd: TRANSACTION UNDO
+[2025.04.03-00.24.33:550][222]LogEditorTransaction: Undo Scale Elements
+[2025.04.03-00.24.33:839][222]Cmd: TRANSACTION UNDO
+[2025.04.03-00.24.33:839][222]LogEditorTransaction: Undo Clicking on Elements
+[2025.04.03-00.24.42:996][395]Cmd: TRANSACTION UNDO
+[2025.04.03-00.24.42:996][395]LogEditorTransaction: Undo Place Objects
+[2025.04.03-00.24.43:400][395]Cmd: TRANSACTION UNDO
+[2025.04.03-00.24.43:400][395]LogEditorTransaction: Undo StaticMesh: Material changed
+[2025.04.03-00.25.03:577][110]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/barracas.barracas
+[2025.04.03-00.25.03:577][110]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/barracas.barracas
+[2025.04.03-00.25.03:578][110]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/barracas.barracas as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_1448
+[2025.04.03-00.25.04:707][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.04.03-00.25.04:714][161]LogEditorActor: Deleted 0 Actors (0.031 secs)
+[2025.04.03-00.25.04:721][161]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/barracas.barracas
+[2025.04.03-00.25.04:721][161]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/barracas.barracas
+[2025.04.03-00.25.04:725][161]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/barracas.barracas as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_1450
+[2025.04.03-00.25.34:655][ 17]LogShaderCompilers: Display: ================================================
+[2025.04.03-00.25.34:655][ 17]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.03-00.25.34:655][ 17]LogShaderCompilers: Display: Total job queries 2168, among them cache hits 1123 (51.80%), DDC hits 144 (6.64%), Duplicates 39 (1.80%)
+[2025.04.03-00.25.34:655][ 17]LogShaderCompilers: Display: Tracking 1000 distinct input hashes that result in 284 distinct outputs (28.40%)
+[2025.04.03-00.25.34:655][ 17]LogShaderCompilers: Display: RAM used: 213,12 KiB of 1,55 GiB budget. Usage: 0.01%
+[2025.04.03-00.25.34:655][ 17]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.03-00.25.34:655][ 17]LogShaderCompilers: Display: Shaders Compiled: 856
+[2025.04.03-00.25.34:655][ 17]LogShaderCompilers: Display: Jobs assigned 856, completed 856 (100%)
+[2025.04.03-00.25.34:655][ 17]LogShaderCompilers: Display: Average time worker was idle: 194.59 s
+[2025.04.03-00.25.34:655][ 17]LogShaderCompilers: Display: Time job spent in pending queue: average 0.13 s, longest 1.67 s
+[2025.04.03-00.25.34:655][ 17]LogShaderCompilers: Display: Job execution time: average 1.19 s, max 4.09 s
+[2025.04.03-00.25.34:655][ 17]LogShaderCompilers: Display: Job life time (pending + execution): average 1.32 s, max 4.24
+[2025.04.03-00.25.34:655][ 17]LogShaderCompilers: Display: Shader code size: average 10,831 KiB, min 2,785 KiB, max 26,918 KiB
+[2025.04.03-00.25.34:655][ 17]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 236.88 s
+[2025.04.03-00.25.34:655][ 17]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.04.03-00.25.34:655][ 17]LogShaderCompilers: Display: Jobs were issued in 852 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.04.03-00.25.34:655][ 17]LogShaderCompilers: Display: Average processing rate: 3.61 jobs/sec
+[2025.04.03-00.25.34:655][ 17]LogShaderCompilers: Display: Total thread time: 710,884 s
+[2025.04.03-00.25.34:655][ 17]LogShaderCompilers: Display: Total thread preprocess time: 33,42 s
+[2025.04.03-00.25.34:655][ 17]LogShaderCompilers: Display: Percentage time preprocessing: 4.70%
+[2025.04.03-00.25.34:655][ 17]LogShaderCompilers: Display: Effective parallelization: 3.00 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.04.03-00.25.34:655][ 17]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.04.03-00.25.34:655][ 17]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 2.81 sec, max 2.81 sec, min 2.81 sec)
+[2025.04.03-00.25.34:655][ 17]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 2.80 sec, max 2.80 sec, min 2.80 sec)
+[2025.04.03-00.25.34:655][ 17]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 2.39 sec, max 2.39 sec, min 2.39 sec)
+[2025.04.03-00.25.34:656][ 17]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 1.68 sec, max 2.32 sec, min 1.03 sec)
+[2025.04.03-00.25.34:656][ 17]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 1.65 sec, max 2.33 sec, min 0.97 sec)
+[2025.04.03-00.25.34:656][ 17]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.04.03-00.25.34:656][ 17]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 17.05% of total time (compiled   81 times, average 1.50 sec, max 1.99 sec, min 0.59 sec)
+[2025.04.03-00.25.34:656][ 17]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.49% of total time (compiled   91 times, average 0.66 sec, max 0.88 sec, min 0.45 sec)
+[2025.04.03-00.25.34:656][ 17]LogShaderCompilers: Display:                                            FDistortionMeshPS - 8.16% of total time (compiled   77 times, average 0.75 sec, max 1.03 sec, min 0.53 sec)
+[2025.04.03-00.25.34:656][ 17]LogShaderCompilers: Display:                                                 FLumenCardPS - 8.05% of total time (compiled   88 times, average 0.65 sec, max 0.91 sec, min 0.40 sec)
+[2025.04.03-00.25.34:656][ 17]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.11% of total time (compiled   88 times, average 0.57 sec, max 0.80 sec, min 0.36 sec)
+[2025.04.03-00.25.34:656][ 17]LogShaderCompilers: Display: === Material stats ===
+[2025.04.03-00.25.34:656][ 17]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.04.03-00.25.34:656][ 17]LogShaderCompilers: Display: Materials Translated:    414
+[2025.04.03-00.25.34:656][ 17]LogShaderCompilers: Display: Material Total Translate Time: 0.23 s
+[2025.04.03-00.25.34:656][ 17]LogShaderCompilers: Display: Material Translation Only: 0.12 s (54%)
+[2025.04.03-00.25.34:656][ 17]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.04.03-00.25.34:656][ 17]LogShaderCompilers: Display: Material Cache Hits: 24 (6%)
+[2025.04.03-00.25.34:656][ 17]LogShaderCompilers: Display: ================================================
+[2025.04.03-00.26.47:144][293]Cmd: DELETE
+[2025.04.03-00.26.47:144][293]Cmd: ACTOR DELETE
+[2025.04.03-00.26.47:177][293]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.03-00.26.47:203][293]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2025.04.03-00.26.47:211][293]LogEditorActor: Deleted 1 Actors (0.067 secs)
+[2025.04.03-00.26.55:705][536]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20084.871094
+[2025.04.03-00.26.55:881][541]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.03-00.26.55:881][541]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20085.013672, Update Interval: 356.028320
+[2025.04.03-00.27.19:221][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.04.03-00.27.19:225][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_1" FILE="D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Autosaves/Game/Levels/Level_1_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.04.03-00.27.19:808][684]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Level_1_Auto2
+[2025.04.03-00.27.19:809][684]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Level_1_Auto2EA8FF8404B9E0C82970DA48F8B6446C5.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Autosaves/Game/Levels/Level_1_Auto2.umap'
+[2025.04.03-00.27.19:811][684]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level_1' took 0.615
+[2025.04.03-00.27.19:811][684]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.615
+[2025.04.03-00.27.19:812][684]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/barracas/barracas_DefaultMaterial_Height] ([1] browsable assets)...
+[2025.04.03-00.27.19:842][684]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/barracas/barracas_DefaultMaterial_Height.barracas_DefaultMaterial_Height]
+[2025.04.03-00.27.19:842][684]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/barracas/barracas_DefaultMaterial_Height]
+[2025.04.03-00.27.19:844][684]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/barracas/barracas_DefaultMaterial_Height_Auto2
+[2025.04.03-00.27.19:844][684]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/barracas_DefaultMaterial_Height_E26DA25249FAC8CD3B18498711094EC6.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Autosaves/Game/Textures/barracas/barracas_DefaultMaterial_Height_Auto2.uasset'
+[2025.04.03-00.27.19:844][684]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/barracas/barracas_DefaultMaterial_Diffuse] ([1] browsable assets)...
+[2025.04.03-00.27.19:846][684]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/barracas/barracas_DefaultMaterial_Diffuse.barracas_DefaultMaterial_Diffuse]
+[2025.04.03-00.27.19:846][684]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/barracas/barracas_DefaultMaterial_Diffuse]
+[2025.04.03-00.27.19:850][684]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/barracas/barracas_DefaultMaterial_Diffuse_Auto2
+[2025.04.03-00.27.19:850][684]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/barracas_DefaultMaterial_Diffuse337F5BEF484EAF222D0CC6BB3C0C4C42.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Autosaves/Game/Textures/barracas/barracas_DefaultMaterial_Diffuse_Auto2.uasset'
+[2025.04.03-00.27.19:851][684]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/barracas/barracas_DefaultMaterial_Normal] ([1] browsable assets)...
+[2025.04.03-00.27.19:853][684]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/barracas/barracas_DefaultMaterial_Normal.barracas_DefaultMaterial_Normal]
+[2025.04.03-00.27.19:853][684]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/barracas/barracas_DefaultMaterial_Normal]
+[2025.04.03-00.27.19:857][684]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/barracas/barracas_DefaultMaterial_Normal_Auto2
+[2025.04.03-00.27.19:857][684]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/barracas_DefaultMaterial_Normal_E49FF6C045F58CD1D89B93B74F817E53.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Autosaves/Game/Textures/barracas/barracas_DefaultMaterial_Normal_Auto2.uasset'
+[2025.04.03-00.27.19:858][684]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/barracas/barracas_DefaultMaterial_Glossiness] ([1] browsable assets)...
+[2025.04.03-00.27.19:860][684]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/barracas/barracas_DefaultMaterial_Glossiness.barracas_DefaultMaterial_Glossiness]
+[2025.04.03-00.27.19:860][684]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/barracas/barracas_DefaultMaterial_Glossiness]
+[2025.04.03-00.27.19:862][684]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/barracas/barracas_DefaultMaterial_Glossiness_Auto2
+[2025.04.03-00.27.19:862][684]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/barracas_DefaultMaterial_GlossinAA928BA74B8F9DF01E6DCB8869EC3A64.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Autosaves/Game/Textures/barracas/barracas_DefaultMaterial_Glossiness_Auto2.uasset'
+[2025.04.03-00.27.19:862][684]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/barracas/barracas_DefaultMaterial_Specular] ([1] browsable assets)...
+[2025.04.03-00.27.19:864][684]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/barracas/barracas_DefaultMaterial_Specular.barracas_DefaultMaterial_Specular]
+[2025.04.03-00.27.19:864][684]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/barracas/barracas_DefaultMaterial_Specular]
+[2025.04.03-00.27.19:958][684]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Textures/barracas/barracas_DefaultMaterial_Specular_Auto2
+[2025.04.03-00.27.19:958][684]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/barracas_DefaultMaterial_SpeculaBDD7DC5745E16FB2E6E8EFB003F259FA.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Autosaves/Game/Textures/barracas/barracas_DefaultMaterial_Specular_Auto2.uasset'
+[2025.04.03-00.27.19:958][684]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/barracas] ([1] browsable assets)...
+[2025.04.03-00.27.20:482][684]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Models/barracas.barracas]
+[2025.04.03-00.27.20:482][684]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/barracas]
+[2025.04.03-00.27.20:483][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/barracas" FILE="D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Autosaves/Game/Models/barracas_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2025.04.03-00.27.20:557][684]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Models/barracas_Auto2
+[2025.04.03-00.27.20:557][684]LogSavePackage: Moving 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/barracas_Auto21B696B6A42ACD7F133A36AA64DCBA7D7.tmp' to 'D:/Github/Taller2Parcial1/M1_Puzzles/Saved/Autosaves/Game/Models/barracas_Auto2.uasset'
+[2025.04.03-00.27.20:557][684]LogFileHelpers: Auto-saving content packages took 0.746
+[2025.04.03-00.32.27:996][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.04.03-00.32.29:419][649]LogSlate: Window 'Delete Assets' being destroyed
+[2025.04.03-00.32.29:677][649]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2025.04.03-00.32.29:677][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-00.32.29:700][649]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Models/barracas.barracas
+	Asset Type: StaticMesh
+[2025.04.03-00.32.30:462][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.04.03-00.32.30:490][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.04.03-00.32.30:510][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.04.03-00.32.30:543][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.04.03-00.32.36:390][785]LogStreaming: Display: FlushAsyncLoading(622): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.03-00.32.36:520][785]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Maréo/Desktop/Taller de videojuegos ll/barrac.fbx]
+[2025.04.03-00.32.38:992][785]LogSlate: Window 'Import Content' being destroyed
+[2025.04.03-00.32.39:030][785]LogInterchangeEngine: [Pending] Importing
+[2025.04.03-00.32.39:293][787]LogStreaming: Display: FlushAsyncLoading(623): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.03-00.32.39:388][789]LogStaticMesh: Display: Building static mesh barrac (Required Memory Estimate: 26.929401 MB)...
+[2025.04.03-00.32.39:478][790]LogStaticMesh: Adjacency [0.00s], tris: 17472, UVs 1
+[2025.04.03-00.32.39:501][791]LogStaticMesh: Clustering [0.02s]. Ratio: 1.014598
+[2025.04.03-00.32.39:506][791]LogStaticMesh: Leaves [0.00s]
+[2025.04.03-00.32.39:852][804]LogStaticMesh: Reduce [0.35s]
+[2025.04.03-00.32.40:061][811]LogStaticMesh: Fallback [0.21s], num tris: 4052
+[2025.04.03-00.32.40:069][811]LogStaticMesh: ConstrainClusters:
+[2025.04.03-00.32.40:069][811]LogStaticMesh:   Input: 283 Clusters, 35606 Triangles and 31828 Vertices
+[2025.04.03-00.32.40:069][811]LogStaticMesh:   Output without splits: 283 Clusters, 35606 Triangles and 31863 Vertices
+[2025.04.03-00.32.40:069][811]LogStaticMesh:   Output with splits: 284 Clusters, 35606 Triangles and 31863 Vertices
+[2025.04.03-00.32.40:071][811]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 284, Slow Path Clusters: 0, 1 Material: 284, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.04.03-00.32.40:078][812]LogStaticMesh: WritePages:
+[2025.04.03-00.32.40:078][812]LogStaticMesh:   Root: GPU size: 31060 bytes. 1 Pages. 31060.000 bytes per page (94.788% utilization).
+[2025.04.03-00.32.40:078][812]LogStaticMesh:   Streaming: GPU size: 373036 bytes. 3 Pages (3 with relative encoding). 124345.336 bytes per page (94.868% utilization).
+[2025.04.03-00.32.40:079][812]LogStaticMesh:   Page data disk size: 330944 bytes. Fixup data size: 1376 bytes.
+[2025.04.03-00.32.40:079][812]LogStaticMesh:   Total GPU size: 404096 bytes, Total disk size: 332320 bytes.
+[2025.04.03-00.32.40:079][812]LogStaticMesh: Encode [0.02s]
+[2025.04.03-00.32.40:079][812]LogStaticMesh: Nanite build [0.60s]
+
+[2025.04.03-00.32.40:095][812]LogStaticMesh: Built static mesh [0.71s] /Game/Models/barrac.barrac
+[2025.04.03-00.32.40:313][814]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Maréo/Deskt...er de videojuegos ll/barrac.fbx]
+[2025.04.03-00.32.40:313][814]Interchange: Warning: [C:/Users/Maréo/Desktop/Taller de videojuegos ll/barrac.fbx : 'barrac', StaticMesh] No smoothing group information was found for this mesh 'Mesh' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.04.03-00.32.40:340][814]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.04.03-00.32.40:340][814]LogInterchangeEngine: [Success] Import Done
+[2025.04.03-00.32.45:008][963]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/barrac.barrac
+[2025.04.03-00.32.45:008][963]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/barrac.barrac
+[2025.04.03-00.32.45:010][963]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/barrac.barrac as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_1452
+[2025.04.03-00.32.46:621][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.04.03-00.32.46:626][ 25]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2025.04.03-00.32.46:632][ 25]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/barrac.barrac
+[2025.04.03-00.32.46:632][ 25]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Models/barrac.barrac
+[2025.04.03-00.32.46:635][ 25]LogActorFactory: Actor Factory spawned StaticMesh /Game/Models/barrac.barrac as actor: StaticMeshActor /Game/Levels/Level_1.Level_1:PersistentLevel.StaticMeshActor_1454
+[2025.04.03-00.33.28:150][361]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20477.441406
+[2025.04.03-00.33.28:310][369]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.03-00.33.28:310][369]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20477.576172, Update Interval: 318.660858
+[2025.04.03-00.34.16:575][976]Cmd: TRANSACTION UNDO
+[2025.04.03-00.34.16:576][976]LogEditorTransaction: Undo Clicking on Elements
+[2025.04.03-00.34.17:006][980]Cmd: TRANSACTION UNDO
+[2025.04.03-00.34.17:006][980]LogEditorTransaction: Undo Clicking on Elements
+[2025.04.03-00.34.56:551][111]Cmd: TRANSACTION UNDO
+[2025.04.03-00.34.56:551][111]LogEditorTransaction: Undo Scale Elements
+[2025.04.03-00.34.56:919][116]Cmd: TRANSACTION UNDO
+[2025.04.03-00.34.56:919][116]LogEditorTransaction: Undo Scale Elements
+[2025.04.03-00.35.42:736][413]Cmd: TRANSACTION UNDO
+[2025.04.03-00.35.42:736][413]LogEditorTransaction: Undo Move Elements
+[2025.04.03-00.35.43:435][436]Cmd: TRANSACTION UNDO
+[2025.04.03-00.35.43:435][436]LogEditorTransaction: Undo Scale Elements
+[2025.04.03-00.37.18:923][360]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.03-00.37.18:935][360]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.03-00.37.18:935][360]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2025.04.03-00.37.19:145][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.210046s)
+[2025.04.03-00.37.19:145][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.210103s)
+[2025.04.03-00.37.19:168][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.04.03-00.37.19:173][360]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.04.03-00.37.19:175][360]LogPlayLevel: PIE: World Init took: (0.002236s)
+[2025.04.03-00.37.19:177][360]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2025.04.03-00.37.19:177][360]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.03-00.37.19:177][360]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.03-00.37.19:177][360]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.03-00.37.19:177][360]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.03-00.37.19:177][360]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.03-00.37.19:177][360]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.03-00.37.19:177][360]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.03-00.37.19:177][360]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.03-00.37.19:177][360]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.03-00.37.19:177][360]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.03-00.37.19:177][360]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.03-00.37.19:179][360]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.03-00.37.19:203][360]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (3- High Definition Audio Device)
+[2025.04.03-00.37.19:204][360]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.03-00.37.19:204][360]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.03-00.37.19:204][360]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.03-00.37.19:205][360]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2025.04.03-00.37.19:205][360]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2025.04.03-00.37.19:207][360]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2025.04.03-00.37.19:207][360]LogInit: FAudioDevice initialized with ID 32.
+[2025.04.03-00.37.19:207][360]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2025.04.03-00.37.19:207][360]LogAudio: Display: Audio Device (ID: 32) registered with world 'Level_1'.
+[2025.04.03-00.37.19:207][360]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2025.04.03-00.37.19:213][360]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.03-00.37.19:415][360]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2025.04.02-18.37.19
+[2025.04.03-00.37.19:417][360]LogWorld: Bringing up level for play took: 0.086773
+[2025.04.03-00.37.19:419][360]LogOnline: OSS: Created online subsystem instance for: :Context_87
+[2025.04.03-00.37.19:453][360]PIE: Server logged in
+[2025.04.03-00.37.19:454][360]PIE: Play in editor total start time 0,521 seconds.
+[2025.04.03-00.37.19:498][360]LogAudio: Warning: Detected orphaned looping sound 'SC_AbandonedFactory'.
+[2025.04.03-00.37.19:886][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.04.03-00.37.23:438][420]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Levels/UEDPIE_0_Pol took (less than) 28.78 ms
+[2025.04.03-00.37.53:586][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.03-00.37.53:586][350]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2025.04.03-00.37.53:588][350]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.04.03-00.37.53:603][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-00.37.53:620][350]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.03-00.37.53:631][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-00.37.53:658][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.03-00.37.53:662][350]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2025.04.03-00.37.53:662][350]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2025.04.03-00.37.53:664][350]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2025.04.03-00.37.53:687][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.04.03-00.37.53:812][351]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2025.04.03-00.37.53:836][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.04.03-00.37.54:934][362]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.03-00.37.54:942][362]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.03-00.37.54:943][362]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2025.04.03-00.37.55:153][362]LogPlayLevel: PIE: StaticDuplicateObject took: (0.210108s)
+[2025.04.03-00.37.55:153][362]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.210147s)
+[2025.04.03-00.37.55:176][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.04.03-00.37.55:178][362]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.04.03-00.37.55:180][362]LogPlayLevel: PIE: World Init took: (0.002327s)
+[2025.04.03-00.37.55:181][362]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2025.04.03-00.37.55:181][362]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.03-00.37.55:181][362]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.03-00.37.55:181][362]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.03-00.37.55:181][362]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.03-00.37.55:181][362]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.03-00.37.55:181][362]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.03-00.37.55:181][362]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.03-00.37.55:181][362]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.03-00.37.55:182][362]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.03-00.37.55:182][362]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.03-00.37.55:182][362]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.03-00.37.55:184][362]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.03-00.37.55:204][362]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (3- High Definition Audio Device)
+[2025.04.03-00.37.55:204][362]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.03-00.37.55:204][362]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.03-00.37.55:204][362]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.03-00.37.55:204][362]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2025.04.03-00.37.55:204][362]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2025.04.03-00.37.55:207][362]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2025.04.03-00.37.55:207][362]LogInit: FAudioDevice initialized with ID 33.
+[2025.04.03-00.37.55:207][362]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2025.04.03-00.37.55:207][362]LogAudio: Display: Audio Device (ID: 33) registered with world 'Level_1'.
+[2025.04.03-00.37.55:207][362]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2025.04.03-00.37.55:210][362]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.03-00.37.55:397][362]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2025.04.02-18.37.55
+[2025.04.03-00.37.55:398][362]LogWorld: Bringing up level for play took: 0.082193
+[2025.04.03-00.37.55:401][362]LogOnline: OSS: Created online subsystem instance for: :Context_88
+[2025.04.03-00.37.55:432][362]PIE: Server logged in
+[2025.04.03-00.37.55:433][362]PIE: Play in editor total start time 0,491 seconds.
+[2025.04.03-00.37.55:470][362]LogAudio: Warning: Detected orphaned looping sound 'SC_AbandonedFactory'.
+[2025.04.03-00.37.55:754][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.04.03-00.37.58:515][410]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Levels/UEDPIE_0_Pol took (less than) 23.91 ms
+[2025.04.03-00.38.01:713][481]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2025.04.03-00.38.02:487][498]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Levels/UEDPIE_0_Pol took (less than) 28.07 ms
+[2025.04.03-00.38.57:934][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.04.03-00.39.07:058][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.03-00.39.07:058][550]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2025.04.03-00.39.07:059][550]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.04.03-00.39.07:078][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-00.39.07:082][550]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.03-00.39.07:091][550]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-00.39.07:114][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.03-00.39.07:114][550]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2025.04.03-00.39.07:114][550]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2025.04.03-00.39.07:116][550]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2025.04.03-00.39.07:144][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.04.03-00.39.07:267][551]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2025.04.03-00.39.07:291][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.04.03-00.39.24:445][ 42]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.03-00.39.24:454][ 42]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.03-00.39.24:454][ 42]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2025.04.03-00.39.24:663][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.208200s)
+[2025.04.03-00.39.24:663][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.208236s)
+[2025.04.03-00.39.24:686][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.04.03-00.39.24:688][ 42]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.04.03-00.39.24:690][ 42]LogPlayLevel: PIE: World Init took: (0.002175s)
+[2025.04.03-00.39.24:691][ 42]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2025.04.03-00.39.24:691][ 42]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.03-00.39.24:691][ 42]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.03-00.39.24:691][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.03-00.39.24:691][ 42]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.03-00.39.24:691][ 42]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.03-00.39.24:691][ 42]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.03-00.39.24:691][ 42]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.03-00.39.24:691][ 42]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.03-00.39.24:691][ 42]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.03-00.39.24:691][ 42]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.03-00.39.24:691][ 42]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.03-00.39.24:694][ 42]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.03-00.39.24:714][ 42]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (3- High Definition Audio Device)
+[2025.04.03-00.39.24:714][ 42]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.03-00.39.24:714][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.03-00.39.24:714][ 42]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.03-00.39.24:715][ 42]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2025.04.03-00.39.24:715][ 42]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2025.04.03-00.39.24:719][ 42]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2025.04.03-00.39.24:719][ 42]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2025.04.03-00.39.24:719][ 42]LogInit: FAudioDevice initialized with ID 34.
+[2025.04.03-00.39.24:719][ 42]LogAudio: Display: Audio Device (ID: 34) registered with world 'Level_1'.
+[2025.04.03-00.39.24:719][ 42]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2025.04.03-00.39.24:722][ 42]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.03-00.39.24:909][ 42]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2025.04.02-18.39.24
+[2025.04.03-00.39.24:910][ 42]LogWorld: Bringing up level for play took: 0.082888
+[2025.04.03-00.39.24:913][ 42]LogOnline: OSS: Created online subsystem instance for: :Context_89
+[2025.04.03-00.39.24:943][ 42]PIE: Server logged in
+[2025.04.03-00.39.24:944][ 42]PIE: Play in editor total start time 0,49 seconds.
+[2025.04.03-00.39.24:980][ 42]LogAudio: Warning: Detected orphaned looping sound 'SC_AbandonedFactory'.
+[2025.04.03-00.39.25:408][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2025.04.03-00.39.28:038][ 93]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Levels/UEDPIE_0_Pol took (less than) 23.00 ms
+[2025.04.03-00.39.29:407][121]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20838.886719
+[2025.04.03-00.39.29:652][126]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.03-00.39.29:652][126]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20839.082031, Update Interval: 323.147064
+[2025.04.03-00.39.56:523][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.03-00.39.56:523][ 31]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2025.04.03-00.39.56:525][ 31]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.04.03-00.39.56:542][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-00.39.56:546][ 31]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.03-00.39.56:554][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-00.39.56:578][ 31]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.03-00.39.56:578][ 31]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2025.04.03-00.39.56:578][ 31]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2025.04.03-00.39.56:580][ 31]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2025.04.03-00.39.56:586][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.03-00.39.56:607][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.04.03-00.39.56:726][ 32]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2025.04.03-00.39.56:752][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2025.04.03-00.40.05:074][160]Cmd: DELETE
+[2025.04.03-00.40.05:075][160]Cmd: ACTOR DELETE
+[2025.04.03-00.40.05:103][160]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.04.03-00.40.05:131][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.04.03-00.40.05:134][160]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2025.04.03-00.40.08:782][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.04.03-00.40.10:108][228]LogSlate: Window 'Delete Assets' being destroyed
+[2025.04.03-00.40.10:143][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.04.03-00.40.10:169][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.04.03-00.40.10:193][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.04.03-00.40.25:850][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.04.03-00.40.27:450][696]LogSlate: Window 'Delete Assets' being destroyed
+[2025.04.03-00.40.27:620][696]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Materials/m_barracas.m_barracas
+	Asset Type: Material
+[2025.04.03-00.40.28:056][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.04.03-00.40.28:083][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.04.03-00.40.28:105][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.04.03-00.42.00:194][425]Cmd: DUPLICATE
+[2025.04.03-00.42.00:194][425]Cmd: ACTOR DUPLICATE
+[2025.04.03-00.43.19:532][ 89]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.04.03-00.43.19:542][ 89]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.04.03-00.43.19:542][ 89]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_1
+[2025.04.03-00.43.19:740][ 89]LogPlayLevel: PIE: StaticDuplicateObject took: (0.198410s)
+[2025.04.03-00.43.19:740][ 89]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_1.Level_1 to /Game/Levels/UEDPIE_0_Level_1.Level_1 (0.198454s)
+[2025.04.03-00.43.19:764][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.04.03-00.43.19:771][ 89]LogChaosDD: Creating Chaos Debug Draw Scene for world Level_1
+[2025.04.03-00.43.19:773][ 89]LogPlayLevel: PIE: World Init took: (0.001976s)
+[2025.04.03-00.43.19:774][ 89]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2025.04.03-00.43.19:774][ 89]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.03-00.43.19:774][ 89]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.03-00.43.19:774][ 89]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.03-00.43.19:774][ 89]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.03-00.43.19:774][ 89]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.03-00.43.19:774][ 89]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.03-00.43.19:774][ 89]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.03-00.43.19:774][ 89]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.03-00.43.19:774][ 89]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.03-00.43.19:774][ 89]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.03-00.43.19:774][ 89]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.03-00.43.19:777][ 89]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.03-00.43.19:799][ 89]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (3- High Definition Audio Device)
+[2025.04.03-00.43.19:799][ 89]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.03-00.43.19:799][ 89]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.03-00.43.19:799][ 89]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.03-00.43.19:800][ 89]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2025.04.03-00.43.19:800][ 89]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2025.04.03-00.43.19:802][ 89]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2025.04.03-00.43.19:802][ 89]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2025.04.03-00.43.19:802][ 89]LogInit: FAudioDevice initialized with ID 35.
+[2025.04.03-00.43.19:802][ 89]LogAudio: Display: Audio Device (ID: 35) registered with world 'Level_1'.
+[2025.04.03-00.43.19:802][ 89]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2025.04.03-00.43.19:805][ 89]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.04.03-00.43.19:986][ 89]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_1.Level_1 up for play (max tick rate 0) at 2025.04.02-18.43.19
+[2025.04.03-00.43.19:987][ 89]LogWorld: Bringing up level for play took: 0.078503
+[2025.04.03-00.43.19:990][ 89]LogOnline: OSS: Created online subsystem instance for: :Context_90
+[2025.04.03-00.43.20:019][ 89]PIE: Server logged in
+[2025.04.03-00.43.20:020][ 89]PIE: Play in editor total start time 0,478 seconds.
+[2025.04.03-00.43.20:055][ 89]LogAudio: Warning: Detected orphaned looping sound 'SC_AbandonedFactory'.
+[2025.04.03-00.43.20:514][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.04.03-00.43.23:712][134]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Levels/UEDPIE_0_Pol took (less than) 21.55 ms
+[2025.04.03-00.43.43:551][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.03-00.43.43:551][581]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_1
+[2025.04.03-00.43.43:553][581]LogWorld: UWorld::CleanupWorld for Level_1, bSessionEnded=true, bCleanupResources=true
+[2025.04.03-00.43.43:572][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-00.43.43:576][581]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.04.03-00.43.43:585][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.03-00.43.43:609][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.03-00.43.43:613][581]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2025.04.03-00.43.43:613][581]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2025.04.03-00.43.43:615][581]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2025.04.03-00.43.43:636][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.04.03-00.43.43:748][582]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2025.04.03-00.43.43:772][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
